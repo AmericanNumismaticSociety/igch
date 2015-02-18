@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2064"><h1 property="dcterms:title" lang="en">IGCH 2064</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0489">490 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0479">480 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">37.831704</span>
+         <span property="geo:long">15.259824</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2064 Schisò (anc. Naxus), 1853 
+(932)
+    Burial: 490-80 B.C. (K)
+    Contents: c. 26 AR. Pot hoard
+    <a href="http://nomisma.org/id/rhegium" rel="nmo:hasMint" target="_blank">Rhegium (lion hd./calf hd.)</a>
+         <a href="http://nomisma.org/id/zancle" rel="nmo:hasMint" target="_blank">Zancle: dr. (rev. shell in incuse square) </a>
+         <a href="http://nomisma.org/id/naxus" rel="nmo:hasMint" target="_blank">Naxus: dr.</a>
+    Disposition: dispersed
+    Pogwisch, BullInst 1853, p. 158 (cf. Friedländer, 
+        ZfN 1882, pp. 103-4)
+    Cahn, Naxos, p. 85
+</pre>
+   </div></div>

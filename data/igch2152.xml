@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2152"><h1 property="dcterms:title" lang="en">IGCH 2152</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0219">220 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">37.5883333333</span>
+         <span property="geo:long">12.8261111111</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2152 Selinunte, 1876
+    Burial: c. 300 B.C. or c. 220 (K) 
+    Contents: 16 AR, I AE
+        Pegasi
+    <a href="http://nomisma.org/id/corinth" rel="nmo:hasMint" target="_blank">Corinth: 7 (incl. Per. V with Γ, Ι, ΑΛ, ΑΡ) </a>
+         <a href="http://nomisma.org/id/ambracia" rel="nmo:hasMint" target="_blank">Ambracia: 1 (as Ravel 176)</a>
+         <a href="http://nomisma.org/id/anactorium" rel="nmo:hasMint" target="_blank">Anactorium: 2 (1 altar and ΔΩ)</a>
+         <a href="http://nomisma.org/id/leucas" rel="nmo:hasMint" target="_blank">Leucas: 3 (caduceus [2]; stylis [1]) </a>
+         <a href="http://nomisma.org/id/thyrrheium" rel="nmo:hasMint" target="_blank">Thyrrheium: 2 (ear-ring)</a>
+    Unc.: AE
+    <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Rome: 1 quadrig. (legend incuse)</a>
+    Disposition: Palermo
+    NSc 1876, p. 15
+    Tusa Cutroni, AIIN 1956, p. 206
+    This association of a quadrig. (not before 
+        c. 230 B.C.) with a group of pegasi 
+        terminating c. 300 B.C. is suspect
+</pre>
+   </div></div>

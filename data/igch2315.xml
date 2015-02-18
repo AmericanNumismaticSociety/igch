@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2315"><h1 property="dcterms:title" lang="en">IGCH 2315</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0399">400 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">42.13</span>
+         <span property="geo:long">3.11722222222</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2315 Ampurias (= Empuries, anc. Em-
+(387)     poriae), 1926
+    Burial: 4th cent. B.C. (Guadan)
+    Contents: 894 AR. Pot hoard from excava-
+        tions
+    <a href="http://nomisma.org/id/emporiae" rel="nmo:hasMint" target="_blank">Emporiae: 702 (Athenian type) 
+            1 (other type)</a>
+    Unc. Spanish: 4 fr.
+    <a href="http://nomisma.org/id/massalia" rel="nmo:hasMint" target="_blank">Massalia?: 2 fr. (types as Auriol) </a>
+    Unc.: remainder
+    Disposition: Barcelona
+    Amoros, D'una troballa de monedes emporitanes 
+        (Barcelona, 1933), pp. 1-24; MEAD, pp.
+        48-9
+        de Guadan, MPER, pp. 132-6
+</pre>
+   </div></div>

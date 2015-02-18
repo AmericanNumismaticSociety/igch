@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1986"><h1 property="dcterms:title" lang="en">IGCH 1986</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0264">265 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0259">260 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">41.7471</span>
+         <span property="geo:long">14.3867</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1986 Pietrabbondante (anc. Bovianum 
+(816)     Vetus), Samnium, 1899
+    Burial: c. 265-260 B.C. (Crawford) 
+    Contents: 273 AE
+    <a href="http://nomisma.org/id/aquinum" rel="nmo:hasMint" target="_blank">Aquinum: 1</a>
+         <a href="http://nomisma.org/id/aesernia" rel="nmo:hasMint" target="_blank">Aesernia: 13</a>
+         <a href="http://nomisma.org/id/cales" rel="nmo:hasMint" target="_blank">Cales: 25 </a>
+         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis: 126</a>
+         <a href="http://nomisma.org/id/nola" rel="nmo:hasMint" target="_blank">Nola: 3 </a>
+         <a href="http://nomisma.org/id/suessa_aurunca" rel="nmo:hasMint" target="_blank">Suessa: 16 </a>
+         <a href="http://nomisma.org/id/teanum_sidicinum" rel="nmo:hasMint" target="_blank">Teanum: 1</a>
+    Unc.: 69 (mostly <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis</a> or <a href="http://nomisma.org/id/cales" rel="nmo:hasMint" target="_blank">Cales</a>) 
+    <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: 19 (see Crawford)</a>
+    Disposition: Naples
+† Gabrici, NSc 1900, pp. 645-56, illus. 
+    Thomsen, ERC I, p. 116
+    Crawford, RRCH 24
+</pre>
+   </div></div>

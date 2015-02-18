@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0979"><h1 property="dcterms:title" lang="en">IGCH 0979</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">42.54527778</span>
+      <span property="geo:long">25.99388889</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+979 Korten, just N of Nova Zagora, Bul-
+    garia, 1959
+    Burial: 1st cent. B.C. (T)
+    Contents: 50 AR
+    <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: spread-flan tetradr.</a>
+         <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: den. (1st cent.)</a>
+    Disposition: Nova Zagora 1 Thasos, 4 den.
+    Gerasimov, BIAB B 25 (1962), p. 230
+</pre>
+   </div></div>

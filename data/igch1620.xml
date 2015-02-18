@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1620"><h1 property="dcterms:title" lang="en">IGCH 1620</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0049">50 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">33.51555556</span>
+      <span property="geo:long">36.29388889</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1620 Damascus ?, Coelesyria, 1940 
+    Burial: c. 100-50 B.C. (Westermark) 
+    Contents: 68 AE
+    Antiochus VII: Jerusalem 1 (as Rois de 
+        Syrie 1166)
+    Antiochus incertus: 1
+    <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre: 25 (as BMC 251)</a> 
+         <a href="http://nomisma.org/id/sidon" rel="nmo:hasMint" target="_blank">Sidon: 1 (as BMC 91)</a>
+    Judas Aristobulus: a (as BMC 1 ff.) 
+    Alexander Jannaeus: 1 (as BMC 30 f.) 
+    Unc. Hasmonaeans: 9 
+    Unc.: 28
+    Disposition: dispersed
+    Information from H. Seyrig
+</pre>
+   </div></div>

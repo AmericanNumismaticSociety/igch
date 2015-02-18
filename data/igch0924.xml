@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0924"><h1 property="dcterms:title" lang="en">IGCH 0924</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0124">125 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">42.18305556</span>
+      <span property="geo:long">26.47027778</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+924 Strojno (formerly Sveti Ilija), c. 30 km. 
+    S of Jambol, Bulgaria, 1961
+    Burial: c. 125-100 B.C.? (T) 
+    Contents: 193 AR. Pot hoard
+    <a href="http://nomisma.org/id/maroneia" rel="nmo:hasMint" target="_blank">Maroneia: 60 spread-flan tetradr.</a> 
+         <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint" target="_blank">Macedonia, 1st Region: 3 tetradr.</a>
+         <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 126 spread-flan tetradr. (18 bar-
+        baric)</a>
+         <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Athens:</a> 4 New Style tetradr.
+    Disposition: Jambol
+    Gerasimov, BIAB 26 (1963), p. 265
+</pre>
+   </div></div>

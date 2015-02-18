@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:oa="http://www.w3.org/ns/oa#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:nm="http://nomisma.org/id/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:void="http://rdfs.org/ns/void#">
+	<void:dataSet rdf:about="http://coinhoards.org/">
+		<dcterms:title>Inventory of Greek Coin Hoards</dcterms:title>
+		<dcterms:description>Data from the American Numismatic Society-published Inventory of Greek Coin Hoards (1973).</dcterms:description>
+		<dcterms:publisher>American Numismatic Society</dcterms:publisher>
+		<dcterms:license rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"/>
+		<void:uriSpace>http://coinhoards.org/id/</void:uriSpace>
+		<void:dataDump rdf:resource="http://coinhoards.org/nomisma.rdf"/>
+	</void:dataSet>
+</rdf:RDF>

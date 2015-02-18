@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1614"><h1 property="dcterms:title" lang="en">IGCH 1614</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0073">74 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">32.2775</span>
+         <span property="geo:long">35.1966666667</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1614 Samaria-Sebaste, Samaria, 1910 
+(901)
+    Burial: after 74 B.C. (Kadman)
+    Contents: 1 AR, 22 AE. From excavations 
+    Antiochus VII: 1 tetradr. (<a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre</a>)
+    <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre: 22 AE (latest legible date 75/4 B.C.)</a> 
+    Disposition: unknown
+    Harvard Excavations at Samaria I (Cambridge, 
+        Mass., 1924), pp. 52, 253, 261, 264 
+    Kadman, INCJ, hd. 11
+</pre>
+   </div></div>

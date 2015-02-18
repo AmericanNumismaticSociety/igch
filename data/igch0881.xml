@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0881"><h1 property="dcterms:title" lang="en">IGCH 0881</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0149">150 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">42.6580555556</span>
+         <span property="geo:long">27.7347222222</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+881 Nesebâr (anc. Mesembria) environs,
+    c. 40 km. NE of Burgas, Bulgaria, 1935 
+    Burial: 3rd cent. B.C. or later (T)
+    Contents: 1 AR, 40 AE
+    <a href="http://nomisma.org/id/apollonia_pontica" rel="nmo:hasMint" target="_blank">Apollonia Pontica: 1 tetrob.</a>
+         <a href="http://nomisma.org/id/mesembria" rel="nmo:hasMint" target="_blank">Mesembria: 40 AE</a>
+    Disposition: Burgas coll.
+    Gerasimov, BIAB 11 (1937), p. 319
+</pre>
+   </div></div>

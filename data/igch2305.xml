@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2305"><h1 property="dcterms:title" lang="en">IGCH 2305</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">36.46619</span>
+         <span property="geo:long">9.249687</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2305 Teboursouk, 100 km. SW of Tunis, 
+(1073)     Tunisia, 1903
+    Burial: 2nd-1st cent. B.C. (Jenkins) 
+    Contents: 1000 AE
+    Carthage: <a href="http://nomisma.org/id/siculo_punic" rel="nmo:hasMint" target="_blank">Sicilian mint (as SNGCop. 102, 
+        120 overstruck; perhaps also as 94, 
+        107)</a>
+            <a href="http://nomisma.org/id/sardinia" rel="nmo:hasMint" target="_blank">Sardinian mint (as SNGCop.
+        144)</a>
+         <a href="http://nomisma.org/id/numidia" rel="nmo:hasMint" target="_blank">Numidia (Massinissa and successors): AE 
+        (some ctmk.: Ammon hd.), 1 PL </a>
+    Flans
+    Disposition: Tunis (Bardo) some
+    BCTH 1904, p. cxcv
+    Comm. de Bray, Bulletin de la Société archéologique 
+        de Sousse 1907, pp. 95-7 (inexact data) 
+    AA 1909, p. 204
+</pre>
+   </div></div>

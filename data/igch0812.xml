@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0812"><h1 property="dcterms:title" lang="en">IGCH 0812</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0329">330 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">43.6183333333</span>
+         <span property="geo:long">27.1011111111</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+812 Kaolinovo, c. 60 km. E of Sumen, 
+    Bulgaria, 1965
+    Burial: late 4th cent. B.C. (T)
+    Contents: 28 AR. Pot hoard
+    <a href="http://nomisma.org/id/istrus" rel="nmo:hasMint" target="_blank">Istrus: dr.</a>
+    Disposition: V. Haralanov, Sumen
+    Gerasimov, BIAB 29 (1966), p. 212; SCN 5 
+        (1971), p. 19
+</pre>
+   </div></div>

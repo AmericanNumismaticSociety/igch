@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0569"><h1 property="dcterms:title" lang="en">IGCH 0569</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0129">130 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">44.2994444444</span>
+         <span property="geo:long">15.8444444444</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+569 Gračac, Croatia, Yugoslavia, 1925 
+    Burial: late 2nd cent. B.C. (T)
+    Contents: 563 AE
+    <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Ptolemy III: 1</a>
+         <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Ptolemy IV: 1</a>
+         <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Ptolemy VI: 4</a> 
+         <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Ptolemy VIII: 3 </a>
+         <a href="http://nomisma.org/id/carthage" rel="nmo:hasMint" target="_blank">Carthage: 127</a>
+         <a href="http://nomisma.org/id/numidia" rel="nmo:hasMint" target="_blank">Numidia: 203</a>
+    Castulo, Tarraconensis: 3
+    Aes rude: 213 
+    Aes signatum 8
+    Disposition: Zagreb
+    Klemenc, Numismatika Zagreb 2-4 (1934-6), 
+        pp. 126-7, 133
+    Information from B. Saria
+</pre>
+   </div></div>

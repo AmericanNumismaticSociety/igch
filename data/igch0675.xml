@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0675"><h1 property="dcterms:title" lang="en">IGCH 0675</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">44.72805556</span>
+      <span property="geo:long">25.86</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+675 Cojeasca, c. 40 km. NNW of Bucha-
+(257)     rest, Rumania, 1936
+    Burial: 1st cent. B.C. (Mitrea)
+    Contents: 120-150 AR. Pot hoard
+    <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint" target="_blank">Macedonia, 1st Region: 19 tetradr.</a> 
+         <a href="http://nomisma.org/id/macedonia_2nd_region" rel="nmo:hasMint" target="_blank">Macedonia, 2nd Region: 1 tetradr.</a> 
+         <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 14 spread-flan tetradr.</a> 
+         <a href="http://nomisma.org/id/geto_dacian" rel="nmo:hasMint" target="_blank">Geto-Dacian imit.: 11 tetradr.</a>
+    Disposition: Bucharest (Acad.) 45 as listed
+    Paucker, CNA 1939, pp. 154-5
+    Moisil, Balcania 1944, p. 16, illus. (2 Maced.)
+</pre>
+   </div></div>

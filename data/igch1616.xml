@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1616"><h1 property="dcterms:title" lang="en">IGCH 1616</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0061">62 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">31.65972222</span>
+      <span property="geo:long">34.54638889</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1616 Ascalon, Judaea, 1927 
+    Burial: after 62 B.C. (Westermark) 
+    Contents: c. 24 AR
+    Antiochus VII: 2 tetradr. (<a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre, yrs. 174, 
+        182</a>)
+    <a href="http://nomisma.org/id/ascalon" rel="nmo:hasMint" target="_blank">Ascalon: 6 tetradr. (dated 31-41)</a>
+    Disposition: unknown
+    Information from E.S.G. Robinson
+    For the Ascalon era see Brett, AJA 1937, 
+        pp. 452 ff.
+</pre>
+   </div></div>

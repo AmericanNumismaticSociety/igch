@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0310"><h1 property="dcterms:title" lang="en">IGCH 0310</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">39.6194444444</span>
+         <span property="geo:long">19.9194444444</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+310 Corfu (anc. Corcyra), 1862
+(264)
+    Burial: 2nd cent. B.C.? (T)
+    Contents: 14 AE
+    <a href="http://nomisma.org/id/corcyra" rel="nmo:hasMint" target="_blank">Corcyra (as BMC nos. 451, 455, 460)</a>
+    Disposition: Oxford
+    Milne, NC 1936, p. 255
+</pre>
+   </div></div>

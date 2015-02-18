@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2080"><h1 property="dcterms:title" lang="en">IGCH 2080</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0499">500 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0449">450 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">37.56978</span>
+         <span property="geo:long">14.90078</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2080 Paterno (anc. Inessa), 1915
+(794)
+    Burial: before 450 B.C. (Jenkins)
+    Contents: c. 40 AR
+    <a href="http://nomisma.org/id/agrigentum" rel="nmo:hasMint" target="_blank">Acragas: 5 didr.</a>
+         <a href="http://nomisma.org/id/gela" rel="nmo:hasMint" target="_blank">Gela: 1 didr.</a>
+         <a href="http://nomisma.org/id/messana" rel="nmo:hasMint" target="_blank">Messana: 5 tetradr. </a>
+         <a href="http://nomisma.org/id/syracuse" rel="nmo:hasMint" target="_blank">Syracuse: 10 tetradr.</a>
+    Disposition: Syracuse 7 (2 Acragas, 2 Mes-
+        sana, 3 Syracuse); the others listed 
+        above went to the land owner
+    NSc 1915, p. 226
+    Currò Pisanò, AIIN 1962-4, pp. 224, 239 
+    Jenkins, Gela, p. 157
+    None of the coins preserved at Syracuse 
+        requires a date of burial later than
+        470-65 B.C.
+</pre>
+   </div></div>

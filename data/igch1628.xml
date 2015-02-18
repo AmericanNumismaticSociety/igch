@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1628"><h1 property="dcterms:title" lang="en">IGCH 1628</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0028">29 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">31.79305556</span>
+      <span property="geo:long">35.24472222</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1628 Jerusalem (Mount Scopus), Judaea, 
+    1944
+    Burial: after 29 B.C.
+    Contents: 11 AR
+    Demetrius II: 2 tetradr. (<a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre 142/1 B.C., 
+        130/29</a>)
+    <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre: 9 tetradr. (42/1-30/29 B.C.)</a> 
+    Disposition: Jerusalem (Hebrew Univ.)
+    Sukenik, Dinaburg Anniversary Volume (Jerusa-
+        lem, 1949), pp. 102-3
+</pre>
+   </div></div>

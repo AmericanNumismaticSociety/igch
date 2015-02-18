@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0723"><h1 property="dcterms:title" lang="en">IGCH 0723</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0339">340 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0334">335 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">40.7775</span>
+         <span property="geo:long">24.7075</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+723 Thasos:, 1953
+    Burial: 340-335 B.C.
+    Contents: 71 AR, 63 AE. Pot hoard from 
+        excavations
+    <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 12 dr.; 2 triob.; 63 AE,</a>
+         <a href="http://nomisma.org/id/byzantium" rel="nmo:hasMint" target="_blank">Byzantium: 3 dr.; 35 triob.</a>
+         <a href="http://nomisma.org/id/calchedon" rel="nmo:hasMint" target="_blank">Calchedon: 7 dr.; 12 triob.</a>
+    Disposition: Cavalla
+    Le Rider, BCH 1956, p. 1-19, illus.
+</pre>
+   </div></div>

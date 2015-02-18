@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2380"><h1 property="dcterms:title" lang="en">IGCH 2380</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">44.322686</span>
+         <span property="geo:long">5.928773</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2380 Brusq, near Toulon (anc. Tauroen-
+(168)     tium), before 1902
+    Burial: 2nd-1st cent. B.C. (Jenkins)
+    Contents: AR, AE
+    <a href="http://nomisma.org/id/massalia" rel="nmo:hasMint" target="_blank">Massalia: AR
+            AE (medium size) 
+            1500 AE (small)</a>
+         <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: AE</a>
+    Disposition: unknown
+    BCTH 1902, p. LI (no details)
+</pre>
+   </div></div>

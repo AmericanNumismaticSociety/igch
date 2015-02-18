@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0689"><h1 property="dcterms:title" lang="en">IGCH 0689</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0599">600 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0499">500 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">42.7111111111</span>
+         <span property="geo:long">27.7616666667</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+689 Sveti Vlas, c. 48 km. NE of Burgas, 
+    Bulgaria, 1948
+    Burial: 6th cent. B.C. (T)
+    Contents: 3 EL. Pot hoard
+    <a href="http://nomisma.org/id/cyzicus" rel="nmo:hasMint" target="_blank">Cyzicus: 1 hecte; 1 hemihecte</a>
+         <a href="http://nomisma.org/id/lydia" rel="nmo:hasMint" target="_blank">Lydia: 1 trite (lion hd.)</a>
+    Disposition: dispersed
+    Gerasimov, BIAB 17 (1950), p. 325
+</pre>
+   </div></div>

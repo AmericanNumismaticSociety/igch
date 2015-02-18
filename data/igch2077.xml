@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2077"><h1 property="dcterms:title" lang="en">IGCH 2077</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0459">460 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0449">450 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">37.2913888889</span>
+         <span property="geo:long">15.0011111111</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2077 Lentini, 1921 
+(611)
+    Burial: 460-450 B.C. (Jenkins) 
+    Contents: 88 AR
+    <a href="http://nomisma.org/id/agrigentum" rel="nmo:hasMint" target="_blank">Acragas: 2 tetradr.; 7 didr.</a>
+         <a href="http://nomisma.org/id/gela" rel="nmo:hasMint" target="_blank">Gela: 9 tetradr. (to Jenkins 217)
+            2 didr.</a>
+         <a href="http://nomisma.org/id/leontini" rel="nmo:hasMint" target="_blank">Leontini: 1 tetradr.</a>
+         <a href="http://nomisma.org/id/messana" rel="nmo:hasMint" target="_blank">Messana: 10 tetradr.</a>
+         <a href="http://nomisma.org/id/syracuse" rel="nmo:hasMint" target="_blank">Syracuse: 57 tetradr. (to Boehringer 554)</a>
+    Disposition: Syracuse 22 (2 Acragas, 4 
+        Gela, 5 Messana, 11 Syracuse)
+    Orsi's notes
+    Currò Pisanò AIIN 1962-4, pp. 225, 238 
+    Jenkins, Gela, p. 153
+</pre>
+   </div></div>

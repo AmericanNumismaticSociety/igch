@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0604"><h1 property="dcterms:title" lang="en">IGCH 0604</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">46.2494444444</span>
+         <span property="geo:long">26.7688888889</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+604 Lemnia, 40 km. NE of Sf. Gheorghe, 
+    Rumania, 1963
+    Burial: 2nd-1st cent. B.C. (T)
+    Contents: AR. Pot hoard
+    <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: dr.</a>
+    Disposition: Sf. Gheorghe
+    Mitrea, Dacia 1966, p. 404
+</pre>
+   </div></div>

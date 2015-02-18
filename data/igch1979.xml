@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1979"><h1 property="dcterms:title" lang="en">IGCH 1979</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0269">270 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">40.46795</span>
+         <span property="geo:long">17.24654</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1979 Taranto, Solito, Calabria, 1913
+    Burial: c. 270 B.C. 
+    Contents: 13 AR
+    <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 9 st. (Per. VII)</a>
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 2 st. (reduced weight) </a>
+         <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium: 2 st.</a>
+    Disposition: Taranto
+    Stazio, AIIN 1965-7, p. 39
+</pre>
+   </div></div>

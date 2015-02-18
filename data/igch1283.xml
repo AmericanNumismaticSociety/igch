@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1283"><h1 property="dcterms:title" lang="en">IGCH 1283</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0304">305 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0269">270 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">37.7077777778</span>
+         <span property="geo:long">28.7236111111</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1283 Aphrodisias, Caria, 1969
+    Burial: 305 B.C. or later (MacDonald) 
+    Contents: 11 AR
+    Alexander III: 9 dr. (<a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 1</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1</a>, 
+       <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>, <a href="http://nomisma.org/id/teos" rel="nmo:hasMint" target="_blank">Teos 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 4</a>, unc. 1) 
+    Philip III: 1 dr. (unc. mint)
+    Disposition: Aphrodisias (museum under 
+        construction) to as above
+    Erim, Türk Arkeoloji Dergisi 1969, p. 93, illus. 
+        (10 obv. only)
+    To be published by K. Erim and D. MacDonald
+</pre>
+   </div></div>

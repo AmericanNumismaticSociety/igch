@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0139"><h1 property="dcterms:title" lang="en">IGCH 0139</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0274">275 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">36.9583333333</span>
+         <span property="geo:long">21.7880555556</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+139 Chandrinos, Pylos district, Messenia, 
+    1963
+    Burial: - B.C. 
+    Contents: 5 AE
+    <a href="http://nomisma.org/id/corinth" rel="nmo:hasMint" target="_blank">Corinth:</a> 3
+    <a href="http://nomisma.org/id/argos_argolis" rel="nmo:hasMint" target="_blank">Argos:</a> 2
+    Disposition: Athens
+    Varoucha, A Delt 1964, Chronika, p. 10
+</pre>
+   </div></div>

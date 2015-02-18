@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1325"><h1 property="dcterms:title" lang="en">IGCH 1325</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0149">150 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0124">125 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">36.9783009</span>
+         <span property="geo:long">27.0081067</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1325 Calymna, Caria, 1953
+    Burial: 150-125 B.C. (M)
+    Contents: 53+ AR
+    <a href="http://nomisma.org/id/cos" rel="nmo:hasMint" target="_blank">Cos: tetrob.</a>
+    Disposition: Athens 27
+    BCH 1954, p. 98
+</pre>
+   </div></div>

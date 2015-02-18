@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0315"><h1 property="dcterms:title" lang="en">IGCH 0315</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0129">130 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">39.3841666667</span>
+         <span property="geo:long">22.7433333333</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+315 Velestinon, near Volos, Thessaly, 1966 
+    Burial: late 2nd cent. B.C. (Oeconomides)
+    Contents: 203+ AR
+    <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint" target="_blank">Thessalian League:</a> double-vict. 
+    Disposition: Athens 84; Volos 119
+    Theocharis, A Delt 1967, Chronika, p. 296 
+    To be published by M. Oeconomides
+</pre>
+   </div></div>

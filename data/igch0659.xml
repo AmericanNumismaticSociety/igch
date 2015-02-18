@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0659"><h1 property="dcterms:title" lang="en">IGCH 0659</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0063">64 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">44.13333333</span>
+      <span property="geo:long">26.74972222</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+659 Gradistea, near Calarasi, Rumania,
+    c. 1948
+    Burial: after 64 B.C. 
+    Contents: 22+ AR
+    <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 1 spread-flan tetradr.</a> 
+         <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: 21 den.</a>
+    Disposition: private coll.
+    Preda, SCN 2 (1958), p. 466
+</pre>
+   </div></div>

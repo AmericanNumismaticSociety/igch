@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0658"><h1 property="dcterms:title" lang="en">IGCH 0658</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0069">70 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">43.86</span>
+         <span property="geo:long">25.1405555556</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+658 Furculesti, c. 21 km. SW of Alex-
+    andria, Rumania, 1958
+    Burial: after 70 B.C.
+    Contents: 49 AR
+    <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: 40 dr. incl. 1 imit.</a>
+         <a href="http://nomisma.org/id/geto_dacian" rel="nmo:hasMint" target="_blank">Geto-Dacian: 8 tetradr. and didr.</a> 
+    Imit.<a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: 1 den.</a>
+    Disposition: Bucharest (Acad.)
+    Iliescu, Caiet selectiv 2 (1961), pp. 658, 662-70
+</pre>
+   </div></div>

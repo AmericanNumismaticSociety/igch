@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0683"><h1 property="dcterms:title" lang="en">IGCH 0683</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">45.7</span>
+         <span property="geo:long">23.1666666667</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+683 Costesti, c. 35 km. SE of Deva, Ru-
+    mania, 1962
+    Burial: 1st cent. B.C. (Mitrea) 
+    Contents: c. 240 AR. Pot hoard 
+    Imit. <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: spread-flan tetradr.</a> 
+         <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint" target="_blank">Apollonia, Illyria: dr. </a>
+         <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: dr. </a>
+         <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: den. </a>
+    Disposition: Cluj
+    Mitrea, Dacia 1965, p. 490 (Bolsaia)
+</pre>
+   </div></div>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2088"><h1 property="dcterms:title" lang="en">IGCH 2088</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0469">470 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0427">428 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">37.2011111111</span>
+         <span property="geo:long">15.1794444444</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2088 Megara Hyblaea, 1889 
+    Burial: before 428 B.C.
+    Contents: 2 AE. From tomb LXIX 
+    <a href="http://nomisma.org/id/agrigentum" rel="nmo:hasMint" target="_blank">Acragas: conical triantes</a>
+    Disposition: Syracuse
+    Orsi, MonAnt 1890, p. 828; AttiMemIIN 1932, 
+        p. 44
+</pre>
+   </div></div>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1893"><h1 property="dcterms:title" lang="en">IGCH 1893</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0449">450 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">40.4213888889</span>
+         <span property="geo:long">15.0044444444</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1893 Paestum (anc. Poseidonia), 1870
+    Burial: 350-300 B.C. (Pozzi); c. 450 (K,
+        excluding Neapolis) 
+    Contents: 70-71 AR
+    <a href="http://nomisma.org/id/poseidonia" rel="nmo:hasMint" target="_blank">Poseidonia: 70 st. (double-relief, all with 
+        local letter-forms)</a>
+         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis: 1 st. (c. 300 B.C., intrusion?)</a>
+    Disposition: Naples
+    Pozzi, AIIN 1962-4, pp. 91-109, illus.
+    Kraay, AttiMemSocMagnaGrecia 1967, pp. 127-9
+</pre>
+   </div></div>

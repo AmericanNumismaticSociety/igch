@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2007 Orbeon, Inc.
+
+    This program is free software; you can redistribute it and/or modify it under the terms of the
+    GNU Lesser General Public License as published by the Free Software Foundation; either version
+    2.1 of the License, or (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+    without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+    See the GNU Lesser General Public License for more details.
+
+    The full text of the license is available at http://www.gnu.org/copyleft/lesser.html
+-->
+<config xmlns="http://www.orbeon.com/oxf/controller" xmlns:oxf="http://www.orbeon.com/oxf/processors" matcher="oxf:perl5-matcher">
+	
+	<!-- ****************
+	* PUBLIC INTERFACE *
+	***************** -->
+	<!-- **** PAGES **** -->			
+	<page path="/igch/browse" view="xpl/views/pages/browse.xpl" id="index"/>
+	<page path="/igch/" view="xpl/views/pages/index.xpl" id="index"/>
+	
+	<!-- ID -->	
+	<!--<page path="/nomisma/id/(.*)\.ttl" model="xpl/models/rdf/get-id.xpl" view="xpl/views/serializations/rdf/ttl.xpl"/>
+	<page path="/nomisma/id/(.*)\.jsonld" model="xpl/models/rdf/get-id.xpl" view="xpl/views/serializations/rdf/json-ld.xpl"/>
+	<page path="/nomisma/id/(.*)\.solr" model="xpl/models/rdf/get-id.xpl" view="xpl/views/serializations/rdf/solr.xpl"/>-->
+	<page path="/igch/id/(.*)\.kml" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/kml.xpl"/>
+	<page path="/igch/id/(.*)\.rdf" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/rdf.xpl"/>
+	<page path="/igch/id/(.*)\.xml" view="xpl/models/xhtml/get-id.xpl" />
+	<page path="/igch/id/(.*)" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/html.xpl"/>
+	
+	<!-- data export -->
+	<page path="/igch/nomisma.void.rdf" view="nomisma.void.rdf"/>
+	<page path="/igch/nomisma.rdf" model="xpl/models/xhtml/aggregate-all.xpl" view="xpl/views/serializations/xhtml/rdf.xpl"/>
+	
+	<epilogue url="oxf:/config/epilogue.xpl"/>
+</config>

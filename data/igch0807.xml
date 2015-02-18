@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0807"><h1 property="dcterms:title" lang="en">IGCH 0807</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0349">350 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">40.315</span>
+         <span property="geo:long">26.3822222222</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+807 Thracian Chersonese, c. 1906 
+(236)
+    Burial: c. 350-300 B.C. (T)
+    Contents: 50+ AR
+    <a href="http://nomisma.org/id/cyzicus" rel="nmo:hasMint" target="_blank">Cyzicus: dr. (as BMC pl. 9, 12)</a> 
+    Disposition: unknown
+    Hasluck, NC 1906, p. 26
+</pre>
+   </div></div>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0634"><h1 property="dcterms:title" lang="en">IGCH 0634</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0069">70 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">45.40944444</span>
+      <span property="geo:long">23.32611111</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+634 Pestera Bolii, 41 km. N of Tîrgu Jiu, 
+    Rumania, before 1961
+    Burial: early 1st cent. B.C.
+    Contents: AR
+    <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: spread-flan tetradr. incl. imit.</a> 
+    Disposition: Deva 12 imit.
+    Mitrea, Dacia 1962, p. 535
+</pre>
+   </div></div>

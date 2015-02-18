@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0074"><h1 property="dcterms:title" lang="en">IGCH 0074</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0329">330 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0324">325 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">37.6691666667</span>
+         <span property="geo:long">21.6388888889</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+74 Mageira, Elis, 1950
+    Burial: c. - B.C. 
+    Contents: 48 AR
+    Philip II: 4 lifetime tetradr. (<a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella</a> 1, 
+        <a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis</a> 3)
+    Alexander III: 1 lifetime tetradr. (<a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus)</a>
+         <a href="http://nomisma.org/id/larissa" rel="nmo:hasMint" target="_blank">Larissa, Thessaly:</a> 1 dr.
+    <a href="http://nomisma.org/id/phocis" rel="nmo:hasMint" target="_blank">Phocis:</a> 1 triob.
+    <a href="http://nomisma.org/id/boeotia" rel="nmo:hasMint" target="_blank">Boeotia:</a> 3 triob.
+    <a href="http://nomisma.org/id/tanagra" rel="nmo:hasMint" target="_blank">Tanagra:</a> 1 st.
+    <a href="http://nomisma.org/id/thebes" rel="nmo:hasMint" target="_blank">Thebes:</a> 6 st.; 2 dr.
+    <a href="http://nomisma.org/id/aegina" rel="nmo:hasMint" target="_blank">Aegina:</a> 24 st.; 2 dr.
+    <a href="http://nomisma.org/id/elis" rel="nmo:hasMint" target="_blank">Elis:</a> 3 st.
+    Disposition: Athens
+    Varoucha, BCH 1951, p. 104. (where slightly 
+        different totals are given)
+</pre>
+   </div></div>

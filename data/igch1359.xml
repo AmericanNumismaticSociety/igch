@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1359"><h1 property="dcterms:title" lang="en">IGCH 1359</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0069">70 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0064">65 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">38.31055556</span>
+      <span property="geo:long">26.38138889</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1359 Çesme (anc. Erythrae), Ionia, c. 
+    1960
+    Burial: c. 70-65 B.C. (Kleiner) 
+    Contents: 38+ AR
+    Lysimachus: 1 tetradr. (<a href="http://nomisma.org/id/byzantium" rel="nmo:hasMint" target="_blank">Byzantium</a>) 
+    <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Athens:</a> 14 New Style tetradr.
+    <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Imit. Athens: 2 tetradr. (Ο ΔΕΜΟΣ)</a> 
+    Mithradates VI: 1 tetradr.
+    Nicomedes II: 1 tetradr.
+    <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum: 4 cistophori (80-67 B.C.)</a> 
+         <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios: 15 dr.</a>
+    Disposition: Boston 38
+    Thompson, Athens, p. 448, note 1 
+    To be published by F. Kleiner
+</pre>
+   </div></div>

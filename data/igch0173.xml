@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0173"><h1 property="dcterms:title" lang="en">IGCH 0173</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0249">250 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0224">225 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">37.2511111111</span>
+         <span property="geo:long">21.6686111111</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+173 Dokimion (Malamata-Kyparissia), 
+    Acarnania, 1955
+    Burial: c. - B.C. (Varoucha) 
+    Contents: 50 AR. Pot hoard
+    Alexander III: 1 tetradr. (<a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon)</a>
+            1 dr. (<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes)</a>
+    Lysimachus: 1 dr. (<a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus)</a> 
+         <a href="http://nomisma.org/id/aetolian_league" rel="nmo:hasMint" target="_blank">Aetolia:</a> 1 triob.
+    <a href="http://nomisma.org/id/locri opuntii" rel="nmo:hasMint" target="_blank">Locri Opuntii:</a> 1 triob.
+    <a href="http://nomisma.org/id/boeotia" rel="nmo:hasMint" target="_blank">Boeotia:</a> 1 dr.
+    <a href="http://nomisma.org/id/chalcis" rel="nmo:hasMint" target="_blank">Chalcis:</a> 9 dr.
+    <a href="http://nomisma.org/id/aegina" rel="nmo:hasMint" target="_blank">Aegina:</a> 3 st.; 1 dr.; 1 triob. 
+    <a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon:</a>  1 st.; 1 dr.; 24 triob. 
+    <a href="http://nomisma.org/id/hermione" rel="nmo:hasMint" target="_blank">Hermione:</a> 1 triob.
+    <a href="http://nomisma.org/id/arcadian_league" rel="nmo:hasMint" target="_blank">Arcadian League:</a> 2 triob. 
+    Ptolemy II: 1 tetradr.
+    Disposition: Athens
+    Varoucha, BCH 1956, p. 227, illus.
+    Warren, ANSMN 15 (1969), p. 33, illus. (the 
+        Arcadian coins)
+</pre>
+   </div></div>

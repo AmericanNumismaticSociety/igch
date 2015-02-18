@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0925"><h1 property="dcterms:title" lang="en">IGCH 0925</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0124">125 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">42.69055556</span>
+      <span property="geo:long">26.3325</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+925 Sâdievo, c. 26 km. N of Burgas, Bul-
+    garia, 1963
+    Burial: c. 125-100 B.C. (T)
+    Contents: 52 AR. Pot hoard
+    <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 4 spread-flan tetradr.</a>
+    Lysimachus: 48 post. tetradr. (<a href="http://nomisma.org/id/byzantium" rel="nmo:hasMint" target="_blank">Byzantium</a>) 
+    Disposition: Burgas
+    Gerasimov, BIAB 27 (1964), p. 244
+</pre>
+   </div></div>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0385"><h1 property="dcterms:title" lang="en">IGCH 0385</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0339">340 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0334">335 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">40.5830555556</span>
+         <span property="geo:long">22.9491666667</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+385 Kalamaria, near Thessalonica, Mace-
+    donia, 1963
+    Burial: c. 340-335 B.C.
+    Contents: 240 AR. Pot hoard
+    Acanthus: 3 tetradr.
+    <a href="http://nomisma.org/id/chalcidian_league" rel="nmo:hasMint" target="_blank">Chalcidian League: 1 tetradr.</a>
+    Philip II: 136 tetradr.
+    <a href="http://nomisma.org/id/larissa" rel="nmo:hasMint" target="_blank">Larissa: 62 dr.</a> 
+         <a href="http://nomisma.org/id/boeotia" rel="nmo:hasMint" target="_blank">Boeotia: 32 st.</a> 
+         <a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon: 6 st.</a> 
+    Disposition: Athens
+    Varoucha, A Delt 1964, Chronika, p. 8, illus.
+    There is a discrepancy in the figures in the 
+        publication
+</pre>
+   </div></div>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2044"><h1 property="dcterms:title" lang="en">IGCH 2044</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0199">200 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">41.510968</span>
+         <span property="geo:long">14.740162</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2044 Gildone, 10 km. SE of Campobasso, 
+    Samnium, 1946
+    Burial: 3rd cent. B.C. (Crawford)
+    Contents: AE
+    <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis</a>
+         <a href="http://nomisma.org/id/arpi" rel="nmo:hasMint" target="_blank">Arpi</a>
+         <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: 2 aes grave</a> 
+    Disposition: Campobasso
+    D'Amico, Atti del Primo Congresso Internazionale 
+        di Preistoria e Protvistoria Mediterranea,
+        pp. 537-38
+    Crawford, RRCH 26
+    Crawford presumably had reason to treat 
+        this as a hd., though D'Amico says 
+        only that the coins were acquired from 
+        a countryman; they might, therefore, 
+        be site finds.
+</pre>
+   </div></div>

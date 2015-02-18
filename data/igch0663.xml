@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0663"><h1 property="dcterms:title" lang="en">IGCH 0663</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0050">51 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">41.18333333</span>
+      <span property="geo:long">24.41666667</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+663 Platania, near Drama, Macedonia, 1959 
+    Burial: after 51 B.C. (Varoucha)
+    Contents: 4 AR, 39 AE. Pot hoard
+    Aesillas: 2 tetradr.
+    <a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis: 18 AE</a>
+         <a href="http://nomisma.org/id/philippi" rel="nmo:hasMint" target="_blank">Philippi: 1 AE</a> 
+         <a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella: 1 AE</a>
+         <a href="http://nomisma.org/id/thessalonica" rel="nmo:hasMint" target="_blank">Thessalonica: 13 AE</a>
+         <a href="http://nomisma.org/id/abdera_thrace" rel="nmo:hasMint" target="_blank">Abdera: 1 AE</a> 
+         <a href="http://nomisma.org/id/maroneia" rel="nmo:hasMint" target="_blank">Maroneia: 2 AE</a> 
+         <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum: 1 AE</a> 
+    Unc.: 1 AE
+    <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: 2 den., 1 quadrans</a>
+    Disposition: Athens
+    Varoucha, BCH 1960, pp. 486-7 
+    Crawford, RRCH, no. 358
+</pre>
+   </div></div>

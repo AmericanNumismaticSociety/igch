@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1913"><h1 property="dcterms:title" lang="en">IGCH 1913</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0399">400 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0369">370 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">41.1563</span>
+         <span property="geo:long">14.5296</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1913 Gizzeria, 10 km. W of Nicastro, 
+(444)     Bruttium, 1914
+    Burial: early 4th cent. B.C. (K)
+    Contents: 2 AR, 58 AE. Pot hoard
+     <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 1 diob. (barley ear/grain)</a> 
+         <a href="http://nomisma.org/id/velia" rel="nmo:hasMint" target="_blank">Velia: 3 (Heracles/owl)</a>
+         <a href="http://nomisma.org/id/croton" rel="nmo:hasMint" target="_blank">Croton: 18 (tripod/eagle hd.)
+            4 (tripod/sepia)</a>
+         <a href="http://nomisma.org/id/rhegium" rel="nmo:hasMint" target="_blank">Rhegium: 6 (Apollo/lion hd. facing) 
+            1 hemilit. (Herzfelder, pl. 11, K) </a>
+         <a href="http://nomisma.org/id/messana" rel="nmo:hasMint" target="_blank">Messana: 20 (female hd./trident)</a>
+    Blank: 1
+    Unc.: 2
+    Disposition: Reggio
+    Putorti, NSc 1914, p. 211
+    The above totals, which do not altogether 
+        correspond with those in NSc, are 
+        based on material seen by K at Reggio 
+        in 1969
+</pre>
+   </div></div>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1118"><h1 property="dcterms:title" lang="en">IGCH 1118</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0229">230 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0169">170 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">46.7055555556</span>
+         <span property="geo:long">31.8977777778</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1118 Olbia (mod. Parutino), 1946
+    Burial: late 3rd-early 2nd cent. B.C. 
+    Contents: 5 AE. In pithos in lower town 
+    <a href="http://nomisma.org/id/olbia" rel="nmo:hasMint" target="_blank">Olbia: AE (as AMNG I.1, pl. 9, 28-29 [1],
+        pl. 10, 14 [1]; unc. [3])</a>
+    Disposition: Kiev
+    Information from P. O. Karyszkowski
+</pre>
+   </div></div>

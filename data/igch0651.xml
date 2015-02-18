@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0651"><h1 property="dcterms:title" lang="en">IGCH 0651</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0076">77 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">44.3852777778</span>
+         <span property="geo:long">26.3516666667</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+651 Fundeni, 11 km. NE of Bucharest, 
+    Rumania, 1952
+    Burial: after 77 B.C.
+    Contents: 10 AR. Pot hoard with AR fibula 
+        and rock-crystal beads
+    <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: 1 dr. (Meniskos)</a>
+         <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: 9 den. incl. 1 imit.</a> 
+    Disposition: Bucharest (Acad.) 2 den.
+    Mitrea, SCN 2 (1958), p. 162
+</pre>
+   </div></div>

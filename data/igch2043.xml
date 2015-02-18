@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2043"><h1 property="dcterms:title" lang="en">IGCH 2043</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0199">200 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">42.9897222222</span>
+         <span property="geo:long">10.4913888889</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2043 Populonia, Etruria, 1939
+    Burial: 3rd cent. B.C. (K)
+    Contents: 627 AR, 8 AE. Pot hoards; found
+        during digging for iron slag 
+    <a href="http://nomisma.org/id/populonia" rel="nmo:hasMint" target="_blank">Populonia: 560 didr. (as Sambon 42 ff.
+        [529]; 61 ff. [31])
+            16 dr. (as S. 73 [11]; 68 [5]) 
+            1 AE (as S. 116)</a>
+         <a href="http://nomisma.org/id/carthage" rel="nmo:hasMint" target="_blank">Carthage: 2 AE (rev. horse hd.)</a>
+    Uric.: 51 AR
+            5 AE
+    Disposition: divided between Florence and 
+        Populonia
+    Scamuzzi, StudEtr. 1941, pp. 141-62, illus.
+</pre>
+   </div></div>

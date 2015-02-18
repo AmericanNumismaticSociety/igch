@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0969"><h1 property="dcterms:title" lang="en">IGCH 0969</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0089">90 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0079">80 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">41.38</span>
+      <span property="geo:long">25.09583333</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+969 Zlatograd, c. 55 km. SE of Smoljan, 
+    Bulgaria, 1967
+    Burial: c. 90-80 B.C. (T)
+    Contents: 9+ AR. Pot hoard 
+    <a href="http://nomisma.org/id/macedonia" rel="nmo:hasMint" target="_blank">Macedonia, Aesillas: 1 tetradr.</a> 
+         <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 8 spread-flan tetradr.</a> 
+    Disposition: Plovdiv
+    Reported by T. Gerasimov
+</pre>
+   </div></div>

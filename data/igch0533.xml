@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0533"><h1 property="dcterms:title" lang="en">IGCH 0533</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0124">125 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">43.3469444444</span>
+         <span property="geo:long">24.4138888889</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+533 Krusovica, c. 18 km. SW of Pleven, 
+(579)     Bulgaria, 1912
+    Burial: c. 125-100 B.C. (T) 
+    Contents: 85-90 AR
+    <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: spread-flan tetradr.</a>
+    Disposition: dispersed
+    BSAB 6 (1916-8), p. 161
+</pre>
+   </div></div>

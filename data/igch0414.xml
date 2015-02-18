@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0414"><h1 property="dcterms:title" lang="en">IGCH 0414</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0309">310 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0304">305 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">41.1536111111</span>
+         <span property="geo:long">24.1636111111</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+414 Drama ?, Macedonia, 1935
+(339)
+    Burial: 310-305 B.C. (Newell)
+    Contents: 3 AV, 17 AR
+    Philip II: 1 st.; 1 tetrob.
+    Alexander III: 1 st.; 1 quarter-st.
+            13 early post. tetradr. (<a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Am-
+        phipolis 9,</a> 
+         <a href="http://nomisma.org/id/marium" rel="nmo:hasMint" target="_blank">Marium 1,</a> 
+         <a href="http://nomisma.org/id/side" rel="nmo:hasMint" target="_blank">Side 2,</a> unc. 1)
+            3 dr. (<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1,</a> 
+         <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1,</a> 
+        unc. 1)
+    Disposition: unknown
+    Information from W. Schwabacher
+</pre>
+   </div></div>

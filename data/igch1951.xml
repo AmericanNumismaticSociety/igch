@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1951"><h1 property="dcterms:title" lang="en">IGCH 1951</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">40.7975</span>
+         <span property="geo:long">16.9225</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1951 Gioia del Colle, 45 km. NW of Taras, 
+(437)     Apulia, 1908
+    Burial: c. 300 B.C.? (K) 
+    Contents: 250 AR
+    <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: many st.</a>
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia</a>
+         <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 1 dist.; many st. </a>
+         <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium</a>
+    Disposition: unknown
+    Information from M. P. Vlasto
+</pre>
+   </div></div>

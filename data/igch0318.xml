@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0318"><h1 property="dcterms:title" lang="en">IGCH 0318</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0069">70 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">35.0113888889</span>
+         <span property="geo:long">25.7358333333</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+318 Hierapytna (mod. Hierapetra) ?, Crete, 
+(434)     1935 ?
+    Burial: 2nd cent. or later (see note) 
+    Contents: 12+ AR.
+    Perseus: 1 dr.
+    <a href="http://nomisma.org/id/cydonia" rel="nmo:hasMint" target="_blank">Cydonia:</a> 1 triob. 
+    <a href="http://nomisma.org/id/gortyna" rel="nmo:hasMint" target="_blank">Gortyna:</a> 1 dr. 
+    <a href="http://nomisma.org/id/cyrene" rel="nmo:hasMint" target="_blank">Cyrene:</a> didr.
+    Disposition: London 3 (Perseus and Cretan 
+        coins)
+    Note from E. S. G. Robinson, no further details
+    It seems possible that this small lot 
+        represents fragments of two separate 
+        hds.: the Cyrene didr. from Crete 1936 
+        (no. 154 above) and the London coins 
+        from Hierapytna 1933 ? (no. 352 below)
+</pre>
+   </div></div>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2203"><h1 property="dcterms:title" lang="en">IGCH 2203</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0274">275 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0269">270 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">37.193867</span>
+         <span property="geo:long">13.766012</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2203 Palma di Montechiaro, 20 km. SE 
+    of Agriento, 1954?
+    Burial: c. 275-270 B.C. (K)
+    Contents: c. 77 AE
+    <a href="http://nomisma.org/id/agrigentum" rel="nmo:hasMint" target="_blank">Acragas: 27 (as Gabrici, Monetazione, pl. 6, 
+        5 [17]; Phintias [10])</a>
+         <a href="http://nomisma.org/id/syracuse" rel="nmo:hasMint" target="_blank">Syracuse: 44 (Agathocles as G. pl. 5, 12 [5];
+        14 [30]; Hicetas as G. pl. 5, 13 [1]; 
+        Pyrrhus as G. pl. 5, 15 [8])</a> 
+    Unc.: 6
+    Disposition: Agrigento
+    Miro, AIIN 1955, p. 95
+</pre>
+   </div></div>

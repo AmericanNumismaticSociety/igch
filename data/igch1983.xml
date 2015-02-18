@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1983"><h1 property="dcterms:title" lang="en">IGCH 1983</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0269">270 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">40.46795</span>
+         <span property="geo:long">17.24654</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1983 Taranto, Via Principe Amedeo, 1896 
+(1047)
+    Burial: c. 280-270 B.C.
+    Contents: 7 AR. In a silver pyxis found with 
+        silver plate
+    <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 7 st. (1 Per. VI; 3 Per. VII; 3 Per. 
+        VIII)</a>
+    Disposition: Baron E. de Rothschild
+    Vlasto, NC 1930, pp. 125-7
+</pre>
+   </div></div>

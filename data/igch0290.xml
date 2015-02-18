@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0290"><h1 property="dcterms:title" lang="en">IGCH 0290</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0124">125 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0088">89 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">37.39972222</span>
+      <span property="geo:long">25.26666667</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">
+290 Delos, 1906
+(308)
+    Burial: c. 125-120 B.C. (T); c. 88 (Hackens)
+    Contents: 40 AR. Pot hoard from excavations
+    <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Athens:</a> 19 New Style tetradr. 
+        13 New Style dr.
+        7 New Style triob. 
+    <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum:</a> 1 cist. (c. 125 B.C.)
+    Disposition: Athens
+    Svoronos, JIAN 1907, pp. 192-3
+† Thompson, Athens (Delos Κς), pp. 481-2 
+    Lewis, NC 1962, p. 280
+    Hackens, BCH 1965, p. 516
+</pre>
+   </div></div>

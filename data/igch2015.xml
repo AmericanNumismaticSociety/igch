@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2015"><h1 property="dcterms:title" lang="en">IGCH 2015</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0210">211 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0207">208 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">41.2175</span>
+         <span property="geo:long">16.0666666667</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2015 Canosa di Puglia (anc. Canusium), 
+(199)     18 km. SW of Barletta, Apulia, 1911?
+    Burial: 211-208 B.C. (Crawford) 
+    Contents: 128 AR
+    <a href="http://nomisma.org/id/nuceria" rel="nmo:hasMint" target="_blank">Nuceria: 4 st.</a>
+         <a href="http://nomisma.org/id/suessa_aurunca" rel="nmo:hasMint" target="_blank">Suessa: 4 st.</a>
+         <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 1 st.</a>
+         <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: 2 quadrig.
+            117 vict. (see Crawford)</a>
+    Disposition: Naples
+    Cesano, RIN 1912, pp. 300-4
+    Thomsen, ERC I, p. 102
+    Mattingly, Essays Robinson, pp. 213, 217 
+    Crawford, RRCH 86
+</pre>
+   </div></div>

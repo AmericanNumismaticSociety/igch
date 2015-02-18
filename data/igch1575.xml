@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1575"><h1 property="dcterms:title" lang="en">IGCH 1575</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0079">80 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">36.20666667</span>
+      <span property="geo:long">37.14333333</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1575 Aleppo (anc. Beroea), Cyrrhestica, 
+    1939
+    Burial: after 80 B.C. (Westermark) 
+    Contents: 20 AR
+    Philip Philadelphus: tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 
+        as SMA 448, 448 var.)</a>
+    Disposition: dispersed
+    Seyrig, Trésors du Levant (in press)
+</pre>
+   </div></div>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2068"><h1 property="dcterms:title" lang="en">IGCH 2068</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0479">480 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0477">478 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div><span rel="nmo:hasFindspot">
+         <span property="geo:lat">37.5883333333</span>
+         <span property="geo:long">12.8261111111</span>
+      </span>
+   </div><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">2068 Passo di Piazza (anc. Gela), 1934 
+    Burial: c. 480-78 B.C. (Jenkins)
+    Contents: 45 AR
+    <a href="http://nomisma.org/id/agrigentum" rel="nmo:hasMint" target="_blank">Acragas: 6 didr.</a>
+         <a href="http://nomisma.org/id/gela" rel="nmo:hasMint" target="_blank">Gela: 19 didr. (to Jenkins 82)</a>
+         <a href="http://nomisma.org/id/messana" rel="nmo:hasMint" target="_blank">Messana: 1 didr. (mule-car/hare)</a>
+         <a href="http://nomisma.org/id/syracuse" rel="nmo:hasMint" target="_blank">Syracuse: 18 tetradr. (to Boehringer 85 ?) 
+            1 didr.</a>
+    Disposition: Syracuse
+    Currò Pisanò, AIIN 1962-4, p. 227 (listed as 
+        1934 = Gela)
+    Jenkins, Gela, pp. 21-2, 156
+</pre>
+   </div></div>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1512"><h1 property="dcterms:title" lang="en">IGCH 1512</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0314">315 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><span rel="nmo:hasFindspot">
+      <span property="geo:lat">34.00666667</span>
+      <span property="geo:long">36.20444444</span>
+   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a><div property="dcterms:tableOfContents">
+      <pre typeof="dcmitype:Collection">1512 Baalbek (anc. Heliopolis), Coelesyria, 
+    1885
+    Burial: c. 315 B.C. (Schwabacher); c. 305 
+        (T)
+    Contents: 22+ AR
+    Alexander III: 21 lifetime and early post. 
+        tetradr. (<a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis 9</a>, <a href="http://nomisma.org/id/citium" rel="nmo:hasMint" target="_blank">Citium 1</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Ara-
+        dus 2</a>, <a href="http://nomisma.org/id/byblus" rel="nmo:hasMint" target="_blank">Byblus 2</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 7</a>)
+    Philip III: 1 tetradr. (<a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon</a>)
+    Disposition: Stockholm
+    Schwabacher, NNA 1963, pp. 5-12, illus.
+</pre>
+   </div></div>
