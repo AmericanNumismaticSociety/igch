@@ -92,6 +92,7 @@
 				<xsl:otherwise>
 					<xsl:attribute name="datatype" select="@datatype"/>
 					<xsl:attribute name="content" select="@content"/>
+					<b>Closing date: </b>
 					<xsl:value-of select="."/>
 				</xsl:otherwise>
 			</xsl:choose>
