@@ -40,7 +40,7 @@
 						International Numismatic Council, under whose auspices the project has now been incorporated. Technical realisation of the new IGCH site is by Ethan
 						Gruber.</p>
 
-					<p>The current site is a prototype, and will undergo enhancement through the course of 2015. It is the long term aim of the project to incorporate all published
+					<p>The current site is a prototype, and will undergo enhancement through the course of 2015. It is the long-term aim of the project to incorporate all published
 						Greek coin hoards as part of the broader Online Greek Coinage initiative.</p>
 				</div>
 			</div>
