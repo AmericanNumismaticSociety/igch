@@ -18,19 +18,24 @@
 	* PUBLIC INTERFACE *
 	***************** -->
 	<!-- **** PAGES **** -->			
-	<page path="/igch/browse" view="xpl/views/pages/browse.xpl" id="index"/>
 	<page path="/igch/" view="xpl/views/pages/index.xpl" id="index"/>
 	
+	<!-- **** SERIALIZATIONS **** -->
+	<!-- Solr -->
+	<page path="/igch/browse" model="xpl/models/solr/query.xpl" view="xpl/views/serializations/solr/html.xpl"/>
+	
 	<!-- ID -->	
-	<!--<page path="/nomisma/id/(.*)\.ttl" model="xpl/models/rdf/get-id.xpl" view="xpl/views/serializations/rdf/ttl.xpl"/>
-	<page path="/nomisma/id/(.*)\.jsonld" model="xpl/models/rdf/get-id.xpl" view="xpl/views/serializations/rdf/json-ld.xpl"/>
-	<page path="/nomisma/id/(.*)\.solr" model="xpl/models/rdf/get-id.xpl" view="xpl/views/serializations/rdf/solr.xpl"/>-->
+	<!--<page path="/igch/id/(.*)\.ttl" model="xpl/models/rdf/get-id.xpl" view="xpl/views/serializations/rdf/ttl.xpl"/>
+		<page path="/igch/id/(.*)\.jsonld" model="xpl/models/rdf/get-id.xpl" view="xpl/views/serializations/rdf/json-ld.xpl"/>-->
+	<page path="/igch/id/(.*)\.solr" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/solr.xpl"/>
 	<page path="/igch/id/(.*)\.kml" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/kml.xpl"/>
 	<page path="/igch/id/(.*)\.rdf" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/rdf.xpl"/>
 	<page path="/igch/id/(.*)\.xml" view="xpl/models/xhtml/get-id.xpl" />
 	<page path="/igch/id/(.*)" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/html.xpl"/>
 	
-	<!-- data export -->
+	<!-- **** DATA DUMPS **** -->
+	<page path="/igch/pelagios.void.rdf" view="pelagios.void.rdf"/>
+	<page path="/igch/pelagios.rdf" model="xpl/models/solr/pelagios.xpl" view="xpl/views/serializations/solr/pelagios.xpl"/>
 	<page path="/igch/nomisma.void.rdf" view="nomisma.void.rdf"/>
 	<page path="/igch/nomisma.rdf" model="xpl/models/xhtml/aggregate-all.xpl" view="xpl/views/serializations/xhtml/rdf.xpl"/>
 	

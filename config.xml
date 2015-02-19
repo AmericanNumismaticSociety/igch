@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
 	<url>http://localhost:8080/orbeon/igch/</url>
+	<solr_published>http://localhost:8080/solr/igch/</solr_published>
 </config>
