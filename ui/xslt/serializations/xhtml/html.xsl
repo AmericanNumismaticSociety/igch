@@ -48,7 +48,6 @@
 							<a href="{$id}.kml">KML</a>
 						</li>
 					</ul>
-					<h2>Map</h2>
 					<div id="mapcontainer"/>
 				</div>
 			</div>
