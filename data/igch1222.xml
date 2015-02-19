@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1222"><h1 property="dcterms:title" lang="en">IGCH 1222</h1><span rel="nmo:hasFindspot">Pirli bey, c. 55 km. E of Aydin, S of
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1222"><h1 property="skos:prefLabel" lang="en">IGCH 1222</h1><span rel="nmo:hasFindspot">Pirli bey, c. 55 km. E of Aydin, S of
 (819)     the Büyük Menderes in anc. Caria, <span property="geo:lat">37.863611</span>
             <span property="geo:long">28.432778</span>
          </span><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0499">500 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards

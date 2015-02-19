@@ -15,9 +15,10 @@
 
 	<xsl:template match="xhtml:div[@about]">
 		<nmo:Hoard rdf:about="{@about}">
-			<dcterms:title xml:lang="en">
+			<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+			<skos:prefLabel xml:lang="en">
 				<xsl:value-of select="xhtml:h1"/>
-			</dcterms:title>
+			</skos:prefLabel>
 
 			<xsl:apply-templates select="descendant::*[@rel='nmo:hasFindspot']"/>
 

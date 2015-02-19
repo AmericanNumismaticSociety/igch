@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1217"><h1 property="dcterms:title" lang="en">IGCH 1217</h1><span rel="nmo:hasFindspot">Pithyos on Chios, Ionia, <span property="geo:lat">38.484501</span>
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1217"><h1 property="skos:prefLabel" lang="en">IGCH 1217</h1><span rel="nmo:hasFindspot">Pithyos on Chios, Ionia, <span property="geo:lat">38.484501</span>
             <span property="geo:long">26.049099</span>
          </span><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0333">334 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0331">332 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
    </a><div property="dcterms:tableOfContents">

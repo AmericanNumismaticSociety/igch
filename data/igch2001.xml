@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2001"><h1 property="dcterms:title" lang="en">IGCH 2001</h1><span rel="nmo:hasFindspot">Specchia, 40 km. S of Lecce, Calabria, <span property="geo:lat">39.941667</span>
+<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2001"><h1 property="skos:prefLabel" lang="en">IGCH 2001</h1><span rel="nmo:hasFindspot">Specchia, 40 km. S of Lecce, Calabria, <span property="geo:lat">39.941667</span>
             <span property="geo:long">18.308333</span>
          </span><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0229">230 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
    </a><div property="dcterms:tableOfContents">
