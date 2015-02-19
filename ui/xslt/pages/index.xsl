@@ -48,7 +48,7 @@
 				<div class="col-md-6">
 					<h3>Data Export</h3>
 					<div>
-						<h4>Nomisma Linked Data</h4>
+						<h4>Nomisma</h4>
 						<table class="table-dl">
 							<tr>
 								<td>
