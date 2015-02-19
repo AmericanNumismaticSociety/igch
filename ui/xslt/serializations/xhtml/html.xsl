@@ -39,7 +39,7 @@
 					<xsl:apply-templates select="/content/xhtml:div"/>
 				</div>
 				<div class="col-md-6">
-					<h4>Data Export</h4>
+					<h2>Data Export</h2>
 					<ul class="list-inline">
 						<li>
 							<a href="{$id}.rdf">RDF/XML</a>
