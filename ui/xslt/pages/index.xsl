@@ -90,23 +90,28 @@
 					<h3>Contributors</h3>
 					<p>The following institutions have contributed data, specialist advice and/or financial support to the IGCH:</p>
 					<div class="media">
-						<a href="http://numismatics.org" title="http://numismatics.org" rel="nofollow">
-							<img src="http://www.numismatics.org/pmwiki/pub/skins/ans/ans_seal.gif" alt="http://numismatics.org"/>
+						<a href="http://numismatics.org" title="http://numismatics.org">
+							<img src="http://www.numismatics.org/pmwiki/pub/skins/ans/ans_seal.gif" alt="ANS"/>
 						</a>
 					</div>
 					<div class="media">
-						<a href="http://www.paris-sorbonne.fr/" title="http://www.paris-sorbonne.fr/" rel="nofollow">
-							<img src="ui/images/paris-small.jpg" alt="http://www.paris-sorbonne.fr/"/>
+						<a href="http://www.paris-sorbonne.fr/" title="http://www.paris-sorbonne.fr/">
+							<img src="ui/images/paris-small.jpg" alt="Sorbonne"/>
 						</a>
 					</div>
 					<div class="media">
-						<a href="http://stanford.edu" title="http://stanford.edu" rel="nofollow">
-							<img src="ui/images/stanford-small.jpg" alt="http://stanford.edu"/>
+						<a href="http://stanford.edu" title="http://stanford.edu">
+							<img src="ui/images/stanford-small.jpg" alt="Stanford"/>
 						</a>
 					</div>
 					<div class="media">
-						<a href="http://www.ahrc.ac.uk/" title="http://www.ahrc.ac.uk/" rel="nofollow">
-							<img src="http://archaeologydataservice.ac.uk/images/logos/org34.png" alt="http://www.ahrc.ac.uk/"/>
+						<a href="http://www.ahrc.ac.uk/" title="http://www.ahrc.ac.uk/">
+							<img src="http://archaeologydataservice.ac.uk/images/logos/org34.png" alt="AHRC"/>
+						</a>
+					</div>
+					<div class="media">
+						<a href="http://www.inc-cin.org/" title="http://www.inc-cin.org/">
+							<img src="http://www.xvcin.unime.it/wp-content/uploads/2014/06/logo-inc.png" alt="INC"/>
 						</a>
 					</div>
 				</div>
