@@ -8,7 +8,7 @@
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 	xmlns:dcterms="http://purl.org/dc/terms/"
 	xmlns:void="http://rdfs.org/ns/void#">
-	<void:dataSet rdf:about="http://coinhoards.org/">
+	<void:Dataset rdf:about="http://coinhoards.org/">
 		<dcterms:title>Inventory of Greek Coin Hoards</dcterms:title>
 		<dcterms:description>Data from the American Numismatic Society-published Inventory of Greek Coin Hoards (1973).</dcterms:description>
 		<dcterms:publisher>American Numismatic Society</dcterms:publisher>
