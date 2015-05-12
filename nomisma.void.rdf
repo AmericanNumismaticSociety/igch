@@ -15,5 +15,5 @@
 		<dcterms:license rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"/>
 		<void:uriSpace>http://coinhoards.org/id/</void:uriSpace>
 		<void:dataDump rdf:resource="http://coinhoards.org/nomisma.rdf"/>
-	</void:dataSet>
+	</void:Dataset>
 </rdf:RDF>
