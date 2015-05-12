@@ -23,7 +23,9 @@
 				<xsl:value-of select="xhtml:h1"/>
 			</skos:prefLabel>
 
-			<xsl:apply-templates select="descendant::*[@rel='nmo:hasFindspot']"/>
+			<xsl:if test="descendant::*[@rel='nmo:hasFindspot'][xhtml:span[@property='geo:lat'] and xhtml:span[@property='geo:long']]">
+				<nmo:hasFindspot rdf:resource="{concat(@about, '#findspot')}"/>
+			</xsl:if>
 
 			<xsl:choose>
 				<xsl:when test="*[@property='nmo:hasClosingDate']/@content">
@@ -45,24 +47,26 @@
 				</xsl:when>
 			</xsl:choose>
 
-			<xsl:apply-templates select="xhtml:div[@property='dcterms:tableOfContents']"/>
+			<xsl:apply-templates select="xhtml:div[@property='dcterms:tableOfContents']"/>				
+			
 			<void:inDataset rdf:resource="{$url}"/>
 		</nmo:Hoard>
+		<xsl:apply-templates select="descendant::*[@rel='nmo:hasFindspot'][xhtml:span[@property='geo:lat'] and xhtml:span[@property='geo:long']]">
+			<xsl:with-param name="uri" select="@about"/>
+		</xsl:apply-templates>
 	</xsl:template>
 
 	<xsl:template match="*[@rel='nmo:hasFindspot']">
-		<xsl:if test="xhtml:span[@property='geo:lat'] and xhtml:span[@property='geo:long']">
-			<nmo:hasFindspot>
-				<geo:SpatialThing>
-					<geo:lat>
-						<xsl:value-of select="xhtml:span[@property='geo:lat']"/>
-					</geo:lat>
-					<geo:long>
-						<xsl:value-of select="xhtml:span[@property='geo:long']"/>
-					</geo:long>
-				</geo:SpatialThing>
-			</nmo:hasFindspot>
-		</xsl:if>
+		<xsl:param name="uri"/>
+		
+		<geo:SpatialThing rdf:resource="{concat($uri, '#findspot')}">
+			<geo:lat>
+				<xsl:value-of select="xhtml:span[@property='geo:lat']"/>
+			</geo:lat>
+			<geo:long>
+				<xsl:value-of select="xhtml:span[@property='geo:long']"/>
+			</geo:long>
+		</geo:SpatialThing>
 	</xsl:template>
 
 	<xsl:template match="xhtml:div[@property='dcterms:tableOfContents']">
