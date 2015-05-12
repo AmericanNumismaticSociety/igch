@@ -59,7 +59,7 @@
 	<xsl:template match="*[@rel='nmo:hasFindspot']">
 		<xsl:param name="uri"/>
 		
-		<geo:SpatialThing rdf:resource="{concat($uri, '#findspot')}">
+		<geo:SpatialThing rdf:about="{concat($uri, '#findspot')}">
 			<geo:lat>
 				<xsl:value-of select="xhtml:span[@property='geo:lat']"/>
 			</geo:lat>
