@@ -2,13 +2,16 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:nm="http://nomisma.org/id/"
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"
 	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:org="http://www.w3.org/ns/org#" xmlns:dcmitype="http://purl.org/dc/dcmitype/"
-	xmlns:nmo="http://nomisma.org/ontology#" xmlns:xhtml="http://www.w3.org/1999/xhtml" exclude-result-prefixes="xhtml" version="2.0">
+	xmlns:nmo="http://nomisma.org/ontology#" xmlns:void="http://rdfs.org/ns/void#" xmlns:xhtml="http://www.w3.org/1999/xhtml" exclude-result-prefixes="xhtml" version="2.0">
 	<!--<xsl:include href="rdf-templates.xsl"/>-->
+
+	<xsl:variable name="url" select="/content/config/url"/>
 
 	<xsl:template match="/">
 		<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:nm="http://nomisma.org/id/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-			xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:org="http://www.w3.org/ns/org#"
-			xmlns:nomisma="http://nomisma.org/" xmlns:nmo="http://nomisma.org/ontology#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:dcmitype="http://purl.org/dc/dcmitype/">
+			xmlns:void="http://rdfs.org/ns/void#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+			xmlns:org="http://www.w3.org/ns/org#" xmlns:nomisma="http://nomisma.org/" xmlns:nmo="http://nomisma.org/ontology#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+			xmlns:dcmitype="http://purl.org/dc/dcmitype/">
 			<xsl:apply-templates select="//xhtml:div[@about]"/>
 		</rdf:RDF>
 	</xsl:template>
@@ -43,21 +46,23 @@
 			</xsl:choose>
 
 			<xsl:apply-templates select="xhtml:div[@property='dcterms:tableOfContents']"/>
-
+			<void:inDataset rdf:resource="{$url}"/>
 		</nmo:Hoard>
 	</xsl:template>
 
 	<xsl:template match="*[@rel='nmo:hasFindspot']">
-		<nmo:hasFindspot>
-			<geo:SpatialThing>
-				<geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">
-					<xsl:value-of select="xhtml:span[@property='geo:lat']"/>
-				</geo:lat>
-				<geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">
-					<xsl:value-of select="xhtml:span[@property='geo:long']"/>
-				</geo:long>
-			</geo:SpatialThing>
-		</nmo:hasFindspot>
+		<xsl:if test="xhtml:span[@property='geo:lat'] and xhtml:span[@property='geo:long']">
+			<nmo:hasFindspot>
+				<geo:SpatialThing>
+					<geo:lat>
+						<xsl:value-of select="xhtml:span[@property='geo:lat']"/>
+					</geo:lat>
+					<geo:long>
+						<xsl:value-of select="xhtml:span[@property='geo:long']"/>
+					</geo:long>
+				</geo:SpatialThing>
+			</nmo:hasFindspot>
+		</xsl:if>
 	</xsl:template>
 
 	<xsl:template match="xhtml:div[@property='dcterms:tableOfContents']">

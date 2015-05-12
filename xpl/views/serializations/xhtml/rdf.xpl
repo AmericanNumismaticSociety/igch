@@ -11,7 +11,7 @@
 	<p:param type="output" name="data"/>
 
 	<p:processor name="oxf:unsafe-xslt">		
-		<p:input name="data" href="#data"/>
+		<p:input name="data" href="aggregate('content', ../../../../config.xml, #data)"/>
 		<p:input name="config" href="../../../../ui/xslt/serializations/xhtml/rdf.xsl"/>
 		<p:output name="data" id="model"/>
 	</p:processor>
