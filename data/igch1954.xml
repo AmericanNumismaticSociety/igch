@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1954"><h1 property="skos:prefLabel" lang="en">IGCH 1954</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1954">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1954</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">43.3098</span>
          <span property="geo:long">10.5194</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1954 Cecina, 32 km. SSW of Livorno, 
 (226)     Etruria, 1858
     Burial: c. 300 B.C.? (K) 
@@ -25,4 +33,5 @@
         here appears to be a mistake for 
         Cecina
 </pre>
-   </div></div>
+   </div>
+</div>

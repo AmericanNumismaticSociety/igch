@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1318"><h1 property="skos:prefLabel" lang="en">IGCH 1318</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0189">190 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1318">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1318</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0190">190 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.4766666667</span>
          <span property="geo:long">28.1138888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1318 Sardes, Lydia, 1911 
 (926)
     Burial: c. 190 B.C. (Franke)
@@ -17,8 +25,10 @@
     <a href="http://nomisma.org/id/alabanda" rel="nmo:hasMint" target="_blank">Alabanda: 1 tetradr.</a>
          <a href="http://nomisma.org/id/perge" rel="nmo:hasMint" target="_blank">Perge: 2 tetradr.</a>
          <a href="http://nomisma.org/id/side" rel="nmo:hasMint" target="_blank">Side: 13 tetradr.</a>
-    Seleucus I: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim</a>)
-    Antiochus I: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Seleucus I: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim</a>)
+    Antiochus I: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim</a>)
     Antiochus II: 1 tetradr. (<a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana</a>) 
     Seleucus II: 1 tetradr. (<a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia</a>) 
@@ -26,10 +36,12 @@
     Seleucus III: 1 tetradr. (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa</a>)
     Antiochus III:: 8 tetradr. (<a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 2</a>, 
         <a href="http://nomisma.org/id/nisibis" rel="nmo:hasMint" target="_blank">Nisibis 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 2</a>, <a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia 2</a>, 
-        <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint" target="_blank">Laodiceia 1</a>)
+        <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint"
+            target="_blank">Laodiceia 1</a>)
     Disposition: Istanbul
     Bell, Sardis XI (Leiden, 1916), p. v, pp. 1 ff. 
     Franke, AM 1961, pp. 201 ff.
     Seyrig, RN 1963, p. 59
 </pre>
-   </div></div>
+   </div>
+</div>

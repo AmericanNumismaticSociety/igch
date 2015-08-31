@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2132"><h1 property="skos:prefLabel" lang="en">IGCH 2132</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0339">340 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0329">330 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2132">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2132</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0340">340 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0330">330 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.4905555556</span>
          <span property="geo:long">14.0530555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2132 Gibil Gabib, near Caltanissetta, 1928
     Burial: c. 340-330 B.C. (K) 
     Contents: 26 AR
@@ -23,4 +36,5 @@
     Disposition: Syracuse
 † Currò Pisanò, AIIN 1962-4, p. 226
 </pre>
-   </div></div>
+   </div>
+</div>

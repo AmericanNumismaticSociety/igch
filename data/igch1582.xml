@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1582"><h1 property="skos:prefLabel" lang="en">IGCH 1582</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0039">40 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1582">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1582</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0040">40 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">34.87138889</span>
       <span property="geo:long">35.89777778</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1582 Tartus (anc. Antaradus), N. Phoe-
     nicia, 1952
     Burial: c. 40 B.C. (Westermark)
     Contents: 18 AR
     <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus: 16 tetradr. (to yr. 216)</a> 
-         <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint" target="_blank">Laodiceia ad Mare: 2 tetradr. (to yr. 2)</a>
+         <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint"
+            target="_blank">Laodiceia ad Mare: 2 tetradr. (to yr. 2)</a>
     Disposition: dispersed
     Seyrig, Trésors du Levant (in press)
 </pre>
-   </div></div>
+   </div>
+</div>

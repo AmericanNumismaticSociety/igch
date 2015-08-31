@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1299"><h1 property="skos:prefLabel" lang="en">IGCH 1299</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0219">220 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0213">214 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1299">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1299</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0220">220 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0214">214 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.4766666667</span>
          <span property="geo:long">28.1138888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1299 Sardes, Lydia, 1911
 (925)
     Burial: c. 220-214 B.C. (Seyrig)
@@ -14,29 +27,36 @@
         lon 3</a>, unc. mint 1)
             4 lifetime and early post. 
         dr. (<a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 1</a>, <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon
-        1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1</a>)
+        1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1</a>)
             7 late post. tetradr. (<a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella
-        2</a>, <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1</a>, unc. mints 3) 
+        2</a>, <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1</a>, unc. mints 3) 
             4 late post. dr. (unc. 
         mints)
     Philip III: 1 dr. (<a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon</a>)
     Demetrius Poliorcetes: 1 tetradr. (<a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus</a>) 
     Antigonus Gonatas: 1 tetradr.
     Lysimachus: 5 lifetime tetradr. (<a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphi-
-        polis 1</a>, <a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella 1</a>, <a href="http://nomisma.org/id/cius" rel="nmo:hasMint" target="_blank">Cius 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 2</a>)
+        polis 1</a>, <a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella 1</a>, <a href="http://nomisma.org/id/cius" rel="nmo:hasMint" target="_blank">Cius 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 2</a>)
             5 post. tetradr. (<a href="http://nomisma.org/id/cius" rel="nmo:hasMint" target="_blank">Cius 1</a>, unc. 
         mints 4)
     Attalus I: 1 tetradr.
-    Antiochus I: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus I: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim</a>)
-    Antiochus II: 11 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Antiochus II: 11 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 1</a>, <a href="http://nomisma.org/id/apamea_phrygiae" rel="nmo:hasMint" target="_blank">Apameia 8</a>, 
         <a href="http://nomisma.org/id/cyme_aeolis" rel="nmo:hasMint" target="_blank">Cyme? 1</a>)
-    Seleucus II or III: 1 tetradr. (<a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint" target="_blank">Laodiceia ad 
+    Seleucus II or III: 1 tetradr. (<a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint"
+            target="_blank">Laodiceia ad 
         mare</a>)
     Disposition: Istanbul
     Bell, Sardis XI (Leiden, 1916), pp. vf., pp. 1 ff. 
     Franke, AM 1961, pp. 203 ff. (190/89 B.C.) 
     Seyrig, RN 1963, pp. 23, 42
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1953"><h1 property="skos:prefLabel" lang="en">IGCH 1953</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1953">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1953</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.9897222222</span>
          <span property="geo:long">10.4913888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1953 Populonia, Erutria, 1867
 (829)
     Burial: c. 300 B.C.? (K)
@@ -13,4 +21,5 @@
     Disposition: dispersed
     Gamurrini, PerNumSfrag 1872, p. 209
 </pre>
-   </div></div>
+   </div>
+</div>

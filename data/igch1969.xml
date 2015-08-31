@@ -1,23 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1969"><h1 property="skos:prefLabel" lang="en">IGCH 1969</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0269">270 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1969">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1969</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0270">270 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.687</span>
          <span property="geo:long">16.5512</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1969 Soverato, 25 km. S. of Catanzaro, 
 (1002)     Bruttium, 1914
     Burial: early 3rd cent. B.C. (K) 
     Contents: c. 32 AR
     Lot A
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 1 st. (Per. III, H1)</a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 1 diob. (or Taras?)</a>
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 1 diob. (or Taras?)</a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 1 st. (Leucippus)</a>
          <a href="http://nomisma.org/id/velia" rel="nmo:hasMint" target="_blank">Velia: 7 st. (6 signed &gt;Ε; 1 as SNGOxford 
         1377)</a>
-         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint" target="_blank">Locri: 2 st. (1 Pegasus; 1 Zeus/eagle) </a>
+         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint"
+            target="_blank">Locri: 2 st. (1 Pegasus; 1 Zeus/eagle) </a>
          <a href="http://nomisma.org/id/terina" rel="nmo:hasMint" target="_blank">Terina: 1 st.</a>
          <a href="http://nomisma.org/id/corinth" rel="nmo:hasMint" target="_blank">Corinth: 1 Peg. (Per. V)</a>
-         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Argos: 2 Peg. (1 eye; 1 ΑΡ ΔΙ shield)</a> 
+         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Argos: 2 Peg. (1 eye; 1 ΑΡ ΔΙ shield)</a> 
          <a href="http://nomisma.org/id/thyrrheium" rel="nmo:hasMint" target="_blank">Thyrrheium: 1 Peg. (Boeotian shield)</a>
     Lot B
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 1 diob. (Per. V: rev. ΚΛΕ, Κ; Hera-
@@ -30,7 +46,8 @@
         various markings [but no issues signed
         Φ-Ι])</a>
          <a href="http://nomisma.org/id/croton" rel="nmo:hasMint" target="_blank">Croton: 1 st. (eagle/tripod, B) </a>
-         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Locri: 1 st. (as SNGOxford 1567)</a> 
+         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Locri: 1 st. (as SNGOxford 1567)</a> 
          <a href="http://nomisma.org/id/anactorium" rel="nmo:hasMint" target="_blank">Anactorium: 2 Peg.</a>
     Disposition: Reggio, Museo Nazionale (Lot 
         A); Lot B unknown
@@ -45,4 +62,5 @@
         in the possession of the Italian govern-
         ment
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1450"><h1 property="skos:prefLabel" lang="en">IGCH 1450</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0189">190 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1450">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1450</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0190">190 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1450 Asia Minor, 1949 
     Burial: c. 190 B.C. (M) 
     Contents: 251+ AR
     Alexander III: 2 early post. tetradr. (<a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Am-
         phipolis 1</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 1</a>)
             15 late post. tetradr. (<a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Myti-
-        lene 2</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 2</a>, <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios 2</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 
+        lene 2</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 2</a>, <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios 2</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 
         1</a>, <a href="http://nomisma.org/id/priene" rel="nmo:hasMint" target="_blank">Priene 1</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 3</a>, unc. 3)
     Demetrius Poliorcetes: 3 tetradr. (<a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella 1</a>, 
         unc. 2)
@@ -28,7 +35,8 @@
         <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 2
         ANS 1950.178.20
             ANS 1950.178.19
-         </a>, <a href="http://nomisma.org/id/sestus" rel="nmo:hasMint" target="_blank">Sestus 4</a>,              <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alex-
+         </a>, <a href="http://nomisma.org/id/sestus" rel="nmo:hasMint" target="_blank">Sestus 4</a>,              <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alex-
         andreia Troas 2</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 5</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 
         1</a>, <a href="http://nomisma.org/id/smyrna" rel="nmo:hasMint" target="_blank">Smyrna 1</a>, <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus 1</a>, unc. 6)
             38 post. tetradr. (<a href="http://nomisma.org/id/aenus" rel="nmo:hasMint" target="_blank">Aenus 3</a>, 
@@ -37,11 +45,13 @@
         <a href="http://nomisma.org/id/parium" rel="nmo:hasMint" target="_blank">Parium 1</a>, unc. 9)
     Eumenes I-Eumenes II: 26 tetradr. 
     Seleucus I: 1 tetradr. (<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes</a>)
-    Antiochus I: 26 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus I: 26 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 23</a>, <a href="http://nomisma.org/id/hecatompylus" rel="nmo:hasMint" target="_blank">Hecatompylus 1</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>, 
         <a href="http://nomisma.org/id/smyrna" rel="nmo:hasMint" target="_blank">Smyrna 1</a>)
     Antiochus I or II: 1 tetradr. (<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes</a>)
-    Antiochus II: 39 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Antiochus II: 39 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim 25
         ANS 1950.178.3
             ANS 1950.178.2
@@ -51,17 +61,21 @@
             ANS 1950.178.7
          </a>, 
         <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 3</a>, <a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia 6</a>, 
-        <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 3</a>, <a href="http://nomisma.org/id/smyrna" rel="nmo:hasMint" target="_blank">Smyrna 1</a>)
+        <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 3</a>, <a href="http://nomisma.org/id/smyrna" rel="nmo:hasMint" target="_blank">Smyrna 1</a>)
     Interregnum: 1 tetradr. (<a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia?</a>)
     Seleucus II: 13 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia</a>)
     Antiochus Hierax: 6 tetradr. (<a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 1</a>,
-        <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 1</a>, <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia Troas 4</a>)
-    Antiochus III: 15 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+        <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 1</a>, <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia Troas 4</a>)
+    Antiochus III: 15 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim 3</a>, <a href="http://nomisma.org/id/nisibis" rel="nmo:hasMint" target="_blank">Nisibis ? 3</a>,  
         <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 7
         ANS 1950.178.8
          </a>, 
-        <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1</a>, <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint" target="_blank">Laodiceia 1</a>)
+        <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1</a>, <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint"
+            target="_blank">Laodiceia 1</a>)
     Disposition: New York 37 (Lysimachus 28, 
         Attalus I 1, Antiochus II 6, An-
         tiochus III 2)
@@ -70,4 +84,5 @@
         menes II
     Further information from H. Seyrig
 </pre>
-   </div></div>
+   </div>
+</div>

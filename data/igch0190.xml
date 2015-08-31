@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0190"><h1 property="skos:prefLabel" lang="en">IGCH 0190</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0190">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0190</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.4566666667</span>
          <span property="geo:long">21.6438888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 190 Kakovatos, Elis, 1963
     Burial: 240-200 B.C. (T)
@@ -12,4 +19,5 @@
     Disposition: Athens 1
     Varoucha, A Delt 1964, Chronika, p. 10
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1246"><h1 property="skos:prefLabel" lang="en">IGCH 1246</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0339">340 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1246">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1246</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0340">340 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.7388888889</span>
          <span property="geo:long">35.4783333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1246 Kayseri (anc. Caesareia-Mazaca), Cap-
 (178)     padocia, 1850
     Burial: c. 340 B.C. (M) 
@@ -18,4 +26,5 @@
     Six, NC 1884, p. 119
     Schlumberger, L'argent grec, p. 8, no. 1
 </pre>
-   </div></div>
+   </div>
+</div>

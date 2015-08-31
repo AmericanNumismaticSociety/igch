@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0158"><h1 property="skos:prefLabel" lang="en">IGCH 0158</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0158">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0158</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.5963888889</span>
          <span property="geo:long">23.0855555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 158 Epidaurus, Argolis, 1903
 (392)
@@ -19,7 +26,8 @@
          <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 2,</a> 
         unc. 1)
     Philip III: 1 tetradr. (<a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus)</a> 
-    Lysimachus: 3 lifetime tetradr. (<a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia
+    Lysimachus: 3 lifetime tetradr. (<a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia
         1,</a> 
          <a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis 1,</a> 
          <a href="http://nomisma.org/id/byzantium" rel="nmo:hasMint" target="_blank">Byzantium 1)</a> 
@@ -34,4 +42,5 @@
     Svoronos, Athènes, pl. 32, 1-7
     Hackens, Antidorum W. Peremans, pp. 76-7
 </pre>
-   </div></div>
+   </div>
+</div>

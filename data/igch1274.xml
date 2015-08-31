@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1274"><h1 property="skos:prefLabel" lang="en">IGCH 1274</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0424">425 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1274">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1274</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0425">425 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1274 Cyprus, 1924 
 (293a)
     Burial: c. 425 B.C. (M) 
@@ -9,4 +15,5 @@
     Disposition: New York 1 (unc. Cypriote) 
     Newell, NNM 30 (1926), pp. 6-8
 </pre>
-   </div></div>
+   </div>
+</div>

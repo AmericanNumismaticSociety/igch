@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0214"><h1 property="skos:prefLabel" lang="en">IGCH 0214</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0214">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0214</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.9413888889</span>
          <span property="geo:long">22.1155555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 214 Makrakomi, W of Lamia, Thessaly, 
 (635)     1932
@@ -14,7 +21,8 @@
         1126)
     <a href="http://nomisma.org/id/eurea" rel="nmo:hasMint" target="_blank">Eurea, Thessaly:</a> 1
     <a href="http://nomisma.org/id/aetolian_league" rel="nmo:hasMint" target="_blank">Aetolian League:</a> 4
-    <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Argos Amphil.:</a> 1
+    <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Argos Amphil.:</a> 1
     <a href="http://nomisma.org/id/locris" rel="nmo:hasMint" target="_blank">Locris:</a> 1
     <a href="http://nomisma.org/id/corinth" rel="nmo:hasMint" target="_blank">Corinth:</a> 1
     <a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon:</a> 1
@@ -22,4 +30,5 @@
     Disposition: Athens
     Constantopoulos, BCH 1933, p. 238
 </pre>
-   </div></div>
+   </div>
+</div>

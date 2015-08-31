@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0836"><h1 property="skos:prefLabel" lang="en">IGCH 0836</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0329">330 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0836">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0836</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0330">330 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">44.0427777778</span>
          <span property="geo:long">26.6175</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 836 Tutrakan, c. 50 km. W of Silistra, 
     Bulgaria, 1964
@@ -14,4 +27,5 @@
     Disposition: Silistra 20
     Gerasimov, BIAB 28 (1965), p. 250
 </pre>
-   </div></div>
+   </div>
+</div>

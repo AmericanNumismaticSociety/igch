@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2008"><h1 property="skos:prefLabel" lang="en">IGCH 2008</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0227">228 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2008">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2008</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0228">228 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.7030555556</span>
          <span property="geo:long">17.3375</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2008 Martina Franca, 25 km. N of Ta-
 (661)     canto, Apulia, 1912
     Burial: c. 228 B.C. (K) 
     Contents: 178 AR, 272 AE
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 172 st. (Per. VII-IX, the latter fdc) </a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 4 dr., fdc</a>
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 4 dr., fdc</a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 1 dr.; 272 AE</a>
          <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium: 1 st.</a>
     Disposition: Canessa, then part to J. Hirsch: 
@@ -29,4 +38,5 @@
         that SNGANS 2, 603, was one of only 
         two examples of this issue in the hd.
 </pre>
-   </div></div>
+   </div>
+</div>

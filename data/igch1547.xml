@@ -1,13 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1547"><h1 property="skos:prefLabel" lang="en">IGCH 1547</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0169">170 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0159">160 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1547">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1547</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0170">170 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0160">160 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">35.43722222</span>
       <span property="geo:long">36.65305556</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1547 Khan Cheikhoun, c. 25 km. E of anc. 
     Apameia, Seleucis, 1940
     Burial: c. 170-160 B.C.
     Contents: 103 AR
-    Alexander III: 81 late post. tetradr. (<a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint" target="_blank">Hera-
+    Alexander III: 81 late post. tetradr. (<a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint"
+            target="_blank">Hera-
         cleia Pontica 1</a>, <a href="http://nomisma.org/id/cyme_aeolis" rel="nmo:hasMint" target="_blank">Cyme 1</a>, <a href="http://nomisma.org/id/myrina_aeolis" rel="nmo:hasMint" target="_blank">Myrina 1</a>, 
         <a href="http://nomisma.org/id/temnus" rel="nmo:hasMint" target="_blank">Temnus 2</a>, <a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Mytilene 1</a>, <a href="http://nomisma.org/id/alabanda" rel="nmo:hasMint" target="_blank">Alabanda 3</a>, 
         <a href="http://nomisma.org/id/phaselis" rel="nmo:hasMint" target="_blank">Phaselis 18 to yr. 30</a>, <a href="http://nomisma.org/id/aspendus" rel="nmo:hasMint" target="_blank">Aspendus 25 to 
@@ -20,4 +33,5 @@
         Perge, and Side have ctmks.: anchor 
         or radiate facing bust
 </pre>
-   </div></div>
+   </div>
+</div>

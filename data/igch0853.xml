@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0853"><h1 property="skos:prefLabel" lang="en">IGCH 0853</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0284">285 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0274">275 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0853">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0853</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0285">285 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0275">275 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">41.9</span>
       <span property="geo:long">25</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 853 Malko Topolovo, c. 30 km. SE of 
     Plovdiv, Bulgaria, 1940
@@ -26,7 +38,8 @@ Alexander III: 1 dist. (<a href="http://nomisma.org/id/amphipolis" rel="nmo:hasM
         <a href="http://nomisma.org/id/cyprus" rel="nmo:hasMint" target="_blank">Cyprus</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus</a>, 
         <a href="http://nomisma.org/id/byblus" rel="nmo:hasMint" target="_blank">Byblus</a>, <a href="http://nomisma.org/id/sidon" rel="nmo:hasMint" target="_blank">Sidon</a>, 
         <a href="http://nomisma.org/id/ace_ptolemais" rel="nmo:hasMint" target="_blank">Ace</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon</a>, 
-        <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Alexandreia
+        <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint"
+            target="_blank">Alexandreia
         ANS 1965.77.104
          </a>)
    
@@ -53,4 +66,5 @@ Seleucus I: st.
     Gerasimov, BIAB 14 (1940-2), p. 283 
     Casts of 78 pieces in New York
 </pre>
-   </div></div>
+   </div>
+</div>

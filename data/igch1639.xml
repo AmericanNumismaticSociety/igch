@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1639"><h1 property="skos:prefLabel" lang="en">IGCH 1639</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0499">500 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0469">470 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1639">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1639</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0500">500 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0470">470 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">31.10916667</span>
       <span property="geo:long">30.93555556</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1639 Sakha (anc. Xois), near Kafr el Sheik, 
 (888)     100 km. E of Alexandreia, 1897
     Burial: early 5th cent. B.C. ? (Jenkins) 
@@ -10,7 +22,8 @@
     <a href="http://nomisma.org/id/acanthus" rel="nmo:hasMint" target="_blank">Acanthus: 1 tetradr.</a> 
          <a href="http://nomisma.org/id/lete" rel="nmo:hasMint" target="_blank">Lete: 4 st.</a>
          <a href="http://nomisma.org/id/neapolis_macedon" rel="nmo:hasMint" target="_blank">Neapolis Maced.: 1 st.</a>
-         <a href="http://nomisma.org/id/thraco-macedonian" rel="nmo:hasMint" target="_blank">Thraco-Maced.: 8 st. (cow and calf 2, 
+         <a href="http://nomisma.org/id/thraco-macedonian" rel="nmo:hasMint"
+            target="_blank">Thraco-Maced.: 8 st. (cow and calf 2, 
         flowers 6)</a>
          <a href="http://nomisma.org/id/abdera_thrace" rel="nmo:hasMint" target="_blank">Abdera: 3 didr.</a>
          <a href="http://nomisma.org/id/dicaea_thrace" rel="nmo:hasMint" target="_blank">Dicaea Thraciae: 1 st.</a> 
@@ -56,4 +69,5 @@
     Barron, Salvos, p. 31 (archaic hd. with intrusions, 
         e.g. Idyma, Sidon)
 </pre>
-   </div></div>
+   </div>
+</div>

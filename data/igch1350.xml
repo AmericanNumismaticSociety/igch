@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1350"><h1 property="skos:prefLabel" lang="en">IGCH 1350</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1350">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1350</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.4186111111</span>
          <span property="geo:long">27.1386111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1350 Izmir region, Ionia, 1969 
     Burial: c. 100 B.C. (M)
     Contents: 288 AE
@@ -11,4 +19,5 @@
     Disposition: Ankara (inv. no. 1865) 
     Information from Saadet Taner
 </pre>
-   </div></div>
+   </div>
+</div>

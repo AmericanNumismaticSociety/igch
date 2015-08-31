@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2120"><h1 property="skos:prefLabel" lang="en">IGCH 2120</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0389">390 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0379">380 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2120">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2120</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0390">390 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0380">380 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.5302777778</span>
          <span property="geo:long">15.1138888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2120 Ognina, 4 km. NE of Catana, 1923
 (749)
     Burial: 390-380 B.C. ? (Jenkins)
@@ -40,4 +53,5 @@
     Currò Pisanò, AIIN 1962-4, pp. 225, 239 
     Jenkins, Gela, p. 156
 </pre>
-   </div></div>
+   </div>
+</div>

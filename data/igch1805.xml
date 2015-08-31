@@ -1,28 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1805"><h1 property="skos:prefLabel" lang="en">IGCH 1805</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0137">138 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1805">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1805</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0138">138 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1805 Susiana, 1958-1959
     Burial: c. 138 B.C. 
     Contents: c. 200 AR
     Eastern imit. Alexander III: 10 tetradr. 
-    Antiochus II: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus II: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim</a>)
     Seleucus III: 1 tetradr. (unc. mint) 
     Antiochus III: 5 tetradr. (<a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">An-
-        tiocheia 2</a>, <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint" target="_blank">Laodiceia ad Mare 1</a>, unc.
+        tiocheia 2</a>, <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint"
+            target="_blank">Laodiceia ad Mare 1</a>, unc.
         western mint 1 as WSM 877, <a href="http://nomisma.org/id/nisibis" rel="nmo:hasMint" target="_blank">Nisibis</a>) 
-    Seleucus IV: 12 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Seleucus IV: 12 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 4</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 5</a>, <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">An-
         tiocheia 2</a>)
-    Antiochus IV: 22 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Antiochus IV: 22 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim 7</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 3</a>, <a href="http://nomisma.org/id/charax_spasinou" rel="nmo:hasMint" target="_blank">Antiocheia-Charax 
         Spasinou 3</a>, <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 5</a>, 
         <a href="http://nomisma.org/id/ace_ptolemais" rel="nmo:hasMint" target="_blank">Ace 3</a>)
     Antiochus V: 5 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia</a>)
-    Demetrius I: 43 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Demetrius I: 43 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 5</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 9</a>, <a href="http://nomisma.org/id/charax_spasinou" rel="nmo:hasMint" target="_blank">Antiocheia-Charax 
         Spasinou 3</a>, <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 3</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 22</a>, 
         <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1</a>)
-    Alexander I Bala: 17 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Alexander I Bala: 17 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim 1</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 10</a>, <a href="http://nomisma.org/id/charax_spasinou" rel="nmo:hasMint" target="_blank">Antiocheia-Charax 
         Spasinou 2</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 4</a>)
     Demetrius II: 2 tetradr. (<a href="http://nomisma.org/id/charax_spasinou" rel="nmo:hasMint" target="_blank">Antiocheia-Cha-
@@ -35,4 +47,5 @@
         York 1; Boston 2
     Mørkholm, AArch 1965, pp. 127-56, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

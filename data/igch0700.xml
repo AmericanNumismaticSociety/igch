@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0700"><h1 property="skos:prefLabel" lang="en">IGCH 0700</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0449">450 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0700">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0700</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0450">450 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">45.0861111111</span>
          <span property="geo:long">29.0844444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 700 Mahmudia, c. 22 km. SE of Tulcea, 
     Rumania, 1949
@@ -16,4 +24,5 @@
         privind istoria României 1, Bucharest, 1954),
         p. 186; Pontice 1968, p. 136, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0454"><h1 property="skos:prefLabel" lang="en">IGCH 0454</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0249">250 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0454">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0454</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0250">250 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">43.9711111111</span>
          <span property="geo:long">22.8091666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 454 Slana bara, c. 12 km. N of Vidin, 
     Bulgaria, 1940
@@ -26,4 +34,5 @@
         am Main, the remainder
     Gerasimov, BIAB 14 (1940-2), p. 284
 </pre>
-   </div></div>
+   </div>
+</div>

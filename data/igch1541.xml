@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1541"><h1 property="skos:prefLabel" lang="en">IGCH 1541</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0187">188 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1541">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1541</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0188">188 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">34.82083333</span>
       <span property="geo:long">36.12333333</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1541 Baiyada, near Safita (Pereia of Ara-
     dus), N. Phoenicia, 1949
     Burial: c. 188 B.C.
@@ -15,4 +22,5 @@
     Seyrig, RN 1963, pp. 42, 62; Trésors du Levant 
         (in press)
 </pre>
-   </div></div>
+   </div>
+</div>

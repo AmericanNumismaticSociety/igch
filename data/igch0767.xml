@@ -1,16 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0767"><h1 property="skos:prefLabel" lang="en">IGCH 0767</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0329">330 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0319">320 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0767">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0767</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0330">330 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0320">320 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">43.055</span>
          <span property="geo:long">26.7375</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 767 Staroselka, c. 42 km. S of Sumen, 
     Bulgaria, 1955
     Burial: c. 330-320 B.C. (T)
     Contents: c. 120 AR
-    <a href="http://nomisma.org/id/apollonia_pontica" rel="nmo:hasMint" target="_blank">Apollonia Pontica: tetrob.</a> 
+    <a href="http://nomisma.org/id/apollonia_pontica" rel="nmo:hasMint"
+            target="_blank">Apollonia Pontica: tetrob.</a> 
     Disposition: dispersed
     Gerasimov, BIAB 21 (1957), p. 325
 </pre>
-   </div></div>
+   </div>
+</div>

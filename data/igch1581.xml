@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1581"><h1 property="skos:prefLabel" lang="en">IGCH 1581</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0044">45 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1581">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1581</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0045">45 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1581 Syria or N. Phoenicia, 1922 
 (604, 871)
     Burial: c. 45 B.C. (Noe)
     Contents: 123+ AR
-    <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint" target="_blank">Laodiceia ad Mare: 70+ tetradr. (latest 
+    <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint"
+            target="_blank">Laodiceia ad Mare: 70+ tetradr. (latest 
         recorded yr. 3 = 47/6 B.C.)
         ANS 1944.100.66289
             ANS 1944.100.66290
@@ -80,4 +87,5 @@
         Aradus), Latakia (anc. Laodiceia ad 
         Mare), and near Aleppo
 </pre>
-   </div></div>
+   </div>
+</div>

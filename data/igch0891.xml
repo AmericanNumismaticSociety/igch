@@ -1,16 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0891"><h1 property="skos:prefLabel" lang="en">IGCH 0891</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0149">150 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0891">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0891</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">44.1138888889</span>
          <span property="geo:long">27.2386111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 891 Silistra, Bulgaria, c. 1968
     Burial: c. 150 B.C. (Price)
     Contents: AR
     Alexander III: many late post. tetradr. 
-        (incl. <a href="http://nomisma.org/id/dionysopolis_thrace" rel="nmo:hasMint" target="_blank">Dionysopolis 1</a>, <a href="http://nomisma.org/id/mesembria" rel="nmo:hasMint" target="_blank">Mesembria 2</a>) 
+        (incl. <a href="http://nomisma.org/id/dionysopolis_thrace" rel="nmo:hasMint"
+            target="_blank">Dionysopolis 1</a>, <a href="http://nomisma.org/id/mesembria" rel="nmo:hasMint" target="_blank">Mesembria 2</a>) 
     Disposition: dispersed
     Reported by M. Price
 </pre>
-   </div></div>
+   </div>
+</div>

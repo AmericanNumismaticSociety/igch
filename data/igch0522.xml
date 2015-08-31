@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0522"><h1 property="skos:prefLabel" lang="en">IGCH 0522</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0124">125 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0522">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0522</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0125">125 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">43.14777778</span>
       <span property="geo:long">25.61388889</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 522 Samovodene, just N of Veliko Târ-
 (905)     novo, Bulgaria, 1933
@@ -11,7 +18,8 @@
     Alexander III: 4 late post. tetradr. (<a href="http://nomisma.org/id/mesembria" rel="nmo:hasMint" target="_blank">Me-
         sembria)</a>
     Imit. Philip III: 5 tetradr.
-    <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint" target="_blank">Macedonia, 1st Region: 1 tetradr.</a>
+    <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint"
+            target="_blank">Macedonia, 1st Region: 1 tetradr.</a>
          <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 15 spread-flan tetradr.</a>
          <a href="http://nomisma.org/id/odessus" rel="nmo:hasMint" target="_blank">Odessus: 50 AE</a>
     Disposition: Sofia 1 Alexander; Veliko 
@@ -21,4 +29,5 @@
     The earlier publication mentions tetradr. 
         of Maroneia as part of a total of 23 AR
 </pre>
-   </div></div>
+   </div>
+</div>

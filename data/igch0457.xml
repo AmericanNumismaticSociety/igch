@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0457"><h1 property="skos:prefLabel" lang="en">IGCH 0457</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0239">240 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0229">230 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0457">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0457</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0240">240 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0230">230 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.2988888889</span>
          <span property="geo:long">21.7891666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 457 Kozani, Macedonia, 1955
     Burial: 240-230 B.C. 
@@ -14,7 +27,9 @@
     Ptolemy I: 8 tetradr.
     Ptolemy II: 6 tetradr.
     Disposition: Detroit (Money Mus.)
-    <a rel="dc:references" href="http://www.scribd.com/doc/114839659/Kozani-11955-Hoard-IGCH-457">Dodson-Wallace, ANSMN 11 (1964), pp. 21-8, 
+    <a rel="dc:references"
+            href="http://www.scribd.com/doc/114839659/Kozani-11955-Hoard-IGCH-457">Dodson-Wallace, ANSMN 11 (1964), pp. 21-8, 
         illus.</a>
       </pre>
-   </div></div>
+   </div>
+</div>

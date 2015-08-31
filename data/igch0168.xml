@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0168"><h1 property="skos:prefLabel" lang="en">IGCH 0168</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0168">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0168</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.6402777778</span>
          <span property="geo:long">22.415</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 168 Larissa environs, Thessaly, 1937-1938 
     Burial: soon after 250 B.C. (Merker) 
@@ -190,13 +197,15 @@
       ANS 1944.100.54036
             ANS 1944.100.77467
             ANS 1944.100.77487,</a> 
-         <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alex. Troas 1
+         <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alex. Troas 1
       ANS 1944.100.54035,</a> 
          <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 2
       ANS 1944.100.54034 
             ANS 1944.100.77575,</a> 
          <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus 1,</a> 
-         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1
+         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1
       ANS 1944.100.77790
             ANS 1944.100.31780
             ANS 1944.100.31779
@@ -478,4 +487,5 @@
         by the parenthetical entries, are al-
         most certainly part of this hd.
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1326"><h1 property="skos:prefLabel" lang="en">IGCH 1326</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0134">135 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0129">130 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1326">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1326</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0135">135 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0130">130 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">39.64916667</span>
       <span property="geo:long">27.88611111</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1326 Balikesir, Mysia, 1958
     Burial: c. 135-130 B.C. (Kleiner)
     Contents: c. 100 AR
@@ -49,7 +61,8 @@
             ANS 1960.33.33
             ANS 1960.33.32
          </a>
-         <a href="http://nomisma.org/id/laodiceia_ad_lycum" rel="nmo:hasMint" target="_blank">Laodiceia 1
+         <a href="http://nomisma.org/id/laodiceia_ad_lycum" rel="nmo:hasMint"
+            target="_blank">Laodiceia 1
      ANS 1960.33.34
          </a>
     Disposition: New York 28 
@@ -57,4 +70,5 @@
     Seen in two lots of 28 and 22 pieces, said
         to be part of a hd. of 100 coins
 </pre>
-   </div></div>
+   </div>
+</div>

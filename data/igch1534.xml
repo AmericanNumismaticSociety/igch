@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1534"><h1 property="skos:prefLabel" lang="en">IGCH 1534</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0249">250 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0199">200 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1534">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1534</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0250">250 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">36.97888889</span>
       <span property="geo:long">38.43361111</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1534 Bab (anc. Batnae) environs, between 
     Beroea and Hierapolis, Cyrrhestica, 1944
     Burial: 250-200 B.C. (Thompson-Bellinger) 
@@ -10,22 +22,26 @@
     Alexander 111 lifetime and post.: <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lamp-
         sacus 31 (12)</a>, <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 33 (15)</a>,<a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank"> Colo-
         phon 32 (11)</a>, <a href="http://nomisma.org/id/teos" rel="nmo:hasMint" target="_blank">Teos 8 (2)</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 10 
-        (14)</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 16 (6)</a>,<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank"> Sardes 3 (3)</a>, 
+        (14)</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 16 (6)</a>,<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank"> Sardes 3 (3)</a>, 
         <a href="http://nomisma.org/id/tenedos" rel="nmo:hasMint" target="_blank">Tenedos? 1 (1)</a>, <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios 1 (14)</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus
         1</a>, <a href="http://nomisma.org/id/euboea" rel="nmo:hasMint" target="_blank">Euboea ? 6 (5)</a>, <a href="http://nomisma.org/id/pamphylia" rel="nmo:hasMint" target="_blank">Pamphylia ? 5 (1)</a>, 
         <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus 1 (1)</a>, unc. mints 4 (9)
     Philip III: <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 8 (4</a>), <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus (1)</a>,
-        <a href="http://nomisma.org/id/teos" rel="nmo:hasMint" target="_blank">Teos 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 16 (3)</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 5
+        <a href="http://nomisma.org/id/teos" rel="nmo:hasMint" target="_blank">Teos 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 16 (3)</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 5
         (3)</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 3 (2)</a>, <a href="http://nomisma.org/id/pamphylia" rel="nmo:hasMint" target="_blank">Pam-
         phylia ? 1</a>
     Demetrius Poliorcetes: <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 6 (2)</a>
     Lysimachus: <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 5 (5)</a>, <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 3</a>, 
-        <a href="http://nomisma.org/id/teos" rel="nmo:hasMint" target="_blank">Teos 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 6 (5)</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1 (3)</a>, 
+        <a href="http://nomisma.org/id/teos" rel="nmo:hasMint" target="_blank">Teos 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 6 (5)</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1 (3)</a>, 
         <a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Mytilene (1)</a>, <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus (9)</a>, <a href="http://nomisma.org/id/lysimachia" rel="nmo:hasMint" target="_blank">Lysimacheia 
         1</a>, <a href="http://nomisma.org/id/thrace" rel="nmo:hasMint" target="_blank">Thrace ? (1)</a>, unc. mint (1)
     Seleucus I: Unc. mint of the Aradian 
         Paralia ? (1)
-    Antiochus I: <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim (1)</a> 
+    Antiochus I: <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim (1)</a> 
     Disposition: <a href="http://nomisma.org/id/yale" rel="nm:collection" target="_blank">Yale 209
     Yale id 139856
             Yale id 139857
@@ -247,4 +263,5 @@
     The numbers in parentheses refer to coins 
         seen by H. Seyrig
 </pre>
-   </div></div>
+   </div>
+</div>

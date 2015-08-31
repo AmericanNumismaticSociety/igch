@@ -1,20 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1777"><h1 property="skos:prefLabel" lang="en">IGCH 1777</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0139">140 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1777">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1777</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0140">140 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1777 Mesopotamia, 1925 
     Burial: c. 140 B.C. (M) 
     Contents: 15+ AR
-    Antiochus II: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus II: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim</a>)
     Seleucus II: 1 tetradr. (<a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia</a>)
     Seleucus III: 2 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia)
     ANS 1944.100.75114
             ANS 1944.100.75115
          </a>
-    Antiochus III: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus III: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim</a>)
     Antiochus V: 1 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia</a>) 
     Demetrius I: 1 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia</a>) 
-    Alexander I Bala: 3 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad
+    Alexander I Bala: 3 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad
         Tigrim 2</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 1</a>)
     Demetrius II, 1st reign: 1 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">An-
         tiocheia</a>)
@@ -22,4 +31,5 @@
     Newell, ESM, index of hoards, s. v. Mesopotamia 
         1925. Record of varieties in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

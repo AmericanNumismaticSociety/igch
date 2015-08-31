@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0695"><h1 property="skos:prefLabel" lang="en">IGCH 0695</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0474">475 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0695">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0695</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0475">475 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">42.13916667</span>
       <span property="geo:long">25.23111111</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 695 Krusevo, c. 32 km. E of Plovdiv, Bul-
     garia, 1967
@@ -14,4 +21,5 @@
     Disposition: Plovdiv
     Reported by T. Gerasimov
 </pre>
-   </div></div>
+   </div>
+</div>

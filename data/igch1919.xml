@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1919"><h1 property="skos:prefLabel" lang="en">IGCH 1919</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0369">370 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0329">330 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1919">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1919</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0370">370 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0330">330 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.5733333333</span>
          <span property="geo:long">16.3622222222</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1919 Reggio environs, Bruttium, 1938 
     Burial: mid 4th cent. B.C. (K)
     Contents: 6+ AR
@@ -11,4 +24,5 @@
     Disposition: Lockett (SNG 3484-9) 
     Possibly part of no. 1930 below
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0181"><h1 property="skos:prefLabel" lang="en">IGCH 0181</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0181">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0181</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.0819444444</span>
          <span property="geo:long">22.4236111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 181 Sparta, Laconia, 1908 
 (1004)
@@ -30,16 +37,19 @@
     <a href="http://nomisma.org/id/lacedaemon" rel="nmo:hasMint" target="_blank">Sparta:</a> 7 tetradr.
     Seleucus I: 1 tetradr. (Laod. ad Mare as 
         WSM 1220)
-    Antiochus I: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Sel. ad Tigrim as 
+    Antiochus I: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Sel. ad Tigrim as 
         ESM 149)</a>
     Antiochus II: 1 tetradr. (<a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia as WSM 
         1142)</a>
-    Antiochus Hierax: 1 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alex. Troas 
+    Antiochus Hierax: 1 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alex. Troas 
         as WSM 1574)</a>
     Ptolemy I: 4 tetradr.
     Ptolemy II: 8 tetradr.
     Disposition: Athens
-† <a rel="dc:references" href="http://books.google.com/books?id=5GgKAAAAIAAJ&amp;pg=PA149#v=onepage&amp;q&amp;f=false">Wace, BSA 1907-8, pp. 149-58, illus.</a>
+† <a rel="dc:references"
+            href="http://books.google.com/books?id=5GgKAAAAIAAJ&amp;pg=PA149#v=onepage&amp;q&amp;f=false">Wace, BSA 1907-8, pp. 149-58, illus.</a>
     Svoronos, JIAN 1909-10, pp. 63-8; Athènes, 
         pl. 29
     Newell, Demetrius, p. 165
@@ -48,4 +58,5 @@
         reference to ESM p. 76 should read An-
         tiochus I not Seleucus II)
 </pre>
-   </div></div>
+   </div>
+</div>

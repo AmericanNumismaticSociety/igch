@@ -1,16 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0556"><h1 property="skos:prefLabel" lang="en">IGCH 0556</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0199">200 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0556">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0556</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">41.3122222222</span>
          <span property="geo:long">19.4452777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 556 Durazzo (Durrës; anc. Dyrrhachium), 
 (356)     Albania, 1894
     Burial: before 250 B.C. (Ceka); 2nd cent. 
         B.C. (T)
     Contents: 52 AR
-    <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint" target="_blank">Apollonia: 2 dr.</a> 
+    <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint"
+            target="_blank">Apollonia: 2 dr.</a> 
          <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: 50 dr.</a>
     Disposition: Vienna 48
 † von Krekich-Strassoldo, MonatsblNumGesWien 
@@ -18,4 +32,5 @@
     Münsterberg, MonatsblNumGesWien 1917, p. 259 
     Ceka, Studia Albanica 1 (1966), pp. 218-9
 </pre>
-   </div></div>
+   </div>
+</div>

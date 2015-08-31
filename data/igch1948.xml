@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1948"><h1 property="skos:prefLabel" lang="en">IGCH 1948</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1948">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1948</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.3856</span>
          <span property="geo:long">16.1080</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1948 S. Giorgio Morgeto, near Rosarno 
 (910)     (anc. Medma), Bruttium, 1914
     Burial: c. 300 B.C. ? (K) 
@@ -13,4 +21,5 @@
     Disposition: dispersed
     Putorti, NSc 1914, pp. 211-2
 </pre>
-   </div></div>
+   </div>
+</div>

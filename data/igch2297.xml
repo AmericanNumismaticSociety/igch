@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2297"><h1 property="skos:prefLabel" lang="en">IGCH 2297</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2297">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2297</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">36.7861111111</span>
          <span property="geo:long">11.9894444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2297 Pantelleria (anc. Cossura), 1895 
     Burial: 200 B.C. (Jenkins)
     Contents: 48 AE
@@ -13,4 +21,5 @@
     Currò Pisanò AIIN 1962-4, p. 232 
     Note by G. K. Jenkins in BM
 </pre>
-   </div></div>
+   </div>
+</div>

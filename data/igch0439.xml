@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0439"><h1 property="skos:prefLabel" lang="en">IGCH 0439</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0439">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0439</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">43.9936111111</span>
          <span property="geo:long">24.5833333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 439 Scarisoara, c. 33 km. SE of Bucharest, 
     Rumania, 1950-1952
@@ -15,4 +23,5 @@
     Preda, Dacia 1966, pp. 221-35, illus.; SCN 4 
         (1968), pp. 441-2, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

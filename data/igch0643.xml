@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0643"><h1 property="skos:prefLabel" lang="en">IGCH 0643</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0088">89 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0643">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0643</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0089">89 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">44.9608333333</span>
          <span property="geo:long">16.1788888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 643 Vrankamen-Berg, between Krupa 
 (1169)     (mod. Krupanj ?) and Otoka, Bosnia, 
@@ -28,4 +36,5 @@
     Willers, NZ 1904, pp. 6-7, note 1
     Haeberlin, Aes Grave (Frankfurt, 1910), p. 16
 </pre>
-   </div></div>
+   </div>
+</div>

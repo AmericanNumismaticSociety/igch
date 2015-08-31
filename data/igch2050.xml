@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2050"><h1 property="skos:prefLabel" lang="en">IGCH 2050</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0207">208 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0149">150 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2050">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2050</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0208">208 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">44.5630555556</span>
          <span property="geo:long">11.0341666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2050 San Cesario, 16 km. SE of Modena, 
 (699)     Gallia Cispadana, 1834
     Burial: 208-150 B.C. (Crawford)
@@ -16,4 +29,5 @@
     Thomsen, ERC I, p. 108
     Crawford, RRCH 111
 </pre>
-   </div></div>
+   </div>
+</div>

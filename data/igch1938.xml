@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1938"><h1 property="skos:prefLabel" lang="en">IGCH 1938</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0349">350 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1938">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1938</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0350">350 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">41.2185</span>
          <span property="geo:long">14.3121</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1938 Calvi Risorta (anc. Cales), Campania, 
     1959
     Burial: 350-300 B.C.
@@ -13,11 +26,13 @@
          <a href="http://nomisma.org/id/allifae" rel="nmo:hasMint" target="_blank">Allifae: 11 ob.</a>
          <a href="http://nomisma.org/id/cumae" rel="nmo:hasMint" target="_blank">Cumae: 2 st.</a>
          <a href="http://nomisma.org/id/hyria_campania" rel="nmo:hasMint" target="_blank">Hyria: 4 st.</a>
-         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis: 8 st.; 11 fr.</a>
+         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint"
+            target="_blank">Neapolis: 8 st.; 11 fr.</a>
          <a href="http://nomisma.org/id/nola" rel="nmo:hasMint" target="_blank">Nola: 4 st.</a>
          <a href="http://nomisma.org/id/phistelia" rel="nmo:hasMint" target="_blank">Phistelia: 1 st.; 70 ob.</a>
          <a href="http://nomisma.org/id/phistelia" rel="nmo:hasMint" target="_blank">Phistelia?: 44 ob. (rev. lion)</a>
     Disposition: Naples
     Stazio, PP 1960, pp. 225-8
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,19 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0921"><h1 property="skos:prefLabel" lang="en">IGCH 0921</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0124">125 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0921">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0921</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0125">125 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.2144444444</span>
          <span property="geo:long">26.1633333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 921 Maca, Nova Zagora district, Bulgaria, 
     1954
     Burial: c. 125-100 B.C. (T)
     Contents: 520 AR
     Alexander III: 24 tetradr.; 30 dr. 
-    <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint" target="_blank">Macedonia, 1st Region: 1 tetradr.</a> 
+    <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint"
+            target="_blank">Macedonia, 1st Region: 1 tetradr.</a> 
          <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 411 spread-flan tetradr.</a> 
     Lysimachus: 22 tetradr.
     Disposition: Nova Zagora 488
     Gerasimov, BIAB 20 (1955), p. 610
 </pre>
-   </div></div>
+   </div>
+</div>

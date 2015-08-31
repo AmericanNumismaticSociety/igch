@@ -1,17 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0078"><h1 property="skos:prefLabel" lang="en">IGCH 0078</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0322">323 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0078">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0078</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0323">323 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
       <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.4930555556</span>
          <span property="geo:long">22.9811111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 78 Orchomenus, Boeotia, 1920 
 (769)
     Burial: c.  B.C. 
     Contents: 133 AR
     <a href="http://nomisma.org/id/phocis" rel="nmo:hasMint" target="_blank">Phocis:</a> fr.
-    <a href="http://nomisma.org/id/orchomenus_boeotia" rel="nmo:hasMint" target="_blank">Orchomenus:</a> triob.; fr.
+    <a href="http://nomisma.org/id/orchomenus_boeotia" rel="nmo:hasMint"
+            target="_blank">Orchomenus:</a> triob.; fr.
     <a href="http://nomisma.org/id/coroneia" rel="nmo:hasMint" target="_blank">Coroneia?:</a> fr. 
     <a href="http://nomisma.org/id/plataea" rel="nmo:hasMint" target="_blank">Plataea:</a> triob. 
     <a href="http://nomisma.org/id/thebes" rel="nmo:hasMint" target="_blank">Thebes:</a> triob.; fr.
@@ -24,4 +32,5 @@
     Seltman, The Temple Coins of Olympia (Cam-
         bridge, 1921), pp. 111-3
 </pre>
-   </div></div>
+   </div>
+</div>

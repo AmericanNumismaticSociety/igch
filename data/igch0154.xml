@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0154"><h1 property="skos:prefLabel" lang="en">IGCH 0154</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0269">270 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0154">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0154</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0270">270 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 154 Crete, central region, 1936 
 (62, 283)
@@ -11,7 +22,8 @@
     <a href="http://nomisma.org/id/argos_argolis" rel="nmo:hasMint" target="_blank">Argos:</a> 27 tetrob. 
     <a href="http://nomisma.org/id/cydonia" rel="nmo:hasMint" target="_blank">Pseudaeginetica:</a> 1 triob.
     <a href="http://nomisma.org/id/axus" rel="nmo:hasMint" target="_blank">Axus?:</a> 1 st.
-    <a href="http://nomisma.org/id/chersonesus_crete" rel="nmo:hasMint" target="_blank">Chersonesus:</a> 2 st. 
+    <a href="http://nomisma.org/id/chersonesus_crete" rel="nmo:hasMint"
+            target="_blank">Chersonesus:</a> 2 st. 
     <a href="http://nomisma.org/id/cnossus" rel="nmo:hasMint" target="_blank">Cnossus:</a> 14 st.; 5 dr. 
     <a href="http://nomisma.org/id/cydonia" rel="nmo:hasMint" target="_blank">Cydonia:</a> 3 st.
     <a href="http://nomisma.org/id/eleutherna" rel="nmo:hasMint" target="_blank">Eleutherna:</a> 1 ob. 
@@ -45,4 +57,5 @@
         nad should be added to the Athens total
     See also no. 318 below
 </pre>
-   </div></div>
+   </div>
+</div>

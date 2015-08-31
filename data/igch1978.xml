@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1978"><h1 property="skos:prefLabel" lang="en">IGCH 1978</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0269">270 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1978">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1978</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0270">270 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.4841666667</span>
          <span property="geo:long">18.0525</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1978 Torchiarolo, before 1931 
 (608)
     Burial: c. 270 B.C. (K)
@@ -19,4 +27,5 @@
         large Torchiarolo 1926 hd., no. 1977 
         above
 </pre>
-   </div></div>
+   </div>
+</div>

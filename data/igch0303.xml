@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0303"><h1 property="skos:prefLabel" lang="en">IGCH 0303</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot" resource="http://nomisma.org/id/delphi">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0303">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0303</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot" resource="http://nomisma.org/id/delphi">
          <span property="geo:lat">38.483333</span>
          <span property="geo:long">22.5</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 303 , Delphi, Phocis 1907
     Burial: 2nd cent. B.C. (Oeconomides) 
@@ -17,4 +30,5 @@
     Disposition: Athens
     Svoronos, JIAN 1908, pp. 265-6
 </pre>
-   </div></div>
+   </div>
+</div>

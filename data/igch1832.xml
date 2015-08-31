@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1832"><h1 property="skos:prefLabel" lang="en">IGCH 1832</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0239">240 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0199">200 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1832">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1832</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0240">240 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">33.7538888889</span>
          <span property="geo:long">72.8188888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1832 Bhir Mound, 1913
 (1070)
     Burial: c. 240-200 B.C. (M)
@@ -16,4 +29,5 @@
     Marshall, Taxila 1-2 (Cambridge, 1951), pp. 
         105-6, 110-11, 751, 798, 835, 843, 850-2, 854
 </pre>
-   </div></div>
+   </div>
+</div>

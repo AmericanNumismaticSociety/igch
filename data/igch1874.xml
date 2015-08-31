@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1874"><h1 property="skos:prefLabel" lang="en">IGCH 1874</h1><span rel="nmo:hasFindspot">1874 Taranto, Calabria, <span property="geo:lat">40.46916667</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1874">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1874</h1>
+   <span rel="nmo:hasFindspot">1874 Taranto, Calabria, <span property="geo:lat">40.46916667</span>
             <span property="geo:long">17.23972222</span>
-         </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
          , 1911 
 (1052)
-    Burial: c. <span property="" datatype="xsd:gYear" content="-0507">508 B.C.</span> (Babelon)
+    Burial: c. <span property="" datatype="xsd:gYear" content="-0508">508 B.C.</span> (Babelon)
     Contents: c. 600 AR. In vase with c. 6 kg. of 
         ingots and worked silver
     <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 149+ incuse</a> 
@@ -68,7 +74,8 @@
         pp. 304-43)
     Orsi, AttiMemIIN 1919, p. 29 
     Kraay, NC 1956, p. 49
-    <a rel="dc:references" href="http://numismatics.org/html/dpubs/taranto1911/indeximages.html">Kroll and Heath 2002</a>
+    <a rel="dc:references"
+            href="http://numismatics.org/html/dpubs/taranto1911/indeximages.html">Kroll and Heath 2002</a>
     Vlasto, through whose hands the bulk of 
         the hd. passed, was convinced that the 
         whole formed a single find. This first-
@@ -84,4 +91,5 @@
         pieces in the BM may suggest a some-
         what later date
 </pre>
-   </div></div>
+   </div>
+</div>

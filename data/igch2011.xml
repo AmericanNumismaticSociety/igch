@@ -1,16 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2011"><h1 property="skos:prefLabel" lang="en">IGCH 2011</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0219">220 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2011">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2011</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0220">220 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">41.2386111111</span>
          <span property="geo:long">13.9302777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2011 Sessa (anc. Suessa Aurunca), Cam-
     pania, 1930?
     Burial: c. 220 B.C. (Crawford)
     Contents: 35 AR, 3 AE. Pot hoard
     <a href="http://nomisma.org/id/cales" rel="nmo:hasMint" target="_blank">Cales: 1 AE</a>
-         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis: 1 st.; 1 AE</a>
-         <a href="http://nomisma.org/id/campano-tarentine" rel="nmo:hasMint" target="_blank">Campano-Tarentine: 2 st.</a>
+         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint"
+            target="_blank">Neapolis: 1 st.; 1 AE</a>
+         <a href="http://nomisma.org/id/campano-tarentine" rel="nmo:hasMint"
+            target="_blank">Campano-Tarentine: 2 st.</a>
          <a href="http://nomisma.org/id/velia" rel="nmo:hasMint" target="_blank">Velia: 1 st.</a>
          <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: 5 st. (ROMANO; ROMA) 
             26 quadrig. (21 halved)
@@ -19,4 +29,5 @@
 † Breglia, Numismatica (1946), pp. 1-5 
     Crawford, RRCH 48
 </pre>
-   </div></div>
+   </div>
+</div>

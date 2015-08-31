@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1774"><h1 property="skos:prefLabel" lang="en">IGCH 1774</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0154">155 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0149">150 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1774">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1774</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0155">155 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">32.48555556</span>
       <span property="geo:long">44.43444444</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1774 Babylon, Babylonia, 1900 
 (116)
     Burial: c. 155-150 B.C.
@@ -10,12 +22,14 @@
     Alexander III: 43 late post. tetradr. ( <a href="http://nomisma.org/id/callatis" rel="nmo:hasMint" target="_blank">Cal-
         latis ? 1</a>,  <a href="http://nomisma.org/id/mesembria" rel="nmo:hasMint" target="_blank">Mesembria 1</a>,  <a href="http://nomisma.org/id/assus" rel="nmo:hasMint" target="_blank">Assus 1</a>,  <a href="http://nomisma.org/id/cyme_aeolis" rel="nmo:hasMint" target="_blank">Cyme
         2</a>, <a href="http://nomisma.org/id/myrina_aeolis" rel="nmo:hasMint" target="_blank">Myrina 3</a>,  <a href="http://nomisma.org/id/temnus" rel="nmo:hasMint" target="_blank">Temnus 7</a>,  <a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Mytilene 3</a>, 
-         <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 1</a>,  <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1</a>,  <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1</a>, 
+         <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 1</a>,  <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1</a>,  <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1</a>, 
          <a href="http://nomisma.org/id/smyrna" rel="nmo:hasMint" target="_blank">Smyrna 1</a>,  <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios 5</a>,  <a href="http://nomisma.org/id/cos" rel="nmo:hasMint" target="_blank">Cos 1</a>,  <a href="http://nomisma.org/id/rhodes" rel="nmo:hasMint" target="_blank">Rhodes 2</a>, 
          <a href="http://nomisma.org/id/phaselis" rel="nmo:hasMint" target="_blank">Phaselis 2</a>,  <a href="http://nomisma.org/id/aspendus" rel="nmo:hasMint" target="_blank">Aspendus 9</a>,  <a href="http://nomisma.org/id/perge" rel="nmo:hasMint" target="_blank">Perge 1</a>, 
         unc. 1)
     Lysimachus: 4 lifetime tetradr. ( <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lamp-
-        sacus 2</a>,  <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia Troas 1</a>, unc. 1)
+        sacus 2</a>,  <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia Troas 1</a>, unc. 1)
             7 post. tetradr. ( <a href="http://nomisma.org/id/byzantium" rel="nmo:hasMint" target="_blank">Byzantium
         3</a>,  <a href="http://nomisma.org/id/calchedon" rel="nmo:hasMint" target="_blank">Calchedon 2</a>,  <a href="http://nomisma.org/id/tenedos" rel="nmo:hasMint" target="_blank">Tenedos 1</a>, unc. 1) 
     <a href="http://nomisma.org/id/samothrace" rel="nmo:hasMint" target="_blank">Samothrace: 1 tetradr.</a>
@@ -24,7 +38,8 @@
     Mithradates III, Pontus: 1 tetradr. 
     <a href="http://nomisma.org/id/cyzicus" rel="nmo:hasMint" target="_blank">Cyzicus: 1 tetradr.</a>
     Eumenes II: 8 tetradr.
-    <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia Troas: 1 tetradr.</a>
+    <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia Troas: 1 tetradr.</a>
          <a href="http://nomisma.org/id/ilium" rel="nmo:hasMint" target="_blank">Ilium: 5 tetradr.</a>
          <a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Mytilene: 1 tetradr.</a>
          <a href="http://nomisma.org/id/cos" rel="nmo:hasMint" target="_blank">Cos: 2 tetradr.</a>
@@ -37,4 +52,5 @@
     Disposition: Berlin
     Regling, ZfN 1928, pp. 92-132, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

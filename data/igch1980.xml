@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1980"><h1 property="skos:prefLabel" lang="en">IGCH 1980</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0269">270 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1980">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1980</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0270">270 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.3833333333</span>
          <span property="geo:long">16.8263888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1980 Metaponto, Lucania, c. 1910
 (128 = 897)
     Burial: c. 270 B.C. (K) 
     Contents: 85+ AR
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 3 st. (to Per. VIII) </a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 13 st.</a>
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 13 st.</a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 67 st.</a>
          <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium: a few st.</a>
          <a href="http://nomisma.org/id/velia" rel="nmo:hasMint" target="_blank">Velia: 2 st.</a>
@@ -35,4 +44,5 @@
         is the same as that later and more fully 
         published by Evans (N. 897)
 </pre>
-   </div></div>
+   </div>
+</div>

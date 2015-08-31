@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1968"><h1 property="skos:prefLabel" lang="en">IGCH 1968</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0269">270 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1968">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1968</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0270">270 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.1219444444</span>
          <span property="geo:long">16.9594444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1968 Scandale, 15 km. WNW of Croton, 
     Bruttium, 1959
     Burial: early 3rd cent. B.C. (K)
@@ -12,10 +25,12 @@
          <a href="http://nomisma.org/id/syracuse" rel="nmo:hasMint" target="_blank">Syracuse: 1 EL (Apollo/tripod)</a>
          <a href="http://nomisma.org/id/anactorium" rel="nmo:hasMint" target="_blank">Anactorium: 3 Pegasi (1 ΝΑϒ fillet; 2 ΔΩ 
         altar)</a>
-         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Argos: 4 Pegasi (2 spear; 2 ΔΙ shield) </a>
+         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Argos: 4 Pegasi (2 spear; 2 ΔΙ shield) </a>
          <a href="http://nomisma.org/id/thyrrheium" rel="nmo:hasMint" target="_blank">Thyrrheium: 1 Pegasus (earring symbol) </a>
     Unc.: 1 Pegasus
     Disposition: Reggio
     Listed by K in 1969; all coins very worn
 </pre>
-   </div></div>
+   </div>
+</div>

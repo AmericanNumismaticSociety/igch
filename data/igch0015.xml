@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0015"><h1 property="skos:prefLabel" lang="en">IGCH 0015</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0469">470 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0015">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0015</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0470">470 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
       <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.6380555556</span>
          <span property="geo:long">21.63</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 15 Olympia environs, Elis, 1958-1960 
     Burial: c.  B.C. (Franke)
@@ -14,4 +21,5 @@
     Information from Peter Franke who has list and 
         casts
 </pre>
-   </div></div>
+   </div>
+</div>

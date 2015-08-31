@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1929"><h1 property="skos:prefLabel" lang="en">IGCH 1929</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0333">334 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1929">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1929</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0334">334 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.8255555556</span>
          <span property="geo:long">16.5447222222</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1929 Taranto ("Molossian Find"), Cala-
 (1058)     bria, 1925
     Burial: c. 334 B.C. (Vlasto) 
     Contents: 17+ AR. Part of hoard?
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 3 st. (to Per. IV, A1) </a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 3 st.</a>
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 3 st.</a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 4 st.</a>
          <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thorium: 2 st.</a>
          <a href="http://nomisma.org/id/velia" rel="nmo:hasMint" target="_blank">Velia: 2 st.</a>
@@ -26,4 +35,5 @@
         no. 2006; 855-7 could derive from 
         either no. 2000 or no. 1998
 </pre>
-   </div></div>
+   </div>
+</div>

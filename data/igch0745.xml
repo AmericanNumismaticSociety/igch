@@ -1,19 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0745"><h1 property="skos:prefLabel" lang="en">IGCH 0745</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0329">330 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0319">320 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0745">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0745</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0330">330 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0320">320 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">41.6738888889</span>
          <span property="geo:long">26.5619444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 745 Adrianople, c. 1855 (?) 
 (16)
     Burial: c. 330-320 B.C. (T)
     Contents: "several hundred" AR. Pot hoard 
-    <a href="http://nomisma.org/id/the_thracian_chersonese" rel="nmo:hasMint" target="_blank">Thracian Chersonese: "several hundred" 
+    <a href="http://nomisma.org/id/the_thracian_chersonese" rel="nmo:hasMint"
+            target="_blank">Thracian Chersonese: "several hundred" 
         hemidr.</a>
          <a href="http://nomisma.org/id/parium" rel="nmo:hasMint" target="_blank">Parium: "several hundred" hemidr.</a> 
     Disposition: von Prokesch-Osten 32 Chers.
     von Prokesch-Osten, Inedita (Vienna, 1859), pp. 
         303-4
 </pre>
-   </div></div>
+   </div>
+</div>

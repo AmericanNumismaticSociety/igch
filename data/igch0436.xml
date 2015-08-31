@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0436"><h1 property="skos:prefLabel" lang="en">IGCH 0436</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0436">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0436</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">41.6833333333</span>
          <span property="geo:long">19.7194444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 436 Pllanë (anc. Bassania), c. 15 km. SE 
     of Lezhe, Albania, 1960
@@ -12,4 +20,5 @@
     <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: dr. (Corinthian types)</a> 
     Disposition: Lezhe
 </pre>
-   </div></div>
+   </div>
+</div>

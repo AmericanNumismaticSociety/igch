@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1932"><h1 property="skos:prefLabel" lang="en">IGCH 1932</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0314">315 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1932">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1932</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0315">315 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.8255555556</span>
          <span property="geo:long">16.5447222222</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1932 Taranto, Calabria, 1883 
 (1045)
     Burial: 315 B.C. (Evans, Vlasto) 
@@ -21,4 +29,5 @@
     Evans, NC 1889, pp. 97-100 
     Vlasto, NC 1930, pp. 135-42
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1667"><h1 property="skos:prefLabel" lang="en">IGCH 1667</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0310">311 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0309">310 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1667">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1667</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0311">311 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0310">310 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">31.0988888889</span>
          <span property="geo:long">30.3177777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1667 Abu Hommos, 40 km. SE of Alex-
 (5)     andria, 1919
     Burial: 311-310 B.C. (Newell)
@@ -274,7 +287,8 @@
          </a>, 
         <a href="http://nomisma.org/id/sidon" rel="nmo:hasMint" target="_blank">Sidon 1</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 9</a>)
     Ptolemy I (Alexander hd./Athena): 250 
-        tetradr. (<a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Alexandreia
+        tetradr. (<a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint"
+            target="_blank">Alexandreia
         ANS 1944.100.75468
             ANS 1944.100.75488
             ANS 1944.100.75490
@@ -320,4 +334,5 @@
     Note by E. T. Newell in ANS; additional in-
         formation from M. J. Price
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1952"><h1 property="skos:prefLabel" lang="en">IGCH 1952</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1952">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1952</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">41.1172222222</span>
          <span property="geo:long">16.4836111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1952 Ruvo (anc. Rubi), 35 km. W of Bari, 
 (876)     Apulia, 1877
     Burial: c. 300 B.C. (K)
     Contents: 57 AR
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 17 </a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 16</a>
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 16</a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 19</a>
          <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium: 1</a>
          <a href="http://nomisma.org/id/croton" rel="nmo:hasMint" target="_blank">Croton: 2 </a>
@@ -22,4 +31,5 @@
         which should indicate late 4th or early 
         3rd cent.
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,20 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0306"><h1 property="skos:prefLabel" lang="en">IGCH 0306</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0306">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0306</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.8586111111</span>
          <span property="geo:long">21.1683333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 306 Vrankiana Argithea, near Karditsa, 
     Thessaly, 1962
     Burial: 2nd cent. B.C. (T) 
     Contents: 13 AE
-    <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint" target="_blank">Thessalian League:</a> 1 
+    <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint"
+            target="_blank">Thessalian League:</a> 1 
     <a href="http://nomisma.org/id/magnetes" rel="nmo:hasAuthority" target="_blank">Magnetes:</a> 2
-    <a href="http://nomisma.org/id/metropolis_thessaly" rel="nmo:hasMint" target="_blank">Metropolis, Thessaly:</a> 1
+    <a href="http://nomisma.org/id/metropolis_thessaly" rel="nmo:hasMint"
+            target="_blank">Metropolis, Thessaly:</a> 1
     <a href="http://nomisma.org/id/ambracia" rel="nmo:hasMint" target="_blank">Ambracia:</a> 6
-    <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Argos Amphil.:</a> 1
+    <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Argos Amphil.:</a> 1
     Disposition: Athens 11 as listed
     Varoucha, A Delt 1963, pp. 4-5, illus. (1)
 </pre>
-   </div></div>
+   </div>
+</div>

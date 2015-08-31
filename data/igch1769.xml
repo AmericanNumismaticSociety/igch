@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1769"><h1 property="skos:prefLabel" lang="en">IGCH 1769</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0194">195 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0189">190 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1769">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1769</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0195">195 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0190">190 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1769 Mesopotamia, 1914-1918 
 (681)
     Burial: c. 195-190 B.C. (Jenkins) 
@@ -22,8 +33,10 @@
             ANS 1944.100.77506
             ANS 1944.100.77499
          </a>,  
-       <a href="http://nomisma.org/id/cius" rel="nmo:hasMint" target="_blank">Cius 1</a>,  <a href="http://nomisma.org/id/alexandreis_troas" rel="nmo:hasMint" target="_blank">Alexandreia Troas 1</a>, 
-       <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 1</a>,  <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1</a>, 
+       <a href="http://nomisma.org/id/cius" rel="nmo:hasMint" target="_blank">Cius 1</a>,  <a href="http://nomisma.org/id/alexandreis_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia Troas 1</a>, 
+       <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 1</a>,  <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1</a>, 
        unc. 4)
        18 post. tetradr. ( <a href="http://nomisma.org/id/aenus" rel="nmo:hasMint" target="_blank">Aenus 1
        ANS 1944.100.81690
@@ -38,16 +51,20 @@
          <a rel="rdfs:seeAlso" href="http://numismatics.org/collection/1944.100.81667">ANS 1944.100.81667</a>
          <a rel="rdfs:seeAlso" href="http://numismatics.org/collection/1944.100.81579">ANS 1944.100.81579</a>)
     Attalus I: 8 tetradr.
-    Antiochus I: 8 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus I: 8 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim</a>)
-    Antiochus II: 8 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus II: 8 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 5</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 2</a>,  <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>)
     Interregnum 246-244 B.C.: 2 tetradr. (<a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apa-
         meia</a>)
     Antiochus Hierax: 1 tetradr. ( <a href="http://nomisma.org/id/ilium" rel="nmo:hasMint" target="_blank">Ilium</a>) 
-    Seleucus III: 1 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Seleucus III: 1 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim</a>)
-    Antiochus III: 18 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Antiochus III: 18 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim 1</a>,  <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>,  <a href="http://nomisma.org/id/nisibis" rel="nmo:hasMint" target="_blank">Nisibis 3</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">An-
         tiocheia 6</a>, <a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia 2</a>,  <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 3</a>,  <a href="http://nomisma.org/id/soli" rel="nmo:hasMint" target="_blank">Soli 1</a>, 
         unc. 1)
@@ -59,4 +76,5 @@
 † Jenkins, ANSMN 13 (1967), pp. 41-55, illus.
     Also known as "Dunne's Hoard"
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2159"><h1 property="skos:prefLabel" lang="en">IGCH 2159</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2159">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2159</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">37.12611111</span>
       <span property="geo:long">14.85111111</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2159 Buccheri, 20 km. S of Leontini, 1904 
 (170, 1164)
     Burial: c. 300 B.C.? (K) 
@@ -37,4 +44,5 @@
         dispersal, it is possible that the Thasos 
         coins do not really belong here
 </pre>
-   </div></div>
+   </div>
+</div>

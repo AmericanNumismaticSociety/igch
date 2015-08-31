@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0646"><h1 property="skos:prefLabel" lang="en">IGCH 0646</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0089">90 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0079">80 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0646">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0646</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0090">90 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0080">80 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.6138888889</span>
          <span property="geo:long">22.7836111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 646 Cepeni, c. 30 km. W of Sofia, 1921-
 (1072)     1922
@@ -13,4 +26,5 @@
     Disposition: dispersed
     Mouchmov, BIAB 1 (1921-2), p. 242
 </pre>
-   </div></div>
+   </div>
+</div>

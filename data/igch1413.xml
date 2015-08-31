@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1413"><h1 property="skos:prefLabel" lang="en">IGCH 1413</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0189">190 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0187">188 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1413">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1413</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0190">190 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0188">188 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">39.01611111</span>
       <span property="geo:long">30.57222222</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1413 Ayaz-In, c. 30 km. N of Afyon-Kara-
     hissar (anc. Prymnessus), Phrygia, c. 1953
     Burial: c. 190-188 B.C. 
@@ -12,20 +24,24 @@
         unc. mints 6)
             85 late post. tetradr. (<a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Si-
         cyon 1</a>, <a href="http://nomisma.org/id/megalopolis" rel="nmo:hasMint" target="_blank">Megalopolis 1</a>, <a href="http://nomisma.org/id/mesembria" rel="nmo:hasMint" target="_blank">Mesembria 1</a>, 
-        <a href="http://nomisma.org/id/cabyle" rel="nmo:hasMint" target="_blank">Cabyle 1</a>, unc. Pontic mint 1, <a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint" target="_blank">Heracleia 
+        <a href="http://nomisma.org/id/cabyle" rel="nmo:hasMint" target="_blank">Cabyle 1</a>, unc. Pontic mint 1, <a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint"
+            target="_blank">Heracleia 
         Bith. 1</a>, <a href="http://nomisma.org/id/sinope" rel="nmo:hasMint" target="_blank">Sinope 1</a>, <a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Mytilene 4</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Perga-
         mum 3</a>, <a href="http://nomisma.org/id/clazomenae" rel="nmo:hasMint" target="_blank">Clazomenae 2</a>, <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios 4</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colo-
-        phon 1</a>, <a href="http://nomisma.org/id/samos" rel="nmo:hasMint" target="_blank">Samos 2</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 
+        phon 1</a>, <a href="http://nomisma.org/id/samos" rel="nmo:hasMint" target="_blank">Samos 2</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 
         5</a>, <a href="http://nomisma.org/id/cos" rel="nmo:hasMint" target="_blank">Cos 1</a>, <a href="http://nomisma.org/id/nisyros" rel="nmo:hasMint" target="_blank">Nisyros 2</a>, <a href="http://nomisma.org/id/rhodes" rel="nmo:hasMint" target="_blank">Rhodes 5</a>, <a href="http://nomisma.org/id/phaselis" rel="nmo:hasMint" target="_blank">Phaselis 
         11</a>, <a href="http://nomisma.org/id/perge" rel="nmo:hasMint" target="_blank">Perge 11</a>, <a href="http://nomisma.org/id/aspendus" rel="nmo:hasMint" target="_blank">Aspendus 13</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 13</a>)
     Imit. Alexander III: 1 tetradr.
     Antigonus Doson: 2 tetradr.
     <a href="http://nomisma.org/id/alabanda" rel="nmo:hasMint" target="_blank">Alabanda as Antiocheia: 4 tetradr.</a>
          <a href="http://nomisma.org/id/side" rel="nmo:hasMint" target="_blank">Side: 34 tetradr.</a>
-    Antiochus I: 3 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus I: 3 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim</a>)
     Antiochus Hierax: 2 tetradr. (<a href="http://nomisma.org/id/parium" rel="nmo:hasMint" target="_blank">Parium</a>) 
-    Antiochus III: 31 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad
+    Antiochus III: 31 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad
         Tigrim 1</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>, <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 1</a>, <a href="http://nomisma.org/id/nisibis" rel="nmo:hasMint" target="_blank">Nisibis
         14</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 4</a>, <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 2</a>, <a href="http://nomisma.org/id/soli" rel="nmo:hasMint" target="_blank">Soli 1</a>,
         <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>, unc. mints 6)
@@ -34,4 +50,5 @@
         Levant (in press). His detailed list of varieties
         on file in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

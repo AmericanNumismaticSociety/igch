@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0179"><h1 property="skos:prefLabel" lang="en">IGCH 0179</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0229">230 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0219">220 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0179">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0179</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0230">230 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0220">220 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.7947222222</span>
          <span property="geo:long">23.0513888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 179 Sophikon, N of Epidaurus, Argolis, 
 (997)     1893
@@ -33,12 +46,15 @@
     <a href="http://nomisma.org/id/lacedaemon" rel="nmo:hasMint" target="_blank">Sparta:</a> 1 tetradr.
     Attalus I: 1 tetradr.
     <a href="http://nomisma.org/id/rhodes" rel="nmo:hasMint" target="_blank">Rhodes:</a> 2 dr.
-    Seleucus I**: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Sel. ad Tigrim</a> 
+    Seleucus I**: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Sel. ad Tigrim</a> 
         ESM, p. 51)
-            1 dr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Sel. ad Tigrim ESM 42)</a> 
+            1 dr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Sel. ad Tigrim ESM 42)</a> 
     Antiochus I-Seleucus II: 1 dr. (Laod. ad 
         Mare WSM 1211)
-    Antiochus II: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Sel. ad Tigrim</a> 
+    Antiochus II: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Sel. ad Tigrim</a> 
         ESM 361 and <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa p. 76)</a>
     Seleucus II: 4 dr. (<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes</a> WSM 1420, 
         1422d, e-fourth illeg.)
@@ -46,7 +62,8 @@
     Ptolemy II: 10 tetradr.
     Ptolemy III: 4 tetradr.
     Disposition: Athens
-    Svoronos, JIAN 1899, pp. 289-96; <a rel="dc:references" href="http://books.google.com/books?id=Vq0VAAAAMAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false">1907, pp. 35-
+    Svoronos, JIAN 1899, pp. 289-96; <a rel="dc:references"
+            href="http://books.google.com/books?id=Vq0VAAAAMAAJ&amp;pg=PA1#v=onepage&amp;q&amp;f=false">1907, pp. 35-
         46, illus.</a>; Athènes, pl. 28
     Newell, ESM and WSM indexes of hoards; 
         ESM p. 76, note 104 (burial date)
@@ -58,4 +75,5 @@
         Newell's ESM and WSM and differs 
         from those of Svoronos and Hackens
 </pre>
-   </div></div>
+   </div>
+</div>

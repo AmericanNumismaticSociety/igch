@@ -1,16 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0515"><h1 property="skos:prefLabel" lang="en">IGCH 0515</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0149">150 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0124">125 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0515">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0515</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0125">125 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">44.93611111</span>
       <span property="geo:long">26.29611111</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 515 Nucet Gornet, 20 km. NE of Ploiesti, 
     Rumania, before 1942
     Burial: c. 150-125 B.C. (T)
     Contents: AR
-    <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint" target="_blank">Macedonia, 1st Region: tetradr.</a>
+    <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint"
+            target="_blank">Macedonia, 1st Region: tetradr.</a>
          <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: spread-flan tetradr.</a>
     Disposition: Bucharest (Acad.) 1 Macedonia
     Moisil, Balcania 1944, p. 15, no. 19
 </pre>
-   </div></div>
+   </div>
+</div>

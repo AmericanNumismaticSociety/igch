@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1173"><h1 property="skos:prefLabel" lang="en">IGCH 1173</h1><span rel="nmo:hasFindspot">Cos, <span property="geo:lat">36.8958903</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1173">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1173</h1>
+   <span rel="nmo:hasFindspot">Cos, <span property="geo:lat">36.8958903</span>
             <span property="geo:long">27.2904682</span>
-         </span><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0479">480 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0480">480 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1173 , before 1891
 (273)
     Burial: c. 480 B.C. (M)
@@ -17,4 +24,5 @@
     Milne, NC 1940, pp. 76-88 (the Peparethus coins
         attributed to Naxos and dated 467 B.C.)
 </pre>
-   </div></div>
+   </div>
+</div>

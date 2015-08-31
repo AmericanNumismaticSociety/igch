@@ -1,16 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1985"><h1 property="skos:prefLabel" lang="en">IGCH 1985</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0294">295 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0268">269 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1985">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1985</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0295">295 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0269">269 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">41.1319444444</span>
          <span property="geo:long">14.7791666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1985 Benevento environs, Samnium, 1884
 (139)
     Burial: c. 295-290 B.C. (Mitchell); c. 269 
         (Thomsen); c. 265 (Crawford)
     Contents: 200+ AR
     <a href="http://nomisma.org/id/hyria_campania" rel="nmo:hasMint" target="_blank">Hyria: 2+ st.</a>
-         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis: 8+ st.
+         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint"
+            target="_blank">Neapolis: 8+ st.
             ("about 200") </a>
          <a href="http://nomisma.org/id/nola" rel="nmo:hasMint" target="_blank">Nola: 2+ st.</a>
          <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 4+ st. ("a few" to Per. V) </a>
@@ -27,4 +41,5 @@
     Mitchell, NC 1966, pp. 67-8, and 68, note 2 
     Crawford, RRCH 22
 </pre>
-   </div></div>
+   </div>
+</div>

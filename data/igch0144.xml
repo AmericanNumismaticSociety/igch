@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0144"><h1 property="skos:prefLabel" lang="en">IGCH 0144</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0284">285 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0274">275 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0144">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0144</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0285">285 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0275">275 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">39.36666667</span>
       <span property="geo:long">22.13333333</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><pre typeof="dcmitype:Collection"> class="group editedsource"&gt;
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <pre typeof="dcmitype:Collection"> class="group editedsource"&gt;
 144 Kiouleler (= Kililer, mod. Kipseli), 
 (563-4)     c. 23 km. SE of Larissa, Thessaly,
     c. 1910
@@ -31,13 +43,16 @@
     Demetrius Poliorcetes: 2 tetradr. (<a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella)</a> 
     Lysimachus: 5 lifetime tetradr. (1 ea. of
         <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus,</a> 
-      <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia Troas,</a> 
+      <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+         target="_blank">Alexandreia Troas,</a> 
       <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Per-
         gamum,</a> 
-      <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia,</a> 
+      <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+         target="_blank">Magnesia,</a> 
       <a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis)</a>
       <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Athens:</a> 43 tetradr.
-    Seleucus I: 2 tetradr. (1 <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Seleucus I: 2 tetradr. (1 <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+         target="_blank">Seleuceia ad 
         Tigrim,</a> as ESM 9)
     Disposition: Athens
     Svoronos, Athènes, pl. 31 (Athenian issues) 
@@ -45,4 +60,5 @@
         (Carrhae coins) and p. 42, note 20 (burial
         date)
     Newell's record of issues in ANS
-</pre></div>
+</pre>
+</div>

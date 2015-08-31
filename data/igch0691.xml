@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0691"><h1 property="skos:prefLabel" lang="en">IGCH 0691</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0499">500 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0474">475 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0691">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0691</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0500">500 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0475">475 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">42.45555556</span>
       <span property="geo:long">23.69833333</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 691 Venkovec, c. 60 km. E of Sofia, Bul-
     garia, 1960
@@ -12,4 +24,5 @@
     Disposition: Sofia 4
     Gerasimov, BIAB 26 (1963), p. 257
 </pre>
-   </div></div>
+   </div>
+</div>

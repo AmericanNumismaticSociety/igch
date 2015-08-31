@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0062"><h1 property="skos:prefLabel" lang="en">IGCH 0062</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0062">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0062</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.3641666667</span>
          <span property="geo:long">21.9191666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 62 Myron, near Karditsa, Thessaly, 1914 
 (718)
@@ -11,7 +18,8 @@
         (Newell)
     Contents: 1647+ AR. Pot hoard
     <a href="http://nomisma.org/id/haliartus" rel="nmo:hasMint" target="_blank">Haliartus:</a> 6 st.
-    <a href="http://nomisma.org/id/orchomenus_boeotia" rel="nmo:hasMint" target="_blank">Orchomenus:</a> 13 st.
+    <a href="http://nomisma.org/id/orchomenus_boeotia" rel="nmo:hasMint"
+            target="_blank">Orchomenus:</a> 13 st.
     <a href="http://nomisma.org/id/pharae" rel="nmo:hasMint" target="_blank">Pharae:</a> 3 st.
     <a href="http://nomisma.org/id/tanagra" rel="nmo:hasMint" target="_blank">Tanagra:</a> 6 st.; 6 dr.
     <a href="http://nomisma.org/id/thebes" rel="nmo:hasMint" target="_blank">Thebes and League:</a> 1042 st.; 2 dr. 
@@ -25,4 +33,5 @@
     Kraay, Greek Coins (London, 1969), no. 459 
         (burial date)
 </pre>
-   </div></div>
+   </div>
+</div>

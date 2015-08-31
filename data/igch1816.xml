@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1816"><h1 property="skos:prefLabel" lang="en">IGCH 1816</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0037">38 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1816">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1816</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0038">38 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.4780555556</span>
          <span property="geo:long">47.0677777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1816 Ahar, c. 80 km. NE of Tabriz, in anc. 
 (20a)     Media Atropatene, 1923
     Burial: c. 38 B.C. (Le Rider) 
@@ -17,4 +25,5 @@
     Caley, NNM 129 (1955), pp. 4-5 
     Simonetta, NC 1966, p. 28, no. 4
 </pre>
-   </div></div>
+   </div>
+</div>

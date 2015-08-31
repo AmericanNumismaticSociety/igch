@@ -1,15 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1900"><h1 property="skos:prefLabel" lang="en">IGCH 1900</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0424">425 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0419">420 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1900">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1900</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0425">425 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0420">420 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.4630555556</span>
          <span property="geo:long">17.2502777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1900 Taranto environs ("Oecist Hoard"), 
     Calabria, c. 1948
     Burial: 425-420 B.C. 
     Contents: c. 800? AR
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 143 st. (to horsemen, Per. I)</a> 
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 1 st. (as Work 1-2)</a> 
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 1 st. (as Work 1-2)</a> 
          <a href="http://nomisma.org/id/laues" rel="nmo:hasMint" target="_blank">Laus: 2 st.</a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 58 st. (to Noe 398) </a>
          <a href="http://nomisma.org/id/poseidonia" rel="nmo:hasMint" target="_blank">Poseidonia: 12 st. (latest signed Α/Α)</a> 
@@ -24,4 +38,5 @@
     Disposition: dispersed
     Kraay, SNR 1970, pp. 58-68
 </pre>
-   </div></div>
+   </div>
+</div>

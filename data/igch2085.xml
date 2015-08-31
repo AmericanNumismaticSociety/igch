@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2085"><h1 property="skos:prefLabel" lang="en">IGCH 2085</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0449">450 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0434">435 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2085">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2085</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0450">450 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0435">435 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">36.9080555556</span>
          <span property="geo:long">15.1366666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2085 Avola, 20 km. SW of Syracuse, 1891
 (100)
     Burial: 450-440 B.C. (Jenkins); c. 435 (K) 
@@ -22,4 +35,5 @@
     Currò Pisanò, AIIN 1962-4, pp. 221, 236 
     Jenkins, Gela, pp. 147-8
 </pre>
-   </div></div>
+   </div>
+</div>

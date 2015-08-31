@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0224"><h1 property="skos:prefLabel" lang="en">IGCH 0224</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0224">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0224</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 224 Greece, western?, 1964 
     Burial: c. 190-188 B.C. (Franke) 
@@ -20,4 +25,5 @@
         dents. P. Franke has list of 42 coins and the 
         ANS has casts of a few
 </pre>
-   </div></div>
+   </div>
+</div>

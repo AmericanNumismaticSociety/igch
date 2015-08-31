@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0380"><h1 property="skos:prefLabel" lang="en">IGCH 0380</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0347">348 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0380">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0380</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0348">348 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.2925</span>
          <span property="geo:long">23.3427777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 380 Olynthus, 1934
 (767)
     Burial: 348 B.C.? (Clement)
     Contents: 12 AE. From excavations 
-    <a href="http://nomisma.org/id/chalcidian_league" rel="nmo:hasMint" target="_blank">Chalcidian League: 4</a>
+    <a href="http://nomisma.org/id/chalcidian_league" rel="nmo:hasMint"
+            target="_blank">Chalcidian League: 4</a>
          <a href="http://nomisma.org/id/bottice" rel="nmo:hasMint" target="_blank">Bottice: 1</a>
     Amyntas III: 4
     Perdiccas III: 3
@@ -17,4 +26,5 @@
     Robinson-Clement, Olynthus IX, pp. 195-6 (hd. 
         III AE)
 </pre>
-   </div></div>
+   </div>
+</div>

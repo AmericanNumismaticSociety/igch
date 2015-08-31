@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2063"><h1 property="skos:prefLabel" lang="en">IGCH 2063</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0489">490 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2063">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2063</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0490">490 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.967018</span>
          <span property="geo:long">13.456478</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2063 Bolognetta, 20 km. SE of Palermo, 
     1945
     Burial: c. 490 B.C. (K)
@@ -13,4 +21,5 @@
     Disposition: Palermo 22
     Tusa Cutroni, AIIN 1962-4, pp. 272-4
 </pre>
-   </div></div>
+   </div>
+</div>

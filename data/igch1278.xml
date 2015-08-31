@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1278"><h1 property="skos:prefLabel" lang="en">IGCH 1278</h1><span rel="nmo:hasFindspot">Vouni, near anc. Marium, <span property="geo:lat">34.83</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1278">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1278</h1>
+   <span rel="nmo:hasFindspot">Vouni, near anc. Marium, <span property="geo:lat">34.83</span>
             <span property="geo:long">32.83</span>
-         </span><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0379">380 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0380">380 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1278 , 1928 
     Burial: c. 380 B.C. (Schwabacher)
     Contents: 4 AV, 248 AR. With jewelry, AR 
@@ -23,4 +30,5 @@
         illus.
     Schlumberger, L'argent grec, p. 8, no. 11
 </pre>
-   </div></div>
+   </div>
+</div>

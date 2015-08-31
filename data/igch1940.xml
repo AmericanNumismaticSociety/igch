@@ -1,15 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1940"><h1 property="skos:prefLabel" lang="en">IGCH 1940</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0399">400 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1940">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1940</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0400">400 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">41.06954</span>
          <span property="geo:long">16.61063</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1940 Palombaio, near Bitonto, 15 km. W 
 (790)     of Bari, Apulia, 1910
     Burial: 4th cent. B.C. (K) 
     Contents: 16 AR
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 9 st.</a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 1 st. (as Work 32 ff.)</a> 
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 1 st. (as Work 32 ff.)</a> 
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 5 st.</a>
          <a href="http://nomisma.org/id/terina" rel="nmo:hasMint" target="_blank">Terina: 1 st.</a>
     Disposition: unknown
@@ -18,4 +32,5 @@
     Vlasto believed this to be a part of the
         Ionian Shore hd., no. 1916 above
 </pre>
-   </div></div>
+   </div>
+</div>

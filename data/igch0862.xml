@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0862"><h1 property="skos:prefLabel" lang="en">IGCH 0862</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0259">260 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0862">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0862</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0260">260 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">43.8172222222</span>
          <span property="geo:long">28.5780555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 862 Mangalia (anc. Callatis), 39 km. S of 
 (644)     Constanta, Rumania, 1935
@@ -14,4 +22,5 @@
     Moisil, Cabinetul numismatic 1938-42, pp. 14-5; 
         Buletin lunar 2 (1947), p. 9, no. 9
 </pre>
-   </div></div>
+   </div>
+</div>

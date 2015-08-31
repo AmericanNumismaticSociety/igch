@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1761"><h1 property="skos:prefLabel" lang="en">IGCH 1761</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1761">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1761</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1761 Babylonia, c. 1900 ? 
 (118)
     Burial: c. 280 B.C.
@@ -30,7 +36,8 @@
         <a href="http://nomisma.org/id/marathus" rel="nmo:hasMint" target="_blank">Marathus 2</a>, 
         <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 3</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>)
         <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Athens, oriental imit.: 1 tetradr. (Mazaces) </a>
-    Seleucus I: 32 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Seleucus I: 32 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 28
         ANS 1944.100.44874
             ANS 1944.100.44930
@@ -68,7 +75,8 @@
             ANS 1944.100.73476
          </a>, 
         <a href="http://nomisma.org/id/seleuceia_pieria" rel="nmo:hasMint" target="_blank">Seleuceia Pieria 1</a>)
-            4 dr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim</a>) 
+            4 dr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim</a>) 
             1 hemidr.? (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Persepolis</a>) 
         <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre: 1 didr.</a>
         <a rel="rdfs:seeAlso" href="http://numismatics.org/collection/1944.100.34913">ANS 1944.100.34913</a>
@@ -86,4 +94,5 @@
         ticketed as from Haynes' Babylonian 
         Hd., is presumably intrusive
 </pre>
-   </div></div>
+   </div>
+</div>

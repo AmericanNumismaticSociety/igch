@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0261"><h1 property="skos:prefLabel" lang="en">IGCH 0261</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0145">146 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0261">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0261</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0146">146 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.2072222222</span>
          <span property="geo:long">22.325</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 261 Zougra (anc. Pellene), Achaea, 1859
 (1186)
@@ -27,4 +35,5 @@
         given as 9170 or 9171 pieces and a few other 
         mints are listed)
 </pre>
-   </div></div>
+   </div>
+</div>

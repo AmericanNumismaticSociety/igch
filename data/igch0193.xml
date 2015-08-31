@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0193"><h1 property="skos:prefLabel" lang="en">IGCH 0193</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0193">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0193</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.3236111111</span>
          <span property="geo:long">23.3166666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 193 Thebes, Boeotia, 1935 
 (1103)
@@ -18,6 +25,8 @@
     Ptolemy II: 5 tetradr. (as Svoronos 365, 
         626, 644, 713, ?)
     Disposition: unknown
-    <a rel="dc:references" href="http://www.persee.fr/web/revues/home/prescript/article/bch_0007-4217_1969_num_93_2_4893">Hackens, BCH 1969, pp. 702-11</a>
+    <a rel="dc:references"
+            href="http://www.persee.fr/web/revues/home/prescript/article/bch_0007-4217_1969_num_93_2_4893">Hackens, BCH 1969, pp. 702-11</a>
       </pre>
-   </div></div>
+   </div>
+</div>

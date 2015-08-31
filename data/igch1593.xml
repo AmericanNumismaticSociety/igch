@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1593"><h1 property="skos:prefLabel" lang="en">IGCH 1593</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0139">140 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1593">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1593</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0140">140 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">34.2613888889</span>
          <span property="geo:long">36.4172222222</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1593 Ras-Baalbek, c. 35 km. NE of Baal-
     bek, Coelesyria, 1957
     Burial: c. 140 B.C. (Westermark) 
@@ -12,7 +20,8 @@
          <a href="http://nomisma.org/id/aegae_aeolis" rel="nmo:hasMint" target="_blank">Aegae: 1 tetradr. (as BMC 9)</a>
          <a href="http://nomisma.org/id/cyme_aeolis" rel="nmo:hasMint" target="_blank">Cyme: 3 tetradr. (as BMC 77, 80)</a>
          <a href="http://nomisma.org/id/myrina_aeolis" rel="nmo:hasMint" target="_blank">Myrina: 1 tetradr. (as BMC 9-10) </a>
-         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia: 7 tetradr. (as BMC 36-37 and 
+         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia: 7 tetradr. (as BMC 36-37 and 
         var.)</a>
          <a href="http://nomisma.org/id/smyrna" rel="nmo:hasMint" target="_blank">Smyrna: 1 tetradr. (as BMC 3 var.) </a>
     Demetrius 1: 9 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia to yr. 
@@ -30,4 +39,5 @@
         Standard Ptol. Silver. The find was 
         formerly known as the Zahle hd.
 </pre>
-   </div></div>
+   </div>
+</div>

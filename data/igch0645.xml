@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0645"><h1 property="skos:prefLabel" lang="en">IGCH 0645</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0089">90 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0084">85 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0645">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0645</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0090">90 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0085">85 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.6236111111</span>
          <span property="geo:long">22.9555555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 645 Thessalonica, Macedonia, before 1888 
 (895)
@@ -13,4 +26,5 @@
     Disposition: Waddington 2-5
     Reinach, RN 1888, p. 440
 </pre>
-   </div></div>
+   </div>
+</div>

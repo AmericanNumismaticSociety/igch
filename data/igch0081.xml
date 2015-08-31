@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0081"><h1 property="skos:prefLabel" lang="en">IGCH 0081</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0318">319 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0081">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0081</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0319">319 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 81 Greece, central?, c. 1911 
 (461)
@@ -18,6 +24,8 @@
     <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Athens:</a> 3 tetradr.
     <a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon:</a> 3 dr.
     Disposition: unknown
-    <a rel="dc:references" href="http://www.numismatics.org/Archives/Newellbio#archival">Record</a> by E. T. Newell on file in ANS
+    <a rel="dc:references"
+            href="http://www.numismatics.org/Archives/Newellbio#archival">Record</a> by E. T. Newell on file in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

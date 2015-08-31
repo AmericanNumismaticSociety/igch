@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1261"><h1 property="skos:prefLabel" lang="en">IGCH 1261</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0374">375 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1261">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1261</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0375">375 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1261 Asia Minor, southern, 1947
     Burial: c. 375 B.C. (M)
     Contents: 16+ AR
@@ -7,7 +13,8 @@
          <a href="http://nomisma.org/id/celenderis" rel="nmo:hasMint" target="_blank">Celenderis: 3+ double-sigloi</a>
          <a href="http://nomisma.org/id/issus" rel="nmo:hasMint" target="_blank">Issus: 3+ double-sigloi</a>
          <a href="http://nomisma.org/id/mallus" rel="nmo:hasMint" target="_blank">Mallus: 2+ double-sigloi</a>
-         <a href="http://nomisma.org/id/soli-pompeiopolis" rel="nmo:hasMint" target="_blank">Soli: 1+ double-sigloi</a>
+         <a href="http://nomisma.org/id/soli-pompeiopolis" rel="nmo:hasMint"
+            target="_blank">Soli: 1+ double-sigloi</a>
          <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus: 2+ double-sigloi</a>
          <a href="http://nomisma.org/id/lapethus" rel="nmo:hasMint" target="_blank">Lapethus, Demonicus: 2+ double-sigloi</a> 
     Disposition: Copenhagen 12; London 4
@@ -16,4 +23,5 @@
     Jenkins, NC 1955, p. 142, illus.
     Mørkholm, AArch 1959, p. 184, note 4
 </pre>
-   </div></div>
+   </div>
+</div>

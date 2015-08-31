@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1399"><h1 property="skos:prefLabel" lang="en">IGCH 1399</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0289">290 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0284">285 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1399">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1399</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0290">290 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0285">285 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.9266666667</span>
          <span property="geo:long">32.8363888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1399 Ankara (anc. Ancyra), Galatia, c. 1913 
 (51)
     Burial: c. 290-285 B.C. (Waggoner) 
@@ -29,7 +42,8 @@
         <a href="http://nomisma.org/id/sidon" rel="nmo:hasMint" target="_blank">Sidon 3</a>, <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre 2</a>, 
         <a href="http://nomisma.org/id/ace_ptolemais" rel="nmo:hasMint" target="_blank">Ace 7</a>, <a href="http://nomisma.org/id/damascus" rel="nmo:hasMint" target="_blank">Damascus 2</a>, 
         <a href="http://nomisma.org/id/carrhae" rel="nmo:hasMint" target="_blank">Carrhae 2</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 29</a>, 
-        <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim 1</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>,      
+        <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim 1</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>,      
         <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 3</a>, 
         unc. mints 10
         <a rel="rdfs:seeAlso" href="http://numismatics.org/collection/1944.100.26429">ANS 1944.100.26429</a>
@@ -62,7 +76,8 @@
         ANS 1944.100.35531
          </a>, unc. 
         mint 1)
-    Seleucus I: 29 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim  6</a>, 
+    Seleucus I: 29 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim  6</a>, 
         <a href="http://nomisma.org/id/marathus" rel="nmo:hasMint" target="_blank">Marathus 15
         ANS 1944.100.77093
             ANS 1944.100.77078
@@ -101,4 +116,5 @@
         of hoards, s.v. Angora
     Waggoner, ANSMN 15 (1969), pp. 28-30
 </pre>
-   </div></div>
+   </div>
+</div>

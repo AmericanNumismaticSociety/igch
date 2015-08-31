@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0255"><h1 property="skos:prefLabel" lang="en">IGCH 0255</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0149">150 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0255">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0255</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.11</span>
          <span property="geo:long">25.3725</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 255 Naxos, 1926
 (733)
@@ -20,4 +28,5 @@
     Robert, Études, pp. 161-2
     Thompson, Athens, pp. 477-8
 </pre>
-   </div></div>
+   </div>
+</div>

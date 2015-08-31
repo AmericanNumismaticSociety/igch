@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0249"><h1 property="skos:prefLabel" lang="en">IGCH 0249</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0249">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0249</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.9369444444</span>
          <span property="geo:long">23.6444444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 249 Piraeus (Tambouria), 1938
     Burial: c. 160-150 B.C. (T)
@@ -20,4 +27,5 @@
     Disposition: Athens
     Varoucha, BCH 1938, p. 447 (no details)
 </pre>
-   </div></div>
+   </div>
+</div>

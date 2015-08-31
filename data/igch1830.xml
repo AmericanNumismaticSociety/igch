@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1830"><h1 property="skos:prefLabel" lang="en">IGCH 1830</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0379">380 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1830">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1830</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0380">380 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">34.52833333</span>
       <span property="geo:long">69.17138889</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1830 Cabul (anc. Cabura), Paropamisadae, 
     1933
     Burial: c. 380 B.C.
@@ -25,7 +32,8 @@
          <a href="http://nomisma.org/id/side" rel="nmo:hasMint" target="_blank">Side: 1 st. </a>
          <a href="http://nomisma.org/id/celenderis" rel="nmo:hasMint" target="_blank">Celenderis: 2 st. frag.</a>
          <a href="http://nomisma.org/id/mallus" rel="nmo:hasMint" target="_blank">Mallus: 1 st. </a>
-         <a href="http://nomisma.org/id/soli-pompeiopolis" rel="nmo:hasMint" target="_blank">Soli: 1 st.</a>
+         <a href="http://nomisma.org/id/soli-pompeiopolis" rel="nmo:hasMint"
+            target="_blank">Soli: 1 st.</a>
          <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus: 1 st.</a>
          <a href="http://nomisma.org/id/citium" rel="nmo:hasMint" target="_blank">Citium: 2 st. (Azbaal)</a>
          <a href="http://nomisma.org/id/paphus" rel="nmo:hasMint" target="_blank">"Paphus": 3 st.</a>
@@ -36,4 +44,5 @@
     Disposition: Cabul 115
     Schlumberger, L'argent grec, pp. 3-6, 31-45, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

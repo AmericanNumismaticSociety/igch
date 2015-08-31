@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1201"><h1 property="skos:prefLabel" lang="en">IGCH 1201</h1><span rel="nmo:hasFindspot">Durasalar, near Bigadiç (anc. Ab-
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1201">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1201</h1>
+   <span rel="nmo:hasFindspot">Durasalar, near Bigadiç (anc. Ab-
     baitis), Mysia, <span property="geo:lat">39.39004</span>
             <span property="geo:long">28.1299782</span>
-         </span><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0389">390 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0390">390 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1201 , 1956
     Burial: c. 390 B.C. (M) 
     Contents: 111 AR
@@ -16,4 +23,5 @@
     Artuk, Istanbul ArchhMüzYilligi 1958, p. 85 
     Barron, Samos, pp. 116 f.
 </pre>
-   </div></div>
+   </div>
+</div>

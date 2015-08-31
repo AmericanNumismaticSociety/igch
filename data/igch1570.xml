@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1570"><h1 property="skos:prefLabel" lang="en">IGCH 1570</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0094">95 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1570">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1570</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0095">95 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">36.20166667</span>
       <span property="geo:long">36.16194444</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1570 Antakya (anc. Antiocheia) district, 
     Seleucis, before 1960
     Burial: c. 95 B.C. (M) 
@@ -12,4 +19,5 @@
     Disposition: Istanbul
     Seen by M
 </pre>
-   </div></div>
+   </div>
+</div>

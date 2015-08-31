@@ -1,16 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0879"><h1 property="skos:prefLabel" lang="en">IGCH 0879</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0149">150 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0879">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0879</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.4933333333</span>
          <span property="geo:long">27.4472222222</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 879 Burgas, Bulgaria, 1911 
 (163)
     Burial: 3rd cent. B.C. or later (T) 
     Contents: 69 AE
-    <a href="http://nomisma.org/id/apollonia_pontica" rel="nmo:hasMint" target="_blank">Apollonia Pontica</a>
+    <a href="http://nomisma.org/id/apollonia_pontica" rel="nmo:hasMint"
+            target="_blank">Apollonia Pontica</a>
     Disposition: unknown
     Filow, BSAB 2 (1911), p. 283
 </pre>
-   </div></div>
+   </div>
+</div>

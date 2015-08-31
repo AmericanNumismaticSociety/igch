@@ -1,16 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0247"><h1 property="skos:prefLabel" lang="en">IGCH 0247</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0247">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0247</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.6402777778</span>
          <span property="geo:long">22.415</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 247 Larissa environs, Thessaly, c. 1912 
 (598)
     Burial: 175-150 B.C. (T)
     Contents: 75+ AR
-     <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint" target="_blank">Thessalian League:</a> double-vict.; dr. 
+     <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint"
+            target="_blank">Thessalian League:</a> double-vict.; dr. 
     Disposition: London 75
     Hill, NC 1913, p. 263
 </pre>
-   </div></div>
+   </div>
+</div>

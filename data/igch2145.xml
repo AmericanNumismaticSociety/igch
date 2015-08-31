@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2145"><h1 property="skos:prefLabel" lang="en">IGCH 2145</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0319">320 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0309">310 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2145">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2145</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0320">320 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0310">310 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.845</span>
          <span property="geo:long">14.715</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2145 Cesarò, 40 km. NW of Aderno, 1915-
 (167 = 977)     1916
     Burial: 320-10 B.C. (K) 
@@ -20,7 +33,8 @@
         18-19)</a>
          <a href="http://nomisma.org/id/syracuse" rel="nmo:hasMint" target="_blank">Syracuse: 1</a>
     Unc.: 2 (Hipponium?)
-    [<a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Argos: 1</a>]
+    [<a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Argos: 1</a>]
     [<a href="http://nomisma.org/id/thyrrheium" rel="nmo:hasMint" target="_blank">Thyrrheium: 1</a>]
     Disposition: Syracuse 145 as above
     Cesano, StudNum. (1940), p. 63
@@ -47,4 +61,5 @@
         other pegasi in the hd., both are far 
         more worn than the other pegasi
 </pre>
-   </div></div>
+   </div>
+</div>

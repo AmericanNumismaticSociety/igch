@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0928"><h1 property="skos:prefLabel" lang="en">IGCH 0928</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0124">125 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0928">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0928</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0125">125 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">43.3475</span>
       <span property="geo:long">26.22222222</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 928 Osikovo, c. 40 km. E of Veliko Târ-
     novo, Bulgaria, 1966
@@ -11,9 +23,11 @@
     Alexander III: 3 late post. tetradr. (<a href="http://nomisma.org/id/odessus" rel="nmo:hasMint" target="_blank">Odes-
         sus</a>)
     <a href="http://nomisma.org/id/maroneia" rel="nmo:hasMint" target="_blank">Maroneia: 1 spread-flan tetradr.</a>
-         <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint" target="_blank">Macedonia, 1st Region: 1 tetradr.</a> 
+         <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint"
+            target="_blank">Macedonia, 1st Region: 1 tetradr.</a> 
          <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 22 spread-flan tetradr.</a> 
     Disposition: Targoviste
     Gerasimov, BIAB 30 (1967), p. 188
 </pre>
-   </div></div>
+   </div>
+</div>

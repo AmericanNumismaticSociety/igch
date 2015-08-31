@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0024"><h1 property="skos:prefLabel" lang="en">IGCH 0024</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0449">450 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0424">425 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0024">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0024</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0450">450 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0425">425 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.6722222222</span>
          <span property="geo:long">21.4425</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 24 Pyrgos environs, Elis, 1944
     Burial: - B.C. (T)
@@ -16,4 +29,5 @@
         second section of Kyparissia 1940,
         no. 23 above
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,17 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0572"><h1 property="skos:prefLabel" lang="en">IGCH 0572</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0129">130 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0572">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0572</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0130">130 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">42.96666667</span>
       <span property="geo:long">24.68833333</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 572 Rupci, c. 55 km. S of Pleven, Bulgaria, 
     1960
     Burial: late 2nd cent. B.C. (T) 
     Contents: 32 AR. Pot hoard
     <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 4 spread-flan tetradr.</a> 
-         <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint" target="_blank">Apollonia, Illyria: 3 dr.</a>
+         <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint"
+            target="_blank">Apollonia, Illyria: 3 dr.</a>
          <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: 25 dr.</a>
     Disposition: Pleven
     Gerasimov, BIAB 26 (1963), p. 265
 </pre>
-   </div></div>
+   </div>
+</div>

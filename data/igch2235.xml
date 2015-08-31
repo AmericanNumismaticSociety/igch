@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2235"><h1 property="skos:prefLabel" lang="en">IGCH 2235</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0210">211 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0207">208 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2235">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2235</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0211">211 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0208">208 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.002</span>
          <span property="geo:long">15.317674</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2235 Mandanici, 15 km. N of Taormina,
     1952
     Burial: c. 211-08 B.C. (Crawford)
@@ -20,4 +33,5 @@
     Currò Pisanò, AIIN 1962-4, pp. 229, 238 
     Crawford, RRCH 71
 </pre>
-   </div></div>
+   </div>
+</div>

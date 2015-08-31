@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1042"><h1 property="skos:prefLabel" lang="en">IGCH 1042</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0369">370 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0324">325 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1042">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1042</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0370">370 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0325">325 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.1025</span>
          <span property="geo:long">42.3858333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1042 Dabla-Gomi, Samtredia raion, Geor-
     gia, 1929
     Burial: before 325 B.C. (Golenko, Kapa-
@@ -19,4 +32,5 @@
         (Tiflis, 1950), pp. 2, 112 
 † Golenko-Kapanadze, NE 6 (1966), pp. 31-61
 </pre>
-   </div></div>
+   </div>
+</div>

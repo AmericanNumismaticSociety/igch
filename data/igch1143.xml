@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1143"><h1 property="skos:prefLabel" lang="en">IGCH 1143</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0079">80 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1143">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1143</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0080">80 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">45.2752777778</span>
          <span property="geo:long">36.7469444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1143 Fantalovskaia, Taman' Peninsula, 
     Krasnodar Territory, RSFSR, 1963
     Burial: c. 80 B.C.
@@ -18,4 +26,5 @@
     Salov, VDI 1965, no.2, pp. 101-2
 † Golenko, VDI 1965, no. 4, pp. 141-58
 </pre>
-   </div></div>
+   </div>
+</div>

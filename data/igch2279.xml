@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2279"><h1 property="skos:prefLabel" lang="en">IGCH 2279</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0249">250 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2279">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2279</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0250">250 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2279 Sardinia, 1937
     Burial: c. 250 B.C. (Jenkins) 
     Contents: 11+ AE
@@ -9,4 +15,5 @@
     Disposition: London 2
     Note by E. S. G. Robinson in BM
 </pre>
-   </div></div>
+   </div>
+</div>

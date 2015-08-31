@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1458"><h1 property="skos:prefLabel" lang="en">IGCH 1458</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1458">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1458</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1458 Asia Minor, 1955 or earlier 
     Burial: c 100 B.C. (Kleiner)
     Contents: 43+ AR 
@@ -57,10 +63,12 @@
             ANS 1955.107.40
             ANS 1955.107.41
          </a>
-         <a href="http://nomisma.org/id/laodiceia_ad_lycum" rel="nmo:hasMint" target="_blank">Laodiceia: 1
+         <a href="http://nomisma.org/id/laodiceia_ad_lycum" rel="nmo:hasMint"
+            target="_blank">Laodiceia: 1
     ANS 1955.107.45
          </a>
     Disposition: New York 43 
     To be published by F. Kleiner
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1966"><h1 property="skos:prefLabel" lang="en">IGCH 1966</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1966">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1966</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1966 Lucania?, c. 1953
     Burial: c. 280 B.C. (K) 
     Contents: 230+ AR
     <a href="http://nomisma.org/id/hyria_campania" rel="nmo:hasMint" target="_blank">Hyria: 2 st.</a> 
-         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis: 11 st. </a>
+         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint"
+            target="_blank">Neapolis: 11 st. </a>
          <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 10 st. </a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 1 st.</a>
          <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium: 9 dist. (1 as Noe M16)
@@ -13,9 +20,11 @@
          <a href="http://nomisma.org/id/velia" rel="nmo:hasMint" target="_blank">Velia: 135 st. (to latest issues)</a>
          <a href="http://nomisma.org/id/caulonia" rel="nmo:hasMint" target="_blank">Caulonia: 1 st. </a>
          <a href="http://nomisma.org/id/croton" rel="nmo:hasMint" target="_blank">Croton: 7 st. </a>
-         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint" target="_blank">Locri: 23 st.</a>
+         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint"
+            target="_blank">Locri: 23 st.</a>
     Disposition: New York 3 (SNG 2, 982, 1323,
         1390)
     List and photographs of part in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1984"><h1 property="skos:prefLabel" lang="en">IGCH 1984</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0269">270 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0259">260 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1984">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1984</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0270">270 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0260">260 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.46795</span>
          <span property="geo:long">17.24654</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1984 Taranto environs, Calabria, 1922 
 (1056-7)
     Burial: c. 270-260 B.C. (K) 
@@ -64,4 +77,5 @@
     Borelli, Miscellanea Num. 1922, pp. 4-7, 60 (Lot 
         B = N. 1057)
 </pre>
-   </div></div>
+   </div>
+</div>

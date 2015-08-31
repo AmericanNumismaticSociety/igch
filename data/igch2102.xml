@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2102"><h1 property="skos:prefLabel" lang="en">IGCH 2102</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0399">400 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2102">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2102</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0400">400 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">36.92</span>
          <span property="geo:long">14.7188888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2102 Monteraci (mod. Ragusa), 25 km. E 
     of Camarina, 1953
     Burial: c. 400 B.C. (Jenkins) 
@@ -22,4 +30,5 @@
     Currò Pisanò, AIIN 1962-4, pp. 230, 239 
     Jenkins, Gela, p. 155
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1917"><h1 property="skos:prefLabel" lang="en">IGCH 1917</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0369">370 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1917">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1917</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0370">370 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1917 South Italy, 1887
 (505)
     Burial: c. 370 B.C.? (K)
@@ -21,4 +27,5 @@
         Thurium, signed by Molossus, are 
         probably somewhat later than this
 </pre>
-   </div></div>
+   </div>
+</div>

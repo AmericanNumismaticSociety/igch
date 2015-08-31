@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0368"><h1 property="skos:prefLabel" lang="en">IGCH 0368</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0374">375 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0349">350 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0368">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0368</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0375">375 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0350">350 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.6247222222</span>
          <span property="geo:long">22.9725</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 368 Thessalonica environs, Macedonia, 
 (894)     1859
@@ -21,4 +34,5 @@
     de Witte, RN 1864, pp. 90-2, illus.
     Greenwell, NC 1880, pp. 6-7, illus. (1)
 </pre>
-   </div></div>
+   </div>
+</div>

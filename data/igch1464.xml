@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1464"><h1 property="skos:prefLabel" lang="en">IGCH 1464</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0049">50 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0039">40 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1464">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1464</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0050">50 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0040">40 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1464 Asia Minor, 1971 
     Burial: 50-40 B.C. (Kleiner)
     Contents: 29+ AR
@@ -7,8 +18,10 @@
     <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum: 21</a>
          <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus: 6 (to yr. 80)</a> 
          <a href="http://nomisma.org/id/apamea_phrygiae" rel="nmo:hasMint" target="_blank">Apameia: 1</a>
-         <a href="http://nomisma.org/id/laodiceia_ad_lycum" rel="nmo:hasMint" target="_blank">Laodiceia: 1</a>
+         <a href="http://nomisma.org/id/laodiceia_ad_lycum" rel="nmo:hasMint"
+            target="_blank">Laodiceia: 1</a>
     Disposition: 29 casts in ANS 
     To be published by F. Kleiner
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1886"><h1 property="skos:prefLabel" lang="en">IGCH 1886</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0469">470 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1886">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1886</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0470">470 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1886 Calabria (anc. Bruttium), 1920 
 (187)
     Burial: c. 470 B.C. (K)
@@ -10,4 +16,5 @@
     Disposition: M. P. Vlasto 1 Taras
     Vlasto, NNM 15 (1922), p. 226, note 99
 </pre>
-   </div></div>
+   </div>
+</div>

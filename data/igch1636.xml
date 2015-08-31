@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1636"><h1 property="skos:prefLabel" lang="en">IGCH 1636</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0499">500 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1636">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1636</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0500">500 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">29.8708333333</span>
          <span property="geo:long">31.2569444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1636 Mit Rahineh, near Memphis, 20 km. 
 (722)     S of Cairo, 1860
     Burial: c. 500 B.C. (Jenkins)
@@ -44,4 +52,5 @@
         Sakha hd. (no. 1639 below)-but this 
         cannot be certainly determined
 </pre>
-   </div></div>
+   </div>
+</div>

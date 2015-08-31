@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0163"><h1 property="skos:prefLabel" lang="en">IGCH 0163</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0249">250 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0163">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0163</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0250">250 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 163 Boeotia, opposite Chalcis, 1935 
 (232)
@@ -16,7 +22,8 @@
          <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 2,</a> 
          <a href="http://nomisma.org/id/smyrna" rel="nmo:hasMint" target="_blank">Smyrna 1,</a> 
         <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus 2,</a> 
-         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 4,</a> 
+         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 4,</a> 
          <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1,</a> 
         <a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis 4,</a> 
          <a href="http://nomisma.org/id/aenus" rel="nmo:hasMint" target="_blank">Aenus 1,</a> unc. 1)
@@ -31,4 +38,5 @@
     Disposition: Athens 48
     List of varieties on file in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

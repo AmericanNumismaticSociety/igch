@@ -1,17 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1807"><h1 property="skos:prefLabel" lang="en">IGCH 1807</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0124">125 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1807">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1807</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0125">125 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">32.1888888889</span>
          <span property="geo:long">48.2577777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1807 Susa, Susiana, 1933-4 
 (1024)
     Burial: 125 B.C. (Le Rider) 
     Contents: 162+ AE. From excavations
-    Antiochus III: 4 (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim</a>)
+    Antiochus III: 4 (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim</a>)
     Seleucus IV: 1 (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa</a>) 
     Antiochus VII: 8 (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa</a>) 
-    <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim: 3 </a>
+    <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim: 3 </a>
     Hyknapses: 1 (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa?</a>) 
     Kamniskires I: 5 (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa</a>) 
     Tigraeus: 56 (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa</a>)
@@ -24,4 +34,5 @@
 † Le Rider, Suse, pp. 249-50, illus.
     Unvalla gives the hoard total as 186 
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,16 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1996"><h1 property="skos:prefLabel" lang="en">IGCH 1996</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0234">235 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1996">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1996</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0235">235 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.39</span>
          <span property="geo:long">16.5588888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1996 Pisticci, 24 km. W of Metaponto, 
     Lucania, 1934
     Burial: c. 235 B.C.
     Contents: 31 AR, 1 AE. In metal container
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 28 st. (27 Per. VIII; 1 Per. IX) 
             1 dr.</a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 1 dr.</a>
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 1 dr.</a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 1 dr. (obv. owl)
             1 AE</a>
     Disposition: Reggio
@@ -21,4 +30,5 @@
         will have to be brought down to the 
         end of the cent.
 </pre>
-   </div></div>
+   </div>
+</div>

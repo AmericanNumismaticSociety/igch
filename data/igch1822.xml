@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1822"><h1 property="skos:prefLabel" lang="en">IGCH 1822</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0179">180 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0169">170 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1822">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1822</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0180">180 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0170">170 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.2658333333</span>
          <span property="geo:long">68.1383333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1822 Oxus River (Takhti-Kubad, at junc-
 (45, 778)     tion of modern Vaksh and Piandzh 
     Rivers), Shaartuz raion, Tadzhikistan (anc. 
@@ -28,7 +41,8 @@
         Traité II.2, nos. 74 ff.)</a>
     Seleucus I: 2 AV double-darics (<a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana</a>); 
         3 st. (<a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 2</a>, <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 1</a>)
-            14 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+            14 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 1</a>, <a href="http://nomisma.org/id/bactra" rel="nmo:hasMint" target="_blank">Bactra 6</a>, unc. 7)
             8 dr. (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 2</a>, <a href="http://nomisma.org/id/bactra" rel="nmo:hasMint" target="_blank">Bactra 5</a>, unc. 1) 
             2 hemidr. (<a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 1</a>, <a href="http://nomisma.org/id/bactra" rel="nmo:hasMint" target="_blank">Bac-
@@ -84,4 +98,5 @@
         al (Dalton and Regling) or actually 
         constitutes one hoard (Schlumberger)
 </pre>
-   </div></div>
+   </div>
+</div>

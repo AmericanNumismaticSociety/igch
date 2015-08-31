@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2147"><h1 property="skos:prefLabel" lang="en">IGCH 2147</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0309">310 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2147">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2147</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0310">310 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2147 Sicily, 1912-1913 
     Burial: c. 310 B.C. (K) 
     Contents: 277+ AR
@@ -18,13 +24,15 @@
          </a>
          <a href="http://nomisma.org/id/anactorium" rel="nmo:hasMint" target="_blank">Anactorium: 27 (to ΚΛΕ and bucranium 
         [6]; ΝΑϒ and fillet [1])</a>
-         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Argos: 6 (crested Cor. helmet [4]; shield 
+         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Argos: 6 (crested Cor. helmet [4]; shield 
         and ΔΙ [2])</a>
          <a href="http://nomisma.org/id/corcyra" rel="nmo:hasMint" target="_blank">Corcyra: 1</a>
          <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: 1</a>
          <a href="http://nomisma.org/id/leucas" rel="nmo:hasMint" target="_blank">Leucas: 44 (stylis 15, but not BMC pl. 36, 
         21-5)</a>
-         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint" target="_blank">Locri: 2 (both Pegasus obv. and both fdc)
+         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint"
+            target="_blank">Locri: 2 (both Pegasus obv. and both fdc)
     ANS 1944.100.7011
          </a> 
          <a href="http://nomisma.org/id/mesma" rel="nmo:hasMint" target="_blank">Mesma: 2
@@ -42,4 +50,5 @@
     E. T. Newell, MS list in ANS
     This hd. was acquired at Catania
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2181"><h1 property="skos:prefLabel" lang="en">IGCH 2181</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0269">270 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2181">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2181</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0270">270 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.0580555556</span>
          <span property="geo:long">14.8925</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2181 Palazzolo Acreide (anc. Acrae), 1896
 (784)
     Burial: early 3rd cent. B.C. (K)
@@ -16,13 +29,16 @@
          <a href="http://nomisma.org/id/alyzia" rel="nmo:hasMint" target="_blank">Alyzia</a>
          <a href="http://nomisma.org/id/ambracia" rel="nmo:hasMint" target="_blank">Ambracia</a>
          <a href="http://nomisma.org/id/anactorium" rel="nmo:hasMint" target="_blank">Anactorium </a>
-         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Argos</a>
+         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Argos</a>
          <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium (1 with griffin bd. ctmk.)</a> 
          <a href="http://nomisma.org/id/leucas" rel="nmo:hasMint" target="_blank">Leucas</a>
-         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint" target="_blank">Locri</a>
+         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint"
+            target="_blank">Locri</a>
          <a href="http://nomisma.org/id/syracuse" rel="nmo:hasMint" target="_blank">Syracuse (incl. Agathocles, reduced wt.) </a>
          <a href="http://nomisma.org/id/thyrrheium" rel="nmo:hasMint" target="_blank">Thyrrheium</a>
     Disposition: dispersed
     Salinas, NSc 1897, pp. 436-7, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

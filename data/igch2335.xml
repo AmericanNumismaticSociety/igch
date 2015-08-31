@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2335"><h1 property="skos:prefLabel" lang="en">IGCH 2335</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2335">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2335</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">41.0469444444</span>
          <span property="geo:long">0.765555555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2335 Tivisa, 30 km. NE of Tortosa, 1913 
 (1113)
     Burial: c. 200 B.C. (Jenkins)
@@ -25,4 +33,5 @@
     Crawford, RRCH 94
     Villaronga, MHC (forthcoming)
 </pre>
-   </div></div>
+   </div>
+</div>

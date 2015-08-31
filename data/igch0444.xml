@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0444"><h1 property="skos:prefLabel" lang="en">IGCH 0444</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0444">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0444</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.6247222222</span>
          <span property="geo:long">22.9725</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 444 Thessalonica, Macedonia, before 1897 
 (896)
@@ -31,7 +39,8 @@
         <a href="http://nomisma.org/id/carrhae" rel="nmo:hasMint" target="_blank">Carrhae 1,</a> 
          <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 16,</a> 
          <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 1,</a> 
-        <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia 2,</a> unc. 10)
+        <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia 2,</a> unc. 10)
     Philip III: 14 tetradr. (<a href="http://nomisma.org/id/salamis_cyprus" rel="nmo:hasMint" target="_blank">Salamis 1,</a> 
          <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 5,</a>
         <a href="http://nomisma.org/id/sidon" rel="nmo:hasMint" target="_blank">Sidon 2,</a> 
@@ -47,8 +56,10 @@
          <a href="http://nomisma.org/id/sestus" rel="nmo:hasMint" target="_blank">Sestus 1,</a> 
          <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 11,</a>
         <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 3,</a> 
-         <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia Troas 1,</a> 
-         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 4</a>, <a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis 2,</a> 
+         <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia Troas 1,</a> 
+         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 4</a>, <a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis 2,</a> 
          <a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella 6,</a> unc. 2)
     Disposition: F. Walla, Vienna (Cat. VI, 
         1897-8)
@@ -56,4 +67,5 @@
         163-4; Newell's record of varieties on file 
          ANS
 </pre>
-   </div></div>
+   </div>
+</div>

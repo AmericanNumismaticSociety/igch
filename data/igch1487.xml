@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1487"><h1 property="skos:prefLabel" lang="en">IGCH 1487</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0374">375 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1487">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1487</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0375">375 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">34.44333333</span>
       <span property="geo:long">35.81972222</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1487 Al-Mina, 1936
     Burial: c. 375 B.C. (Robinson)
     Contents: 25 AR. Pot hoard from excavations 
@@ -11,4 +18,5 @@
     Disposition: London
     For references see no. 1486 above
 </pre>
-   </div></div>
+   </div>
+</div>

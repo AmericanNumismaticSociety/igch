@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1537"><h1 property="skos:prefLabel" lang="en">IGCH 1537</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0189">190 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1537">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1537</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0190">190 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">36.1458333333</span>
          <span property="geo:long">36.1383333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1537 Kosseir, near Antakya (anc. Antioch), 
     Seleucis, 1949
     Burial: c. 190 B.C. (Seyrig)
@@ -21,7 +29,8 @@
     Prusias I: 1 tetradr.
     <a href="http://nomisma.org/id/side" rel="nmo:hasMint" target="_blank">Side: 9 tetradr.</a>
     Antiochus III: 4 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 1 as 
-        WSM 1094</a>, <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim 1 as 
+        WSM 1094</a>, <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim 1 as 
         ESM 254</a>, <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 1 as ESM 608</a>, 
         unc. mint 1 as WSM 1695)
     Disposition: Antakya 9
@@ -30,4 +39,5 @@
         62; Trésors du Levant (in press)
     Le Rider, CIN 1961. Relazioni 74
 </pre>
-   </div></div>
+   </div>
+</div>

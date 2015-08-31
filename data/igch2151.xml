@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2151"><h1 property="skos:prefLabel" lang="en">IGCH 2151</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2151">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2151</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">36.715</span>
          <span property="geo:long">15.0908333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2151 Pachino, 3 km. NE of Coste Fon-
     dovia, 1957
     Burial: c. 300 B.C. (di Vita)
@@ -22,12 +30,14 @@
          <a href="http://nomisma.org/id/alyzia" rel="nmo:hasMint" target="_blank">Alyzia: 1</a>
          <a href="http://nomisma.org/id/ambracia" rel="nmo:hasMint" target="_blank">Ambracia: 9 </a>
          <a href="http://nomisma.org/id/anactorium" rel="nmo:hasMint" target="_blank">Anactorium: 11</a>
-         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Argos: 2</a>
+         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Argos: 2</a>
          <a href="http://nomisma.org/id/corcyra" rel="nmo:hasMint" target="_blank">Corcyra: 1</a>
          <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: 5 </a>
          <a href="http://nomisma.org/id/leontini" rel="nmo:hasMint" target="_blank">Leontini: 1</a>
          <a href="http://nomisma.org/id/leucas" rel="nmo:hasMint" target="_blank">Leucas: 75 </a>
-         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint" target="_blank">Locri: 7</a>
+         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint"
+            target="_blank">Locri: 7</a>
          <a href="http://nomisma.org/id/syracuse" rel="nmo:hasMint" target="_blank">Syracuse: 7 </a>
          <a href="http://nomisma.org/id/thyrrheium" rel="nmo:hasMint" target="_blank">Thyrrheium: 4 </a>
     Unc.: 4
@@ -39,4 +49,5 @@
     Gentili, AIIN 1958-9, pp. 289-90
     Currò Pisanò AIIN 1962-4, pp. 231, 239
 </pre>
-   </div></div>
+   </div>
+</div>

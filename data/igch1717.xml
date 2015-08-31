@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1717"><h1 property="skos:prefLabel" lang="en">IGCH 1717</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0079">80 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1717">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1717</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0080">80 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">31.2025</span>
          <span property="geo:long">29.9119444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1717 Alexandria, 1933
     Burial: c. 80 B.C. (Jenkins)
     Contents: 40 AE. From tomb at Moustafa 
@@ -16,4 +24,5 @@
         from same site, incl. Ptolemy IV, VI, IX) 
     REG 1938, p. 183
 </pre>
-   </div></div>
+   </div>
+</div>

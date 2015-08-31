@@ -1,7 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1355"><h1 property="skos:prefLabel" lang="en">IGCH 1355</h1><span rel="nmo:hasFindspot">Marmaris (anc. Physcus), Caria, <span property="geo:lat">36.86</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1355">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1355</h1>
+   <span rel="nmo:hasFindspot">Marmaris (anc. Physcus), Caria, <span property="geo:lat">36.86</span>
             <span property="geo:long">28.26</span>
-         </span><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0089">90 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0090">90 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1355 , 1945
     Burial: 100-90 B.C. (Jenkins) 
     Contents: 10 AV, 1016 AR
@@ -20,4 +32,5 @@
         discovered near Milas (anc. Mylasa), 
         Caria
 </pre>
-   </div></div>
+   </div>
+</div>

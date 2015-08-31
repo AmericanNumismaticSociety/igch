@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0774"><h1 property="skos:prefLabel" lang="en">IGCH 0774</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0319">320 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0774">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0774</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0320">320 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">44.3166666667</span>
          <span property="geo:long">27.6833333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 774 Gîldau, 30 km. ENE of Calarasi, Ru-
     mania, 1960
@@ -17,4 +25,5 @@
         charest, 1965), pp. 73-9, illus.; SCN 4 (1968), 
         pp. 327-9, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1532"><h1 property="skos:prefLabel" lang="en">IGCH 1532</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0209">210 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1532">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1532</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0210">210 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">34.73916667</span>
       <span property="geo:long">36.72638889</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1532 Homs (anc. Emesa), Seleucis, 1934 
 (488)
     Burial: c. 210 B.C. (Westermark)
@@ -43,7 +50,8 @@
         <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus 1
         ANS 1944.100.77653
          </a>, 
-        <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 3
+        <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 3
         ANS 1944.100.81178
             ANS 1944.100.81179
             ANS 1944.100.77836
@@ -85,7 +93,8 @@
     Attalus I: 7 tetradr. (Westermark obvs. 
         38, 79, 95, 102 [2], 118)
         <a rel="rdfs:seeAlso" href="http://numismatics.org/collection/1944.100.43190">ANS 1944.100.43190</a>
-    Antiochus I: 5 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus I: 5 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 4 as ESM 140 [1], 155 [1], 162 
         ANS 1944.100.45778
         [2</a>]; <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1 as WSM 1374
@@ -95,7 +104,8 @@
         WSM 1142
         ANS 1944.100.76984
          </a>; 
-        <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim 1 as 
+        <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim 1 as 
         ESM 178, 4 as 189</a>)
     Interregnum: 1 tetradr. (WSM 1144)
     Seleucus III: 2 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia as 
@@ -108,7 +118,8 @@
         ANS 1944.100.75133
             ANS 1944.100.75134
          </a>; 
-       <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim 
+       <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim 
         as ESM 220
         ANS 1944.100.71880
          </a>)
@@ -119,4 +130,5 @@
     Rostovtzeff, Anatolian Stud. Buehler, p. 285 
     Westermark, Philetairos, pp. 14, 17
 </pre>
-   </div></div>
+   </div>
+</div>

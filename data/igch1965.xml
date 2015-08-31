@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1965"><h1 property="skos:prefLabel" lang="en">IGCH 1965</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0279">280 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1965">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1965</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.3275</span>
          <span property="geo:long">17.4969444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1965 Monacizzo, 25 km. SE of Taranto, 
 (701)     Calabria, 1908
     Burial: 300-280 B.C. (Stazio) 
@@ -12,7 +25,8 @@
             1 AV dr. (as VI. 5)
             56 st. (1 Per. II; 10 Per. III; 6
         Per. IV; 20 Per. V, 19 Per. VI A, C-E) </a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 1 st. (cf. Work 31) </a>
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 1 st. (cf. Work 31) </a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 5 st.</a>
          <a href="http://nomisma.org/id/poseidonia" rel="nmo:hasMint" target="_blank">Poseidonia: 1 st.</a>
          <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium: 1 st.</a>
@@ -22,4 +36,5 @@
 † Quagliati, AttiMemIIN 6 (1930), pp. 46-72, illus. 
     Stazio, AIIN 1965-7, pp. 40-1
 </pre>
-   </div></div>
+   </div>
+</div>

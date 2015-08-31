@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1771"><h1 property="skos:prefLabel" lang="en">IGCH 1771</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0174">175 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1771">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1771</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0175">175 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.71</span>
          <span property="geo:long">41.1588889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1771 Zivnik near Midyat, c. 60 km. NE of 
     Mardin (anc. district of Gordyene, Mesopo-
     tamia), 1962
@@ -11,15 +19,19 @@
     Contents: 26 AR. Pot hoard
     Lysimachus: 1 tetradr. ( <a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis</a>) 
     Antiochus I: 1 tetradr. ( <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes</a>)
-    Seleucus III: 2 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Seleucus III: 2 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 1</a>)
     Antiochus III: 8 tetradr. ( <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 1</a>,
-         <a href="http://nomisma.org/id/nisibis" rel="nmo:hasMint" target="_blank">Nisibis 3</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 3</a>,  <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint" target="_blank">Laodiceia 1</a>) 
-    Seleucus IV: 13 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+         <a href="http://nomisma.org/id/nisibis" rel="nmo:hasMint" target="_blank">Nisibis 3</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 3</a>,  <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint"
+            target="_blank">Laodiceia 1</a>) 
+    Seleucus IV: 13 tetradr. ( <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 10</a>, <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 2</a>)
     Antiochus the Young: 1 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">An-
         tiocheia</a>)
     Disposition: Ankara
     Information from S. Taller
 </pre>
-   </div></div>
+   </div>
+</div>

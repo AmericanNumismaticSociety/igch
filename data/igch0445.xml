@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0445"><h1 property="skos:prefLabel" lang="en">IGCH 0445</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0445">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0445</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.9955555556</span>
          <span property="geo:long">22.8744444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 445 Pontoleibade-Kilkis, Macedonia, 1961 
     Burial: c. 280 B.C. (T)
@@ -13,7 +21,8 @@
         <a href="http://nomisma.org/id/macedonia" rel="nmo:hasMint" target="_blank">Maced. 3</a>, <a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon 1</a>, <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 1</a>, 
         <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 3</a>, <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios 1</a>, <a href="http://nomisma.org/id/amathus" rel="nmo:hasMint" target="_blank">Amathus 1</a>, <a href="http://nomisma.org/id/citium" rel="nmo:hasMint" target="_blank">Citium 1</a>, 
         <a href="http://nomisma.org/id/side" rel="nmo:hasMint" target="_blank">Side 2</a>, <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 3</a>, <a href="http://nomisma.org/id/byblus" rel="nmo:hasMint" target="_blank">Byblus 1</a>,
-        <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre 4</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 10</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Alex-
+        <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre 4</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 10</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint"
+            target="_blank">Alex-
         andreia 1</a>, unc. 7)
             33 dr. (chiefly <a href="http://nomisma.org/id/asia_minor" rel="nmo:hasMint" target="_blank">Asia Minor 
         mints</a>)
@@ -35,4 +44,5 @@
         Thessalonica museum by M. Oecono-
         mides
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0271"><h1 property="skos:prefLabel" lang="en">IGCH 0271</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0144">145 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0134">135 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0271">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0271</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0145">145 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0135">135 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.6244444444</span>
          <span property="geo:long">21.4069444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 271 Agrinion, Aetolia, 1959 
     Burial: c. 145-135 B.C. (T)* 
@@ -11,7 +24,8 @@
     <a href="http://nomisma.org/id/aenianes" rel="nmo:hasMint" target="_blank">Aenianes:</a> 2 triob. 
     <a href="http://nomisma.org/id/lamia" rel="nmo:hasMint" target="_blank">Lamia:</a> 4 triob. 
     <a href="http://nomisma.org/id/oetaei" rel="nmo:hasMint" target="_blank">Oetaei:</a> 1 triob.
-    <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint" target="_blank">Thessalian League:</a> 1 triob.
+    <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint"
+            target="_blank">Thessalian League:</a> 1 triob.
     <a href="http://nomisma.org/id/aetolia" rel="nmo:hasMint" target="_blank">Aetolia:</a> 97 triob.
     <a href="http://nomisma.org/id/locri_opuntii" rel="nmo:hasMint" target="_blank">Locri Opuntii:</a> 17 triob.
     <a href="http://nomisma.org/id/phocis" rel="nmo:hasMint" target="_blank">Phocis:</a> 1 triob. 
@@ -44,4 +58,5 @@
         Hersh argues for an earlier date for 
         the Roman coins, c. 140 B.C.
 </pre>
-   </div></div>
+   </div>
+</div>

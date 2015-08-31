@@ -1,7 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0157"><h1 property="skos:prefLabel" lang="en">IGCH 0157</h1><span rel="nmo:hasFindspot">Athens (Agora), <span property="geo:lat">37.966667</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0157">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0157</h1>
+   <span rel="nmo:hasFindspot">Athens (Agora), <span property="geo:lat">37.966667</span>
             <span property="geo:long">23.716667</span>
-         </span><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0274">275 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0249">250 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0275">275 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0250">250 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 157 , 1940
     Burial: - B.C.
@@ -33,4 +45,5 @@
     Disposition: Athens (Agora)
     Thompson, Hesperia 1942, pp. 223-4
 </pre>
-   </div></div>
+   </div>
+</div>

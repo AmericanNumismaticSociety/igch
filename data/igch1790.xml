@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1790"><h1 property="skos:prefLabel" lang="en">IGCH 1790</h1><span rel="nmo:hasFindspot">Malayer, c. 65 km. SE of Hamadan 
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1790">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1790</h1>
+   <span rel="nmo:hasFindspot">Malayer, c. 65 km. SE of Hamadan 
     (anc. Ecbatana), Media, <span property="geo:lat">34.32</span>
             <span property="geo:long">48.85</span>
-         </span><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0374">375 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0375">375 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1790 , c. 1934
     Burial: c. 375 B.C. (Robinson, Schlum-
         berger; see note below)
@@ -47,4 +54,5 @@
         Minor as possibly intrusive, in which 
         case the burial date will be c. 375 B.C.
 </pre>
-   </div></div>
+   </div>
+</div>

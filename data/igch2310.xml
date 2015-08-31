@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2310"><h1 property="skos:prefLabel" lang="en">IGCH 2310</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0449">450 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0399">400 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2310">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2310</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0450">450 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0400">400 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.2602777778</span>
          <span property="geo:long">-5.54555555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2310 El Arahal, 40 km. SE of Seville, 1962
     Burial: 450-400 B.C. (Jenkins) 
     Contents: 6 AR
@@ -15,4 +28,5 @@
     Disposition: R. B. Lewis
     Lewis, NC 1962, pp. 425-7, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

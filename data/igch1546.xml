@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1546"><h1 property="skos:prefLabel" lang="en">IGCH 1546</h1><span rel="nmo:hasFindspot">Aleppo (anc. Beroea), Cyrrhestica, <span property="geo:lat">36.20666667</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1546">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1546</h1>
+   <span rel="nmo:hasFindspot">Aleppo (anc. Beroea), Cyrrhestica, <span property="geo:lat">36.20666667</span>
          <span property="geo:long">37.14333333</span>
-      </span><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0163">164 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><pre typeof="dcmitype:Collection"> class="group editedsource"&gt;1546 , 
+      </span>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0164">164 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <pre typeof="dcmitype:Collection"> class="group editedsource"&gt;1546 , 
 (31)     1931
     Burial: 
     Contents: 35+ AR
-    <a href="http://nomisma.org/id/alexanderiii" rel="nmo:hasAuthority" target="_blank">Alexander III: 17 late post. tetradr. 
+    <a href="http://nomisma.org/id/alexanderiii" rel="nmo:hasAuthority"
+         target="_blank">Alexander III: 17 late post. tetradr. 
         (Myrina 1,
         ANS 1944.100.31409
         Phaselis 2 to yr. 33
@@ -37,10 +45,14 @@
     Disposition: New York 11 (3 Alexanders,
         4 Antiochus IV, 4 Side); <a href="http://nomisma.org/id/yale" rel="nm:collection" target="_blank">Yale 4</a>
     Bellinger, <a rel="dc:references" href="http://www.jstor.org/stable/499686">AJA 1938, p. 318</a>
-    Rostovtzeff, <a rel="dc:references" href="http://www.worldcat.org/title/anatolian-studies-presented-to-william-hepburn-buckler/oclc/4051643">Anatolian Stud. Buckler, p. 290 g</a> 
-    Seyrig, <a rel="dc:references" href="http://www.persee.fr/web/revues/home/prescript/article/numi_0484-8942_1963_num_6_5_904">RN 1963, p. 62</a>; <a rel="dc:references" href="http://donum.numismatics.org/cgi-bin/koha/opac-detail.pl?biblionumber=72861">Antiq. syr. 6 (Paris, 1966), 
+    Rostovtzeff, <a rel="dc:references"
+         href="http://www.worldcat.org/title/anatolian-studies-presented-to-william-hepburn-buckler/oclc/4051643">Anatolian Stud. Buckler, p. 290 g</a> 
+    Seyrig, <a rel="dc:references"
+         href="http://www.persee.fr/web/revues/home/prescript/article/numi_0484-8942_1963_num_6_5_904">RN 1963, p. 62</a>; <a rel="dc:references"
+         href="http://donum.numismatics.org/cgi-bin/koha/opac-detail.pl?biblionumber=72861">Antiq. syr. 6 (Paris, 1966), 
         p. 9, note 4</a>; Trésors du Levant (in press)
     Many of the Pamphylian Alexanders and 
         all the coins of Side have ctmks.: 
         anchor or radiate facing bust
-</pre></div>
+</pre>
+</div>

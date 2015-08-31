@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1810"><h1 property="skos:prefLabel" lang="en">IGCH 1810</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1810">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1810</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">34.2025</span>
          <span property="geo:long">48.3713888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1810 Nehavend, c. 70 km. S of Hamadan
 (736)    (anc. Ecbatana, Media), 1935
     Burial: c. 100 B.C. ? (Le Rider)
@@ -15,4 +23,5 @@
         that two hds. were found-this and no. 1811 
         below
 </pre>
-   </div></div>
+   </div>
+</div>

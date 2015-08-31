@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1539"><h1 property="skos:prefLabel" lang="en">IGCH 1539</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0189">190 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1539">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1539</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0190">190 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">36.20666667</span>
       <span property="geo:long">37.14333333</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1539 Aleppo (anc. Beroea) environs, Cyr-
 (30)     rhestica, 1896
     Burial: c. 190 B.C. (Westermark) 
@@ -27,4 +34,5 @@
     Regling, ZfN 1928, p. 94
     Westermark, Philetairos, p. 15
 </pre>
-   </div></div>
+   </div>
+</div>

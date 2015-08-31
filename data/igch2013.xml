@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2013"><h1 property="skos:prefLabel" lang="en">IGCH 2013</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0210">211 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0207">208 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2013">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2013</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0211">211 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0208">208 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.000113</span>
          <span property="geo:long">15.695915</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2013 Motta S. Giovanni, 12 km. S of 
     Reggio, Bruttium, 1950
     Burial: 211-208 B.C. (Crawford) 
@@ -16,4 +29,5 @@
 † Procopio, AIIN 1954, pp. 58-9 
     Crawford, RRCH 80
 </pre>
-   </div></div>
+   </div>
+</div>

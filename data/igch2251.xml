@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2251"><h1 property="skos:prefLabel" lang="en">IGCH 2251</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0149">150 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2251">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2251</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.7041666667</span>
          <span property="geo:long">13.2619444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2251 Bisacquino, 15 km. S of Corleone, 
     1879
     Burial: c. 150 B.C. (Crawford) 
@@ -14,4 +22,5 @@
     Tusa Cutroni, AIIN 1956, p. 210 
     Crawford, RRCH 137
 </pre>
-   </div></div>
+   </div>
+</div>

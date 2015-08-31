@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1146"><h1 property="skos:prefLabel" lang="en">IGCH 1146</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0062">63 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1146">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1146</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0063">63 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">45.3575</span>
          <span property="geo:long">36.4777777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1146 Myrmecium (mod. Cape Karantin), 
     just N of Kerch', Crimea oblast, Ukraine,
     1949
@@ -18,4 +26,5 @@
         219-34
     Krushkol, VDI 1952, no. 3, pp. 137-47
 </pre>
-   </div></div>
+   </div>
+</div>

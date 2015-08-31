@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2288"><h1 property="skos:prefLabel" lang="en">IGCH 2288</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0215">216 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2288">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2288</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0216">216 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.8380555556</span>
          <span property="geo:long">9.32194444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2288 Seui, 75 km. NNE of Cagliari, Sar-
     dinia, 1960
     Burial: c. 216 B.C. 
@@ -16,4 +24,5 @@
     Disposition: Sassari
     Forteleoni, AIIN 1968, pp. 77-81, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

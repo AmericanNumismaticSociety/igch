@@ -1,16 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0508"><h1 property="skos:prefLabel" lang="en">IGCH 0508</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0149">150 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0124">125 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0508">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0508</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0125">125 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">43.44</span>
          <span property="geo:long">23.2852777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 508 Belotinci, NW of Mihajlovgrad, Bul-
     garia, 1966
     Burial: c. 150-125 B.C. (T)
     Contents: 23 AR. Pot hoard
-    <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint" target="_blank">Macedonia, 1st Region: tetradr.</a>
+    <a href="http://nomisma.org/id/macedonia_1st_region" rel="nmo:hasMint"
+            target="_blank">Macedonia, 1st Region: tetradr.</a>
     Disposition: Belogradčik
     Gerasimov, BIAB 30 (1967), p. 187
 </pre>
-   </div></div>
+   </div>
+</div>

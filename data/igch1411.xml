@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1411"><h1 property="skos:prefLabel" lang="en">IGCH 1411</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0189">190 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1411">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1411</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0190">190 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1411 Asia Minor, central, 1963 
     Burial: c. 190 B.C. (Boehringer)
     Contents: c. 400 AR
@@ -13,7 +19,8 @@
     Prusias I: 2 tetradr.
     Attalus I: 1 tetradr.
     <a href="http://nomisma.org/id/side" rel="nmo:hasMint" target="_blank">Side: 3 tetradr.</a>
-    Antiochus II: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Antiochus II: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim 1</a>, <a href="http://nomisma.org/id/aegae_aeolis" rel="nmo:hasMint" target="_blank">Aegae 1</a>)
     Antiochus III: 8 tetradr. (<a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 3</a>, 
         <a href="http://nomisma.org/id/nisibis" rel="nmo:hasMint" target="_blank">Nisibis 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 1</a>, <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 2</a>, unc. 
@@ -31,8 +38,10 @@
     Antiochus II: 1 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia</a>) 
     Seleucus II: 1 tetradr. (<a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia</a>) 
     Antiochus Hierax: 2 tetradr. (<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes</a>
-        <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia Troas 1</a>)
-    Seleucus III: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+        <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia Troas 1</a>)
+    Seleucus III: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 2</a>, unc. mint 1)
     Antiochus III: 6 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 5</a>,
         <a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia 1</a>)
@@ -43,9 +52,11 @@
     Prusias I: 1 tetradr.
     Attains I: 1 tetradr.
     Seleucus II: 1 tetradr. (<a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus ?</a>)
-    Antiochus Hierax: 1 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia 
+    Antiochus Hierax: 1 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia 
         Troas</a>)
-    Antiochus III: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Antiochus III: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim 1</a>, <a href="http://nomisma.org/id/nisibis" rel="nmo:hasMint" target="_blank">Nisibis 1</a>)
     Disposition: dispersed
     Boehringer, Zur Chronologie, pp. 172- 9, illus. 
@@ -58,4 +69,5 @@
         "Asia Minor" (Lot B), while the date 
         in all three cases is 1963
 </pre>
-   </div></div>
+   </div>
+</div>

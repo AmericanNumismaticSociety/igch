@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1723"><h1 property="skos:prefLabel" lang="en">IGCH 1723</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0029">30 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1723">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1723</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0030">30 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1723 Egypt, 1908
 (371)
     Burial: 30 B.C. (Jenkins)
@@ -11,4 +17,5 @@
     Disposition: New York some
     Note by E. T. Newell in ANS (97 listed in detail)
 </pre>
-   </div></div>
+   </div>
+</div>

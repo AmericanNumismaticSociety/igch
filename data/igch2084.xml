@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2084"><h1 property="skos:prefLabel" lang="en">IGCH 2084</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0454">455 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0434">435 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2084">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2084</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0455">455 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0435">435 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.5836111111</span>
          <span property="geo:long">12.8247222222</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2084 Selinunte, 1923
 (953)
     Burial: c. 455 B.C. (Herzfelder); c. 435 
@@ -59,4 +72,5 @@
     Herzfelder, Rhegion, pp. 47-9 
     Jenkins, Gela, pp. 66, 159
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0890"><h1 property="skos:prefLabel" lang="en">IGCH 0890</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0169">170 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0159">160 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0890">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0890</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0170">170 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0160">160 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.0105555556</span>
          <span property="geo:long">23.8577777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 890 Ablanica, c. 70 km. S of Pazardzik, 
     Bulgaria, 1940
@@ -14,4 +27,5 @@
     Disposition: Plovdiv 36
     Gerasimov, BIAB 14 (1940-2), p. 282
 </pre>
-   </div></div>
+   </div>
+</div>

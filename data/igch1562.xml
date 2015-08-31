@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1562"><h1 property="skos:prefLabel" lang="en">IGCH 1562</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0137">138 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1562">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1562</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0138">138 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">36.20666667</span>
       <span property="geo:long">37.14333333</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1562 Aleppo (anc. Beroea) environs, Cyr-
     rhestica, c. 1930
     Burial: c. 138 B.C. (Newell)
@@ -14,10 +21,12 @@
     Prusias I: 4 tetradr.
     <a href="http://nomisma.org/id/cyme_aeolis" rel="nmo:hasMint" target="_blank">Cyme: 4 tetradr.</a>
          <a href="http://nomisma.org/id/myrina_aeolis" rel="nmo:hasMint" target="_blank">Myrina: 1 tetradr.</a> 
-         <a href="http://nomisma.org/id/heraclea_ad_latmum" rel="nmo:hasMint" target="_blank">Heracleia Ioniae: 12 tetradr. (5 ctmkd. by 
+         <a href="http://nomisma.org/id/heraclea_ad_latmum" rel="nmo:hasMint"
+            target="_blank">Heracleia Ioniae: 12 tetradr. (5 ctmkd. by 
         Tryphon)</a> 
          <a href="http://nomisma.org/id/lebedus" rel="nmo:hasMint" target="_blank">Lebedus: 4 tetradr. (3 ctmkd. by Tryphon)</a> 
-         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia: 2 tetradr.</a> 
+         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia: 2 tetradr.</a> 
          <a href="http://nomisma.org/id/alabanda" rel="nmo:hasMint" target="_blank">Alabanda: 2 tetradr.</a>
     Disposition: New York 3 (Heracleia 2,
         Lebedus 1); Seyrig 2 (Alabanda)
@@ -27,4 +36,5 @@
     Seyrig, Trésors du Levant (in press). The inclusion 
         of the royal coins is doubtful
 </pre>
-   </div></div>
+   </div>
+</div>

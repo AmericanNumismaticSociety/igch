@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2284"><h1 property="skos:prefLabel" lang="en">IGCH 2284</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0237">238 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2284">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2284</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0238">238 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.1102777778</span>
          <span property="geo:long">8.88305555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2284 Tadasune, 30 km. NE of Oristano, 
 (1036)     Sardinia, before 1857
     Burial: 238 B.C. (Jenkins)
@@ -13,4 +21,5 @@
     Disposition: unknown
     Spano, BAS 1857, pp. 25-6 (poor details)
 </pre>
-   </div></div>
+   </div>
+</div>

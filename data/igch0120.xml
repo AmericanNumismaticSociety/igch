@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0120"><h1 property="skos:prefLabel" lang="en">IGCH 0120</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0120">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0120</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
       <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.5494444444</span>
          <span property="geo:long">20.0161111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 120 Dyrmish, c. 20 km. SE of Sarandë, 
     Albania, 1960
@@ -15,4 +22,5 @@
     Disposition: Tiranë
     Information from H. Ceka
 </pre>
-   </div></div>
+   </div>
+</div>

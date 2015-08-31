@@ -1,15 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0559"><h1 property="skos:prefLabel" lang="en">IGCH 0559</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0167">168 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0559">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0559</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0168">168 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">40.71666667</span>
       <span property="geo:long">19.46638889</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 559 Bakërr (anc. Apollonia), 11 km. W of 
     Fier, Albania, 1969
     Burial: before 168 B.C. (T)
     Contents: 441 AR. Pot hoard
     <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 3 spread-flan tetradr.</a>
-         <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint" target="_blank">Apollonia: 133 dr.; 4 hemidr.</a> 
+         <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint"
+            target="_blank">Apollonia: 133 dr.; 4 hemidr.</a> 
          <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: 107 dr.; 8 hemidr.</a>
          <a href="http://nomisma.org/id/cassope" rel="nmo:hasMint" target="_blank">Cassope: 2 dr. (as Franke, p. 76, no. 68 [1],
         V 39-R 65 [1])</a>
@@ -22,4 +35,5 @@
     Disposition: Tiranë
     Ceka, Studia Albanica 1972, no. pp. 49-68, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

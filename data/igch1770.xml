@@ -1,13 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1770"><h1 property="skos:prefLabel" lang="en">IGCH 1770</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0186">187 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1770">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1770</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0187">187 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">34.7475</span>
       <span property="geo:long">40.72972222</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1770 Dura-Europus, Mesopotamia, 1933- 
 (354)     1934
     Burial: c. 187 B.C. (Le Rider)
     Contents: 207 AE. Pot hoard
-    Antiochus III:  <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim 1</a>, 
+    Antiochus III:  <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim 1</a>, 
          <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa? 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 204</a>,  <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre 1 </a>
     Disposition: Yale?
 † Bellinger, Excav. Dura-Europos 6 (New Haven,
@@ -19,4 +27,5 @@
         to Antiochus III by Seyrig and Le 
         Rider and may have been struck at Susa
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1161"><h1 property="skos:prefLabel" lang="en">IGCH 1161</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0549">550 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1161">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1161</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0550">550 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1161 Asia Minor, western, Hellespont re-
     gion, 1969
     Burial: c. 550 B.C. (M) 
@@ -10,4 +16,5 @@
     Disposition: Athens
     Information from M. Oeconomides
 </pre>
-   </div></div>
+   </div>
+</div>

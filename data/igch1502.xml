@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1502"><h1 property="skos:prefLabel" lang="en">IGCH 1502</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0332">333 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0330">331 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1502">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1502</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0333">333 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0331">331 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">32.80111111</span>
       <span property="geo:long">35.05027778</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1502 Tell Abu Hawam, near Haifa (anc. 
 (1039)     Sicmona(, Phoenicia, 1930
     Burial: c. 333-331 B.C. (Cross)
@@ -26,4 +38,5 @@
         P. Naster, INCJ, p. 16, as against 
         H. Seyrig, Syria 34 (1957), pp. 93-8
 </pre>
-   </div></div>
+   </div>
+</div>

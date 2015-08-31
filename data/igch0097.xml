@@ -1,16 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0097"><h1 property="skos:prefLabel" lang="en">IGCH 0097</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0097">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0097</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.9</span>
          <span property="geo:long">22.4333333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 97 Lamia, Thessaly, c. 1936
 (596)
     Burial: 4th cent. B.C. (T)
     Contents: 16 AR
     <a href="http://nomisma.org/id/aenianes" rel="nmo:hasMint" target="_blank">Aenianes:</a> 1 ob. (as BMC 3-4) 
-    <a href="http://nomisma.org/id/heracleia_trachinia" rel="nmo:hasMint" target="_blank">Heracleia Trachinia:</a> 3 ob. (as BMC 2) 
+    <a href="http://nomisma.org/id/heracleia_trachinia" rel="nmo:hasMint"
+            target="_blank">Heracleia Trachinia:</a> 3 ob. (as BMC 2) 
     <a href="http://nomisma.org/id/oeta" rel="nmo:hasMint" target="_blank">Oetaei:</a> 3 ob. (as BMC 3-4) 
     <a href="http://nomisma.org/id/locri_opuntii" rel="nmo:hasMint" target="_blank">Locri Opuntii:</a> 5 ob. (as BMC 35) 
     <a href="http://nomisma.org/id/boeotia" rel="nmo:hasMint" target="_blank">Boeotia:</a> 1 ob.
@@ -19,4 +27,5 @@
         (stolen Dec. 1968)
     Information from owner
 </pre>
-   </div></div>
+   </div>
+</div>

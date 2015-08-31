@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2339"><h1 property="skos:prefLabel" lang="en">IGCH 2339</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0194">195 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2339">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2339</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0195">195 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.0002777778</span>
          <span property="geo:long">3.0675</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2339 Ullastret, 20 km. E of Gerona, 1964 
     Burial: c. 195 B.C. (Jenkins)
     Contents: 54 AR. Pot hoard from excavations
@@ -14,4 +22,5 @@
     Disposition: Gerona
     Maluquer-Oliva, Pyrenae 1965, pp. 85-123, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

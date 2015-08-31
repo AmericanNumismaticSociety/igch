@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1446"><h1 property="skos:prefLabel" lang="en">IGCH 1446</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1446">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1446</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1446 Asia Minor, c. 1967 
     Burial: c. 280 B.C. (T) 
     Contents: 50 AR
@@ -7,13 +13,16 @@
         dr. (<a href="http://nomisma.org/id/asia_minor" rel="nmo:hasMint" target="_blank">Asia Minor mints</a>)
     Philip III: 1 dr. (<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes</a>)
     Lysimachus: 5 lifetime tetradr. (<a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lamp-
-        sacus 2</a>, <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alex. Troas 1</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 1</a>, 
+        sacus 2</a>, <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alex. Troas 1</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 1</a>, 
         unc. 1)
             8 lifetime dr. (<a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 3</a>, 
         <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus 2</a>, <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 1</a>, <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 1</a>, 
-        <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1</a>)
+        <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1</a>)
     Disposition: C. Hersh 17 (Alexander 14, 
         Philip 1, Lysimachus 2)
     Record of varieties in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

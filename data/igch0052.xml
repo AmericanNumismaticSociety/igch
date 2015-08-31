@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0052"><h1 property="skos:prefLabel" lang="en">IGCH 0052</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0052">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0052</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.6402777778</span>
          <span property="geo:long">22.415</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 52 Larissa environs (Zarkon?), Thessaly, 
     1962-1963
@@ -27,4 +34,5 @@
         nally contained c. 4000 coins
     Possibly no. 55 below is part of this large hd.
 </pre>
-   </div></div>
+   </div>
+</div>

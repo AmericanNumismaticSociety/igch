@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0236"><h1 property="skos:prefLabel" lang="en">IGCH 0236</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0236">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0236</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.5463888889</span>
          <span property="geo:long">20.7875</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 236 Dodona, Epirus, 1959
     Burial: 168-167 B.C. (Franke) 
@@ -17,4 +24,5 @@
     Dacaris, A Delt 1961-2, Chronika, p. 198, illus. 
     Franke, Epirus, p. 30, note 14
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1637"><h1 property="skos:prefLabel" lang="en">IGCH 1637</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0499">500 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1637">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1637</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0500">500 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">31.04055556</span>
       <span property="geo:long">30.46972222</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1637 Demanhur (mod. Damanhûr, anc. 
 (323)     Dime-n-Hor = Hermopolis parva), 
     1900-1901
@@ -11,7 +18,8 @@
     <a href="http://nomisma.org/id/neapolis_macedon" rel="nmo:hasMint" target="_blank">Neapolis Maced.: 4 st.</a>
          <a href="http://nomisma.org/id/scione" rel="nmo:hasMint" target="_blank">Scione: 1 tetradr.</a>
          <a href="http://nomisma.org/id/stagira" rel="nmo:hasMint" target="_blank">Stagira: 1 tetradr.</a>
-         <a href="http://nomisma.org/id/thraco-macedonian" rel="nmo:hasMint" target="_blank">Thraco-Maced.: 34 st. (satyr and nymph, 
+         <a href="http://nomisma.org/id/thraco-macedonian" rel="nmo:hasMint"
+            target="_blank">Thraco-Maced.: 34 st. (satyr and nymph, 
         Lete 17, centaur and nymph 1, cow 
         and calf 1, boar and flowers 9, running 
         figure 6)</a>
@@ -62,4 +70,5 @@
         10
     Barron, Samos, p. 30
 </pre>
-   </div></div>
+   </div>
+</div>

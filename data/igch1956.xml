@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1956"><h1 property="skos:prefLabel" lang="en">IGCH 1956</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0284">285 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1956">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1956</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0285">285 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.46795</span>
          <span property="geo:long">17.24654</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1956 Taranto, Via Mazzini, Calabria, 1929 
 (1060)
     Burial: c. 285 B.C. (Vlasto)
@@ -11,7 +19,8 @@
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 11+ AV dr.
             54 st. (2 Per. III; 21 Per. V; 31 
         Per. VI)</a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 1 st. (as Work 85 ff.)</a> 
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 1 st. (as Work 85 ff.)</a> 
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 1 dist.; 21 st.</a>
          <a href="http://nomisma.org/id/velia" rel="nmo:hasMint" target="_blank">Velia: 3 st.</a>
     Disposition: Naville July 2, 1930, 83-84 
@@ -27,4 +36,5 @@
         tine AV dr. in poor condition sold in 
         the interim were from this hd.
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0640"><h1 property="skos:prefLabel" lang="en">IGCH 0640</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0069">70 B.C.</span></div></div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0640">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0640</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0070">70 B.C.</span>
+      </div>
+   </div>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">43.78138889</span>
       <span property="geo:long">25.17527778</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 640 Viisoara, c. 35 km. SW of Bacau, Ru-
     mania, 1957
@@ -10,11 +22,13 @@
     Contents: 821 AR. Pot hoard
     <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 2 spread-flan tetradr.</a>
     Imit.<a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank"> Thasos: 4 tetradr.</a>
-         <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint" target="_blank">Apollonia, Illyria: 3 dr.</a>
+         <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint"
+            target="_blank">Apollonia, Illyria: 3 dr.</a>
          <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: 812 dr. incl. some imit.</a> 
     Disposition: Piatra Neamt and Bucharest 
         (Inst. Arch.)
     Mitrea, SCN 2 (1958), pp. 27-93, illus.; 3 (1960), 
         pp. 449-50; Dacia 1968, p. 449
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1298"><h1 property="skos:prefLabel" lang="en">IGCH 1298</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0239">240 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1298">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1298</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0240">240 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1298 Asia Minor, western?, before 1913
 (75)
     Burial: c. 240 B.C. (M)
@@ -9,4 +15,5 @@
     Münsterberg, NZ 1915, pp. 111-5
     Hill, NC 1917, pp. 5 f., illus.
 </pre>
-   </div></div>
+   </div>
+</div>

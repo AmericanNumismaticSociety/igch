@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2124"><h1 property="skos:prefLabel" lang="en">IGCH 2124</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0359">360 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2124">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2124</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0360">360 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">36.9080555556</span>
          <span property="geo:long">15.1366666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2124 Avola, 1888 
 (108 part)
     Burial: c. 360 B.C. (Baldwin) 
@@ -38,4 +46,5 @@
         of AR. For the AR hd. (included under 
         Noe 108) see no. 2169 below
 </pre>
-   </div></div>
+   </div>
+</div>

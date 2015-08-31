@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1492"><h1 property="skos:prefLabel" lang="en">IGCH 1492</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0349">350 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1492">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1492</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0350">350 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1492 Palestine ?, before 1944
     Burial: c. 350 B.C. (Spaer)
     Contents: 8+ AR
@@ -12,4 +18,5 @@
     Kadman, INCJ, hoard 2 
     Information from A. Spaer
 </pre>
-   </div></div>
+   </div>
+</div>

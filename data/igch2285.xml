@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2285"><h1 property="skos:prefLabel" lang="en">IGCH 2285</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0215">216 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2285">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2285</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0216">216 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.9555555556</span>
          <span property="geo:long">9.19305555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2285 Aritzo, 50 km. NE of Oristano, Sar-
 (66)     dinia, 1858
     Burial: c. 216 B.C. (Jenkins)
@@ -14,4 +22,5 @@
     Müller, Afrique 2, p. 108, note 1 
     Bornemann, BlM 1900, p. 119
 </pre>
-   </div></div>
+   </div>
+</div>

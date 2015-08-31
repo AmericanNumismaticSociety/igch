@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0197"><h1 property="skos:prefLabel" lang="en">IGCH 0197</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0197">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0197</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 197 Greece, 1937
 (103)
@@ -14,4 +19,5 @@
     Noe gives the findspot as Athens but this
         is only where the coins were seen
 </pre>
-   </div></div>
+   </div>
+</div>

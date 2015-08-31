@@ -1,16 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1202"><h1 property="skos:prefLabel" lang="en">IGCH 1202</h1><span rel="nmo:hasFindspot">Marmaris? (anc. Physcus), Caria, <span property="geo:lat">36.86</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1202">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1202</h1>
+   <span rel="nmo:hasFindspot">Marmaris? (anc. Physcus), Caria, <span property="geo:lat">36.86</span>
             <span property="geo:long">28.26</span>
-         </span><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0389">390 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0379">380 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0390">390 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0380">380 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1202 , c. 
     1965
     Burial: 390-380 B.C. (Cahn) 
     Contents: c. 100 AR
-    <a href="http://nomisma.org/id/chersonesus_cariae" rel="nmo:hasMint" target="_blank">Chersonesus, Caria: 13+ dr.; 6+ fr.</a>
+    <a href="http://nomisma.org/id/chersonesus_cariae" rel="nmo:hasMint"
+            target="_blank">Chersonesus, Caria: 13+ dr.; 6+ fr.</a>
          <a href="http://nomisma.org/id/cnidus" rel="nmo:hasMint" target="_blank">Cnidus: dr.; fr.</a>
          <a href="http://nomisma.org/id/rhodes" rel="nmo:hasMint" target="_blank">Rhodes: hemidr.</a>
     Unc. mint: "many" fr. (as Traité pl. 155, 19 
         [Clazomenae])
     Disposition: dispersed
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1680"><h1 property="skos:prefLabel" lang="en">IGCH 1680</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0259">260 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1680">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1680</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0260">260 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">30.74638889</span>
       <span property="geo:long">31.56638889</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1680 Toukh el Garmous, 1905 
 (1123)
     Burial: c. 260 B.C. (Jenkins)
@@ -10,7 +17,8 @@
         of temple treasury with gold ornaments 
         and silver vessels (cf. nos. 1679, 1729) 
     Ptolemy I: 31 AV pentadr.
-    Ptolemy II: 77 AV pentadr. (<a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Alexandreia 68</a>, 
+    Ptolemy II: 77 AV pentadr. (<a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint"
+            target="_blank">Alexandreia 68</a>, 
         <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre 7</a>, <a href="http://nomisma.org/id/sidon" rel="nmo:hasMint" target="_blank">Sidon 2</a>)
     Ptolemy I-II (?): AR tetradr. (Soter type)
     Disposition: Alexandria 40; Cairo orna-
@@ -31,4 +39,5 @@
     Rostovtzeff, SEH, pp. 374, 390 (illus. of gold 
         ornaments)
 </pre>
-   </div></div>
+   </div>
+</div>

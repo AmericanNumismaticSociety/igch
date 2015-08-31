@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1172"><h1 property="skos:prefLabel" lang="en">IGCH 1172</h1><span rel="nmo:hasFindspot">Chios, <span property="geo:lat">38.5</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1172">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1172</h1>
+   <span rel="nmo:hasFindspot">Chios, <span property="geo:lat">38.5</span>
             <span property="geo:long">26.0</span>
-         </span><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0479">480 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0480">480 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1172 , 1919
 (247)
     Burial: c. 480 B.C. (M)
@@ -11,4 +18,5 @@
     Disposition: Athens 8 (1 Athens, 7 Chios) 
     Seltman, Athens, p. 148
 </pre>
-   </div></div>
+   </div>
+</div>

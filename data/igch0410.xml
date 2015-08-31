@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0410"><h1 property="skos:prefLabel" lang="en">IGCH 0410</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0314">315 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0309">310 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0410">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0410</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0315">315 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0310">310 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 410 Paeonia, 1968
     Burial: c. 315-310 B.C. (T) 
@@ -17,7 +28,8 @@
          <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 3,</a> 
         <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 1,</a> 
          <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 2,</a> 
-         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1,</a> 
+         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1,</a> 
         <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 2,</a> 
          <a href="http://nomisma.org/id/cyprus" rel="nmo:hasMint" target="_blank">Cyprus 4,</a> 
          <a href="http://nomisma.org/id/side" rel="nmo:hasMint" target="_blank">Side 1,</a> 
@@ -45,4 +57,5 @@
         extent of the carry-over from one 
         auction to the other.
 </pre>
-   </div></div>
+   </div>
+</div>

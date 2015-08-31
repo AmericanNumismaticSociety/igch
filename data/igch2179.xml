@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2179"><h1 property="skos:prefLabel" lang="en">IGCH 2179</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0269">270 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2179">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2179</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0270">270 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.0755555556</span>
          <span property="geo:long">15.2761111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2179 Syracuse, Fusco, 1955 
     Burial: early 3rd cent. B.C. (K) 
     Contents: 21 AR. Pot hoard
@@ -15,7 +28,8 @@
     <a href="http://nomisma.org/id/corinth" rel="nmo:hasMint" target="_blank">Corinth: 5 (Per. V with Ν, ΑΡ, Ι, ΔΙ) 
             2 trihemidr. (1 with ΔΙ)</a>
          <a href="http://nomisma.org/id/anactorium" rel="nmo:hasMint" target="_blank">Anactorium: 3</a>
-         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Argos: 2</a>
+         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Argos: 2</a>
          <a href="http://nomisma.org/id/leucas" rel="nmo:hasMint" target="_blank">Leucas: 2</a>
          <a href="http://nomisma.org/id/syracuse" rel="nmo:hasMint" target="_blank">Syracuse: 1 (Agathocles, full wt.) </a>
          <a href="http://nomisma.org/id/thyrrheium" rel="nmo:hasMint" target="_blank">Thyrrheium: 1</a>
@@ -24,4 +38,5 @@
         pp. 284-5
     Currò Pisanò, AIIN 1962-4, pp. 231, 239
 </pre>
-   </div></div>
+   </div>
+</div>

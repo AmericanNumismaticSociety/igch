@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1651"><h1 property="skos:prefLabel" lang="en">IGCH 1651</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0359">360 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1651">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1651</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0360">360 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">27.9297222222</span>
          <span property="geo:long">30.8747222222</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1651 Beni Hasan, 250 km. S of Cairo, 1903
 (144)
     Burial: c. 360 B.C. (Jenkins)
@@ -25,4 +33,5 @@
     Robinson, NC 1937, pp. 197-9
     Schlumberger, L'argent glee, p. 10, no. 26
 </pre>
-   </div></div>
+   </div>
+</div>

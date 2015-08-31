@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0270"><h1 property="skos:prefLabel" lang="en">IGCH 0270</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0144">145 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0139">140 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0270">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0270</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0145">145 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0140">140 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.6380555556</span>
          <span property="geo:long">21.63</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 270 Olympia, Elis, 1939
     Burial: c. 145-140 B.C. (T)
@@ -31,4 +44,5 @@
         lopolis)
     Information from Margildis Schlüter
 </pre>
-   </div></div>
+   </div>
+</div>

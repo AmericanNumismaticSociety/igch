@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1424"><h1 property="skos:prefLabel" lang="en">IGCH 1424</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1424">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1424</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">36.7975</span>
       <span property="geo:long">34.63</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1424 Mersin (anc. Zephyrium), Cilicia, c. 
     1963
     Burial: c. 280 B.C. (M) 
@@ -21,14 +28,16 @@
         <a href="http://nomisma.org/id/chalcis" rel="nmo:hasMint" target="_blank">Chalcis 2</a>, <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus 2</a>, <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 2</a>, Salamis 7
     Lysimachus: 4 lifetime tetradr. (<a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphi-
         polis 2</a>, <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 2</a>)
-    Seleucus I: 11 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim
+    Seleucus I: 11 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim
         4</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>, <a href="http://nomisma.org/id/seleuceia_pieria" rel="nmo:hasMint" target="_blank">Seleuceia Pieria 3</a>, An-
         tiocheia 1, <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1</a>, unc. 1 as WSM 
         1346)
     Lot B
     Alexander III and Philip III: 26 tetradr. 
         (various mints)
-    Seleucus I: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim 
+    Seleucus I: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim 
         1</a>, <a href="http://nomisma.org/id/seleuceia_pieria" rel="nmo:hasMint" target="_blank">Seleuceia Pieria 1</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 2</a>)
     Lot C
     Alexander III: 2 tetradr. (<a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis 1</a>, 
@@ -46,4 +55,5 @@
         1963, lot A in 1966. There may well 
         be some duplication among the records
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1701"><h1 property="skos:prefLabel" lang="en">IGCH 1701</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0179">180 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1701">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1701</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0180">180 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1701 Delta, 1927-1928
     Burial: c. 200-180 B.C. (Jenkins) 
     Contents: 24 AR
     Alexander III: 6 late post. tetradr. (<a href="http://nomisma.org/id/assus" rel="nmo:hasMint" target="_blank">Assus ?</a>, 
         <a href="http://nomisma.org/id/temnus" rel="nmo:hasMint" target="_blank">Temnus</a>, <a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Mytilene</a>, <a href="http://nomisma.org/id/erythrae" rel="nmo:hasMint" target="_blank">Erythrae</a>, <a href="http://nomisma.org/id/asia_minor" rel="nmo:hasMint" target="_blank">unc. 
-        Asia Minor with bucranium symbol</a>, <a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint" target="_blank">Heracleia</a>)
+        Asia Minor with bucranium symbol</a>, <a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint"
+            target="_blank">Heracleia</a>)
     Antigonus Gonatas: 10 tetradr. (as SNG-
         Cop. 1199 [2], 1200 [1], 1201 [4], 1202
         [2], with trident symbol [1]) 
@@ -18,4 +30,5 @@
         Lysimachus 1, Alexander 5)
     Partial list by C. T. Seltman in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

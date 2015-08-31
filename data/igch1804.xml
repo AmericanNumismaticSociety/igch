@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1804"><h1 property="skos:prefLabel" lang="en">IGCH 1804</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0139">140 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0099">100 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1804">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1804</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0140">140 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">32.1888888889</span>
          <span property="geo:long">48.2577777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1804 Susa, Susiana, 1933-1934
 (1023)
     Burial: after 140 B.C. (Le Rider)
@@ -20,29 +33,36 @@
     Philip III: 1 dr. (<a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon</a>)
     Lysimachus: 4 post. tetradr. (<a href="http://nomisma.org/id/byzantium" rel="nmo:hasMint" target="_blank">Byzantium 1</a>,
         <a href="http://nomisma.org/id/lysimachia" rel="nmo:hasMint" target="_blank">Lysimacheia 1</a>, <a href="http://nomisma.org/id/cius" rel="nmo:hasMint" target="_blank">Cius 1</a>, <a href="http://nomisma.org/id/cyzicus" rel="nmo:hasMint" target="_blank">Cyzicus 1</a>)
-    Antiochus II: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus II: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim</a>)
     Seleucus III: 1 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia</a>) 
-    Antiochus III: 3 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Antiochus III: 3 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 2</a>)
-    Seleucus IV: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Seleucus IV: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 2</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 2</a>)
-    Antiochus IV: 8 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus IV: 8 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 1</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 4</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 1</a>, <a href="http://nomisma.org/id/ace_ptolemais" rel="nmo:hasMint" target="_blank">Ace 1</a>, 
-        <a href="http://nomisma.org/id/soli-pompeiopolis" rel="nmo:hasMint" target="_blank">Soli 1</a>)
+        <a href="http://nomisma.org/id/soli-pompeiopolis" rel="nmo:hasMint"
+            target="_blank">Soli 1</a>)
             1 dr. (<a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana</a>)
     Antiochus V: 4 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia</a>) 
     Demetrius I: 10 tetradr. (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 4</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">An-
         tiocheia 5</a>, unc. western mint 1)
             1 dr. (<a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana</a>) 
-    Alexander I Bala: 21 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia
+    Alexander I Bala: 21 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia
         ad Tigrim 8</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 7</a>, <a href="http://nomisma.org/id/charax_spasinou" rel="nmo:hasMint" target="_blank">Antiocheia-
         Charax Spasinou 2</a>, <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana I, 3</a>)
             1 dr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia</a>) 
     Demetrius II: 4 tetradr. (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1 </a>, <a href="http://nomisma.org/id/charax_spasinou" rel="nmo:hasMint" target="_blank">An-
         tiocheia-Charax Spasinou 2</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antio-
         cheia? 1</a>)
-            1 dr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim </a>) 
+            1 dr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim </a>) 
     <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus: 1 dr. </a>
     Kamniskires I, Elymaïs: 1 tetradr. (<a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa </a>) 
     Harithat, king of Hagar: 2 tetradr.
@@ -60,4 +80,5 @@
         150, 152 ff.; ANSMN 16 (1970), pp. 
         31-4
 </pre>
-   </div></div>
+   </div>
+</div>

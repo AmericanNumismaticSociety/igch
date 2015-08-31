@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0447"><h1 property="skos:prefLabel" lang="en">IGCH 0447</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0447">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0447</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">44.3491666667</span>
          <span property="geo:long">22.3819444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 447 Jabukovac, 20 km. NW of Negotin, 
     S. Serbia, Yugoslavia, before 1920
@@ -11,13 +19,15 @@
     Contents: 29 AR
     Alexander III: 12 early post. tetradr. 
         (<a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis 1</a>, <a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella 3</a>, <a href="http://nomisma.org/id/priene" rel="nmo:hasMint" target="_blank">Priene 1</a>, <a href="http://nomisma.org/id/antigoneia_syria" rel="nmo:hasMint" target="_blank">Anti-
-        goneia 1</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 3</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Alexandria 1</a>, 
+        goneia 1</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 3</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint"
+            target="_blank">Alexandria 1</a>, 
         unc. 2)
             5 dr. (<a href="http://nomisma.org/id/teos" rel="nmo:hasMint" target="_blank">Teos 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 
         3</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>)
     Imit. Alexander III: 4 tetradr.
     <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Athens:</a> 1 tetradr.
-    Antiochus I: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus I: 1 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim</a>)
     East Celts: 5 Philip II imit. 
             1 <a href="http://nomisma.org/id/larissa" rel="nmo:hasMint" target="_blank">Larissa imit.</a>
@@ -35,4 +45,5 @@
         is now considered to be Zemun, near 
         Belgrade, and not south Serbia
 </pre>
-   </div></div>
+   </div>
+</div>

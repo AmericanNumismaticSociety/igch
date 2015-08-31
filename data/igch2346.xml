@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2346"><h1 property="skos:prefLabel" lang="en">IGCH 2346</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="0000">1 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2346">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2346</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0001">1 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.9922222222</span>
          <span property="geo:long">1.41361111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2346 C'an Juan d'en Cauna, Ibiza, 1967 
     Burial: 2nd-1st cent. B.C. (Almagro) 
     Contents: 121 AE
@@ -15,4 +28,5 @@
         56, Madrid, 1967), pp. 12-23, illus.
     Villaronga, GacNum 14 (1969), p. 41
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1186"><h1 property="skos:prefLabel" lang="en">IGCH 1186</h1><span rel="nmo:hasFindspot">Bodrum (anc. Halicarnassus), Caria, <span property="geo:lat">37.04</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1186">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1186</h1>
+   <span rel="nmo:hasFindspot">Bodrum (anc. Halicarnassus), Caria, <span property="geo:lat">37.04</span>
             <span property="geo:long">27.43</span>
-         </span><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0449">450 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0450">450 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1186 , 
 (476)     c. 1857
     Burial: c. 450 B.C. (Cahn)
@@ -11,4 +18,5 @@
     Huber, NZ 1870, p. 240 
     Cahn, Knidos, pp. 2-3
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2092"><h1 property="skos:prefLabel" lang="en">IGCH 2092</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0408">409 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2092">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2092</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0409">409 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.5836111111</span>
          <span property="geo:long">12.8247222222</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2092 Selinunte ("Latomie"), 1885
 (949)
     Burial: c. 409 B.C. (Jenkins)
@@ -25,4 +33,5 @@
     Tusa Cutroni, AIIN 1956, p. 206 
     Jenkins, Gela, p. 158
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1460"><h1 property="skos:prefLabel" lang="en">IGCH 1460</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0094">95 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0089">90 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1460">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1460</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0095">95 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0090">90 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1460 Asia Minor, 1970 
     Burial: 95-90 B.C. (Kleiner)
     Contents: 30+ AR 
@@ -11,4 +22,5 @@
     Disposition: New York 30 
     To be published by F. Kleiner
 </pre>
-   </div></div>
+   </div>
+</div>

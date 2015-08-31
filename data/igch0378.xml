@@ -1,20 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0378"><h1 property="skos:prefLabel" lang="en">IGCH 0378</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0347">348 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0378">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0378</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0348">348 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.2925</span>
          <span property="geo:long">23.3427777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 378 Olynthus, 1934 
 (766)
     Burial: 348 B.C.? (Clement)
     Contents: 34 AE From excavations 
     <a href="http://nomisma.org/id/acanthus" rel="nmo:hasMint" target="_blank">Acanthus: 2</a>
-         <a href="http://nomisma.org/id/chalcidian_league" rel="nmo:hasMint" target="_blank">Chalcidian League: 25</a>
+         <a href="http://nomisma.org/id/chalcidian_league" rel="nmo:hasMint"
+            target="_blank">Chalcidian League: 25</a>
          <a href="http://nomisma.org/id/potidaea" rel="nmo:hasMint" target="_blank">Potidaea: 5</a>
          <a href="http://nomisma.org/id/scione" rel="nmo:hasMint" target="_blank">Scione: 2</a>
     Disposition: Athens
     Robinson-Clement, Olynthus IX, pp. 193-4 (hd. 
         II AE)
 </pre>
-   </div></div>
+   </div>
+</div>

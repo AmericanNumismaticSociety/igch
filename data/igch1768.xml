@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1768"><h1 property="skos:prefLabel" lang="en">IGCH 1768</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1768">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1768</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">36.33694444</span>
       <span property="geo:long">43.13583333</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1768 Mosul, in anc. Mesopotamia, before 
 (711)     1917
     Burial: c. 200 B.C. (Newell) 
@@ -10,14 +17,18 @@
     Alexander III: 2 lifetime and early post.
         tetradr. ( <a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis 1</a>,  <a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon 1</a>)
             30 dr. ( <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 4</a>,  <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Aby-
-        dus 6</a>,  <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 8</a>,  <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 3</a>,  <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 
+        dus 6</a>,  <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 8</a>,  <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 3</a>,  <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 
         6</a>,  <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>, unc. 2)
-            3 late post. dr. ( <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 
+            3 late post. dr. ( <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 
         1</a>,  <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios 2</a>)
     Philip III: 2 dr. ( <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 1</a>,  <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>)
     Lysimachus: To lifetime tetradr. ( <a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella? 1</a>, 
-         <a href="http://nomisma.org/id/sestus" rel="nmo:hasMint" target="_blank">Sestus? 1</a>, <a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint" target="_blank">Heracleia Bith. 1</a>,  <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lamp-
-        sacus 3</a>,  <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 2</a>,  <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia 
+         <a href="http://nomisma.org/id/sestus" rel="nmo:hasMint" target="_blank">Sestus? 1</a>, <a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint"
+            target="_blank">Heracleia Bith. 1</a>,  <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lamp-
+        sacus 3</a>,  <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 2</a>,  <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia 
         Troas 1</a>,  <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>)
             2 dr. ( <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus</a>)
             4 post. tetradr. ( <a href="http://nomisma.org/id/calchedon" rel="nmo:hasMint" target="_blank">Calchedon 
@@ -27,4 +38,5 @@
     Disposition: New York 50
     Record of varieties in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

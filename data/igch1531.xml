@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1531"><h1 property="skos:prefLabel" lang="en">IGCH 1531</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0219">220 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1531">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1531</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0220">220 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1531 Syria?, 1962 
     Burial: c. 220 B.C.
     Contents: 15+ AV
@@ -12,17 +18,20 @@
         68, 94)
     Antiochus I: 2 tetradr. (<a href="http://nomisma.org/id/phocaea" rel="nmo:hasMint" target="_blank">Phocaea 1 as WSM
         1504</a>; <a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia 1 as WSM 1144</a>)
-    Antiochus II: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus II: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 1 as ESM 178</a>; <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1 as WSM 
         1310 var.</a>; <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1 as WSM 1406</a>; 
         <a href="http://nomisma.org/id/phocaea" rel="nmo:hasMint" target="_blank">Phocaea 1 as WSM 1506</a>)
     Seleucus II: 2 tetradr. (<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1 as WSM 
         1418 var.</a>; <a href="http://nomisma.org/id/apameia_syria" rel="nmo:hasMint" target="_blank">Apameia 1 as WSM</a>) 1153 
             1 dr. (<a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes as WSM 1353</a>)
-    Antiochus Hierax: 1 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia 
+    Antiochus Hierax: 1 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia 
         Troas as WSM 1583</a>)
     Disposition: Münz. and Med., Basel, 25 
         (Nov. 17, 1962), no. 443; Winterthur 1 
     Boehringer, Zur Chronologie, pp. 153-4, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

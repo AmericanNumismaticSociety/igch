@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1510"><h1 property="skos:prefLabel" lang="en">IGCH 1510</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0318">319 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1510">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1510</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0319">319 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">32.71222222</span>
       <span property="geo:long">35.57444444</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1510 Khirbet el-Kerak (Hebrew Kinneret), 
     c. 7 km. S of Tiberias, Galilee, 1936
     Burial: c. 319 B.C. (Baramki) 
@@ -22,4 +29,5 @@
     Naster, INCJ, p. 5
     Kadman, INCJ, hoard 5
 </pre>
-   </div></div>
+   </div>
+</div>

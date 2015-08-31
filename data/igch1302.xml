@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1302"><h1 property="skos:prefLabel" lang="en">IGCH 1302</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0209">210 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1302">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1302</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0210">210 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">39.59611111</span>
       <span property="geo:long">27.02444444</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1302 Edremit (anc. Adramyteum), Mysia, 
     1954
     Burial: c. 210 B.C. 
@@ -10,10 +17,12 @@
     Alexander III: 10 late post. tetradr. (<a href="http://nomisma.org/id/odessus" rel="nmo:hasMint" target="_blank">Odes-
         sus 1</a>, <a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Mytilene 2</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 1</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Per-
         gamum</a> or <a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Mytilene 1</a>, <a href="http://nomisma.org/id/priene" rel="nmo:hasMint" target="_blank">Priene 1</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus
-        1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1</a>,<a href="http://nomisma.org/id/caria" rel="nmo:hasMint" target="_blank">Caria 1</a>, <a href="http://nomisma.org/id/sillyum" rel="nmo:hasMint" target="_blank">Sillyum 1</a>) 
+        1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1</a>,<a href="http://nomisma.org/id/caria" rel="nmo:hasMint" target="_blank">Caria 1</a>, <a href="http://nomisma.org/id/sillyum" rel="nmo:hasMint" target="_blank">Sillyum 1</a>) 
     Antigonus Gonatas: 1 tetradr.
     Lysimachus: 2 lifetime tetradr. (<a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lamp-
-        sacus 1</a>,<a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank"> Magnesia 1</a>)
+        sacus 1</a>,<a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank"> Magnesia 1</a>)
             2 post. tetradr. (<a href="http://nomisma.org/id/cius" rel="nmo:hasMint" target="_blank">Cius 1</a>, unc. 
     mint 1)
     Attalus II: 2 tetradr.
@@ -23,4 +32,5 @@
     Seyrig, RN 1963, p. 26, note 1. Seyrig's list of 
         varieties is in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

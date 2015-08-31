@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1963"><h1 property="skos:prefLabel" lang="en">IGCH 1963</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1963">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1963</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.675</span>
          <span property="geo:long">16.0958333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1963 Vibo Valentia (= Hipponium; for-
 (1159)     merly Monteleone), Bruttium, 1927
     Burial: c. 280 B.C.? (K) 
@@ -12,7 +20,8 @@
          <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium</a>
          <a href="http://nomisma.org/id/velia" rel="nmo:hasMint" target="_blank">Velia: 7 st.</a>
          <a href="http://nomisma.org/id/croton" rel="nmo:hasMint" target="_blank">Croton: 4 st. (3 incuse; 1 Apollo hd./tripod) </a>
-         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint" target="_blank">Locri: 9 st. (8 Pegasi; 1 Zeus/eagle)</a> 
+         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint"
+            target="_blank">Locri: 9 st. (8 Pegasi; 1 Zeus/eagle)</a> 
          <a href="http://nomisma.org/id/terina" rel="nmo:hasMint" target="_blank">Terina: 1 st.</a>
     Disposition: Reggio (in 1969) 4 (1 Croton 
         dumpy incuse; 1 Croton Apollo hd./ 
@@ -28,4 +37,5 @@
         together with a miscellany of Greek, 
         Roman and modern AE
 </pre>
-   </div></div>
+   </div>
+</div>

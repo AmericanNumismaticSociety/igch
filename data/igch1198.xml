@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1198"><h1 property="skos:prefLabel" lang="en">IGCH 1198</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0399">400 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1198">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1198</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0400">400 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.6722222222</span>
          <span property="geo:long">26.8861111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1198 Samos, Ionia, c. 1953 
     Burial: c. 400 B.C.
     Contents: c. 10 AR
@@ -11,4 +19,5 @@
     Disposition: dispersed
     Barron, Samos, p. 100
 </pre>
-   </div></div>
+   </div>
+</div>

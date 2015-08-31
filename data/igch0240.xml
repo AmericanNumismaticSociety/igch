@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0240"><h1 property="skos:prefLabel" lang="en">IGCH 0240</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0240">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0240</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 240 Euboea, before c. 1940
     Burial: c. 170-165 B.C. 
@@ -16,4 +21,5 @@
     Wallace, NNM 134 (1956), pp. 121-3
 * Considered intrusive by Wallace
 </pre>
-   </div></div>
+   </div>
+</div>

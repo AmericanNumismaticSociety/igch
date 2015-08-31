@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2048"><h1 property="skos:prefLabel" lang="en">IGCH 2048</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2048">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2048</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.805049</span>
          <span property="geo:long">13.912754</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2048 Tortoreto, 32 km. ESE of Ascoli Pi-
 (1121)     ceno, Picenum, 1896
     Burial: c. 200 B.C. (Crawford) 
@@ -11,7 +19,8 @@
     <a href="http://nomisma.org/id/ariminum" rel="nmo:hasMint" target="_blank">Ariminum: 7</a>
          <a href="http://nomisma.org/id/cosa" rel="nmo:hasMint" target="_blank">Cosa: 2 </a>
          <a href="http://nomisma.org/id/cales" rel="nmo:hasMint" target="_blank">Cales: 2 </a>
-         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis: 15</a>
+         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint"
+            target="_blank">Neapolis: 15</a>
          <a href="http://nomisma.org/id/teanum" rel="nmo:hasMint" target="_blank">Teanum: 1</a>
          <a href="http://nomisma.org/id/arpi" rel="nmo:hasMint" target="_blank">Arpi: 2 </a>
          <a href="http://nomisma.org/id/salapia" rel="nmo:hasMint" target="_blank">Salapia: 1</a>
@@ -23,4 +32,5 @@
     Thomsen, ERC I, p. 118
     Crawford, RRCH 101
 </pre>
-   </div></div>
+   </div>
+</div>

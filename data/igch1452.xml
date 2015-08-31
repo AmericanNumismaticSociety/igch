@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1452"><h1 property="skos:prefLabel" lang="en">IGCH 1452</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0149">150 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0144">145 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1452">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1452</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0145">145 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1452 Asia Minor, c. 1876
 (988)
     Burial: c. 150-145 B.C. (Kleiner) 
@@ -10,9 +21,11 @@
          <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes: 2</a>
          <a href="http://nomisma.org/id/tralles" rel="nmo:hasMint" target="_blank">Tralles: 11</a>
          <a href="http://nomisma.org/id/apamea_phrygiae" rel="nmo:hasMint" target="_blank">Apameia: 6</a>
-         <a href="http://nomisma.org/id/laodiceia_ad_lycum" rel="nmo:hasMint" target="_blank">Laodiceia: 1</a>
+         <a href="http://nomisma.org/id/laodiceia_ad_lycum" rel="nmo:hasMint"
+            target="_blank">Laodiceia: 1</a>
     Disposition: dispersed
     Bunbury, NC 1883, pp. 192 f., illus. 
     To be published by F. Kleiner
 </pre>
-   </div></div>
+   </div>
+</div>

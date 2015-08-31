@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1538"><h1 property="skos:prefLabel" lang="en">IGCH 1538</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0189">190 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1538">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1538</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0190">190 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">34.8161111111</span>
          <span property="geo:long">36.1152777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1538 Dniye, near Safita (Pereia of Aradus), 
     N. Phoenicia, 1952
     Burial: c. 190 B.C. (Seyrig) 
@@ -15,25 +23,33 @@
             12 late post. tetradr. (<a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Myti-
         lene 1</a>, <a href="http://nomisma.org/id/clazomenae" rel="nmo:hasMint" target="_blank">Clazomenae 1</a>, <a href="http://nomisma.org/id/phaselis" rel="nmo:hasMint" target="_blank">Phaselis 1 of yr. 
         26</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 9 to yr. 42</a>)
-    Lysimachus: 1 lifetime tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alex-
+    Lysimachus: 1 lifetime tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alex-
         andreia Troas</a>)
             1 post. tetradr. (<a href="http://nomisma.org/id/cyzicus" rel="nmo:hasMint" target="_blank">Cyzicus</a>)
-    Antiochus II: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
-        grim 1 as ESM 180</a>, <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia 
+    Antiochus II: 2 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
+        grim 1 as ESM 180</a>, <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia 
         Troas 1 as WSM 1563</a>)
-    Antiochus Hierax: 2 tetradr. <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">(Alexandreia 
+    Antiochus Hierax: 2 tetradr. <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">(Alexandreia 
         Troas 1 as WSM 1580-1</a>, <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 1 
         as WSM 1550</a>)
     <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus: 1 dr. (yr. 20)</a>
-    Ptolemy I: 4 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia as 
+    Ptolemy I: 4 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia as 
         Svoronos 247, 252, 254, 265</a>)
-    Ptolemy II: 12 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia 4 as
+    Ptolemy II: 12 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia 4 as
         Sv. 365, 375, 402, 530</a>; <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre 2 as Sv. 662
         var., 675</a>; <a href="http://nomisma.org/id/sidon" rel="nmo:hasMint" target="_blank">Sidon 1 as Sv. 731</a>; <a href="http://nomisma.org/id/cyprus" rel="nmo:hasMint" target="_blank">Cyprus?
         5 as Sv. 849 [2], 851, 852, 852 var.</a>)
-    Ptolemy III: 1 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alexandreia as Sv.
+    Ptolemy III: 1 tetradr. (<a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alexandreia as Sv.
         1001</a>)
     Disposition: dispersed
     Seyrig, Trésors du Levant (in press)
 </pre>
-   </div></div>
+   </div>
+</div>

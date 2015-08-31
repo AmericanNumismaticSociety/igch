@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2021"><h1 property="skos:prefLabel" lang="en">IGCH 2021</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0229">230 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0199">200 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2021">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2021</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0230">230 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.949611</span>
          <span property="geo:long">16.510334</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2021 Tiriolo, 10 km. NW of Catanzaro, 
 (1110)     Bruttium, 1897
     Burial: late 3rd cent. B.C. (Robinson) 
@@ -21,4 +34,5 @@
     Cesano, TINC 1936, pp. 57-8
     Robinson, NC 1964, pp. 45, 54
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,19 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0878"><h1 property="skos:prefLabel" lang="en">IGCH 0878</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0149">150 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0878">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0878</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.4247222222</span>
          <span property="geo:long">27.6963888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 878 Sozopol (anc. Apollonia Pontica), SE 
     of Burgas, Bulgaria, 1947
     Burial: 3rd cent. B.C. or later (T)
     Contents: 8 AR, 55 AE,
-    <a href="http://nomisma.org/id/apollonia_pontica" rel="nmo:hasMint" target="_blank">Apollonia Pontica: 8 tetrob.; 55 AE</a>
+    <a href="http://nomisma.org/id/apollonia_pontica" rel="nmo:hasMint"
+            target="_blank">Apollonia Pontica: 8 tetrob.; 55 AE</a>
     Disposition: Sofia
     Gerasimov, BIAB 17 (1950), p. 322
     Excavations of the ancient necropolis; one 
         grave contained 1 tetrob. and 53 AE, 
         and another 7 tetrob. and 2 AE
 </pre>
-   </div></div>
+   </div>
+</div>

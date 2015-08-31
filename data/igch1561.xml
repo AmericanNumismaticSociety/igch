@@ -1,19 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1561"><h1 property="skos:prefLabel" lang="en">IGCH 1561</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0139">140 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1561">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1561</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0140">140 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">35.52472222</span>
       <span property="geo:long">35.78583333</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1561 Latakia (anc. Laodiceia ad Mare) 
     environs, Seleucis, 1950
     Burial: c. 140 B.C. (Westermark) 
     Contents: 9 AR
     Alexander III: 6 late post. tetradr. (<a href="http://nomisma.org/id/temnus" rel="nmo:hasMint" target="_blank">Tem-
         nus 2</a>, <a href="http://nomisma.org/id/alabanda" rel="nmo:hasMint" target="_blank">Alabanda 3</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1</a>) 
-    Lysimachus: 1 lifetime tetradr. (<a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint" target="_blank">Heracleia
+    Lysimachus: 1 lifetime tetradr. (<a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint"
+            target="_blank">Heracleia
         Pontica</a>)
             1 post. tetradr. (<a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus</a>) 
-    Alexander I Bala: 1 tetradr. (<a href="http://nomisma.org/id/antiocheia_pontica" rel="nmo:hasMint" target="_blank">Antiocheia</a>)
+    Alexander I Bala: 1 tetradr. (<a href="http://nomisma.org/id/antiocheia_pontica" rel="nmo:hasMint"
+            target="_blank">Antiocheia</a>)
     Disposition: dispersed
     Seyrig, Trésors du Levant (in press)
 </pre>
-   </div></div>
+   </div>
+</div>

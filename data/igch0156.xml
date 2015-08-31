@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0156"><h1 property="skos:prefLabel" lang="en">IGCH 0156</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0274"/><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0249">250</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0156">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0156</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0275"/>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0250">250</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.383333</span>
          <span property="geo:long">23.783333</span>
       </span>
-   </div><div class="editedSource">
+   </div>
+   <div class="editedSource">
       <pre typeof="dcmitype:Collection">
 156 Eretria environs, Euboea, 1935
     Burial: - B.C. (T) 
@@ -14,4 +27,5 @@
     Disposition: private coll., Athens, 19
     Wallace, NNM 134 (1956), p. 53, no. 6
 </pre>
-   </div></div>
+   </div>
+</div>

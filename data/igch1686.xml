@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1686"><h1 property="skos:prefLabel" lang="en">IGCH 1686</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0269">270 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0229">230 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1686">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1686</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0270">270 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0230">230 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">32.8355555556</span>
          <span property="geo:long">13.2588888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1686 Tripoli, Cyrenaica, before 1899 
 (1129)
     Burial: mid 3rd cent. B.C. (Jenkins) 
@@ -15,4 +28,5 @@
     Hill, NC 1899, pp. 175-6, illus. 
     Note by G. F. Hill in BM file
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,15 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1773"><h1 property="skos:prefLabel" lang="en">IGCH 1773</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0169">170 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0154">155 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1773">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1773</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0170">170 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0155">155 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">36.8119444444</span>
          <span property="geo:long">42.0611111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1773 Tell Kotchek, frontier station be-
     tween Syria and Iraq, c. 80 km. SW of anc. 
     Nisibis, Mesopotamia, 1952
     Burial: c. 170-155 B.C.
     Contents: 604+ AR
-    Alexander III: late post. tetradr. ( <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alex-
+    Alexander III: late post. tetradr. ( <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alex-
         andreia Troas 1</a>,  <a href="http://nomisma.org/id/assus" rel="nmo:hasMint" target="_blank">Assus 3+</a>,  <a href="http://nomisma.org/id/cyme_aeolis" rel="nmo:hasMint" target="_blank">Cyme 5</a>, 
         <a href="http://nomisma.org/id/myrina_aeolis" rel="nmo:hasMint" target="_blank">Myrina 5</a>,  <a href="http://nomisma.org/id/temnus" rel="nmo:hasMint" target="_blank">Temnus 197</a>,  <a href="http://nomisma.org/id/mytilene" rel="nmo:hasMint" target="_blank">Mytilene 4</a>, 
         <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios 2</a>,  <a href="http://nomisma.org/id/alabanda" rel="nmo:hasMint" target="_blank">Alabanda 342</a>,  <a href="http://nomisma.org/id/phaselis" rel="nmo:hasMint" target="_blank">Phaselis 15 to 
@@ -23,4 +37,5 @@
     Many pieces ctmk. with anchor, turreted 
         head, or radiate, facing bust of Helios
 </pre>
-   </div></div>
+   </div>
+</div>

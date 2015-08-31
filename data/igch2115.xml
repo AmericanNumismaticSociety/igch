@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2115"><h1 property="skos:prefLabel" lang="en">IGCH 2115</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0399">400 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0369">370 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2115">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2115</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0400">400 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0370">370 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.72</span>
          <span property="geo:long">15.1805555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2115 Giarre Riposto, 20 km. S of Taor-
 (432)     mina, c. 1907
     Burial: early 4th cent. B.C. (K)
@@ -21,4 +34,5 @@
         more similar Ziz tetradr., and two very rare 
         tetradr. of Panormus
 </pre>
-   </div></div>
+   </div>
+</div>

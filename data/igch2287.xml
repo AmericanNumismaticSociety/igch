@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2287"><h1 property="skos:prefLabel" lang="en">IGCH 2287</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0215">216 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2287">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2287</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0216">216 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.3980555556</span>
          <span property="geo:long">8.65861111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2287 Pozzomaggiore, 40 km. SSE of Sas-
 (832)     sari, Sardinia, 1928-1929
     Burial: c. 216 B.C. (Jenkins)
@@ -15,4 +23,5 @@
     Boehringer, AA 1929, p. 161 
     Taramelli, NSc 1930, pp. 105-10
 </pre>
-   </div></div>
+   </div>
+</div>

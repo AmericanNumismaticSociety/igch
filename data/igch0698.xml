@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0698"><h1 property="skos:prefLabel" lang="en">IGCH 0698</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0459">460 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0449">450 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0698">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0698</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0460">460 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0450">450 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.95</span>
          <span property="geo:long">24.9833333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 698 Abdera, Thrace, c. 1850
 (3)
@@ -16,4 +29,5 @@
         1872, pp. 186-8)
     May, Abdera, p. 296 (Hoards)
 </pre>
-   </div></div>
+   </div>
+</div>

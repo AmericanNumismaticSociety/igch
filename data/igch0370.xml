@@ -1,12 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0370"><h1 property="skos:prefLabel" lang="en">IGCH 0370</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0357">358 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0347">348 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0370">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0370</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0358">358 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0348">348 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 370 Chalcidice, Macedonia, 1936
     Burial: c. 358-348 B.C. (T)
     Contents: 10 AR. Hoard? 
-    <a href="http://nomisma.org/id/chalcidian_league" rel="nmo:hasMint" target="_blank">Chalcidian League: 3 tetrob.</a> 
+    <a href="http://nomisma.org/id/chalcidian_league" rel="nmo:hasMint"
+            target="_blank">Chalcidian League: 3 tetrob.</a> 
     Amyntas III: 7 st.
     Disposition: Athens
     Lemerle, BCH 1936, p. 454
 </pre>
-   </div></div>
+   </div>
+</div>

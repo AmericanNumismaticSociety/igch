@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1691"><h1 property="skos:prefLabel" lang="en">IGCH 1691</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0220">221 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0203">204 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1691">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1691</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0221">221 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0204">204 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1691 Egypt (lower), before 1913 
 (373)
     Burial: 221-204 B.C.
@@ -11,4 +22,5 @@
         of duplicates after publication)
     Newell, NNM 68 (1935), 51-67, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

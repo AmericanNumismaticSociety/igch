@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0892"><h1 property="skos:prefLabel" lang="en">IGCH 0892</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0149">150 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0892">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0892</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">43.1316666667</span>
          <span property="geo:long">26.9397222222</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 892 Suha reka, c. 20 km. S of Sumen, Bul-
     garia, 1958
@@ -14,4 +22,5 @@
     Disposition: Sumen coll. 6
     Gerasimov, BIAB 25 (1962), p. 228
 </pre>
-   </div></div>
+   </div>
+</div>

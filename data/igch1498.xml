@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1498"><h1 property="skos:prefLabel" lang="en">IGCH 1498</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0332">333 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1498">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1498</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0333">333 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1498 Palestine, 1963
     Burial: c. 333 B.C. (Westermark) 
     Contents: c. 30 AR
@@ -8,4 +14,5 @@
     Disposition: A. Spaer, Jerusalem 
     Information from V. Meshorer and A. Spaer 
 </pre>
-   </div></div>
+   </div>
+</div>

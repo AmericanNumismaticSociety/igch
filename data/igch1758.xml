@@ -1,15 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1758"><h1 property="skos:prefLabel" lang="en">IGCH 1758</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0309">310 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1758">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1758</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0310">310 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">36.3441666667</span>
          <span property="geo:long">43.1444444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1758 Mosul environs, in anc. Mesopota-
     mia, c. 1949
     Burial: c. 310-300 B.C. (Seyrig) 
     Contents: 8+ AR
     Alexander III: 6 lifetime and early post.
-            dr. (<a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon</a> or <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia
+            dr. (<a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon</a> or <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia
             1</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 2</a>)
             1 hemidr. (<a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon</a>) 
     <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: 1 hemidr.</a>
@@ -17,4 +31,5 @@
     Information from H. Seyrig; record of varieties in 
         ANS
 </pre>
-   </div></div>
+   </div>
+</div>

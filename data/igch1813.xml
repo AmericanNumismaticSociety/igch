@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1813"><h1 property="skos:prefLabel" lang="en">IGCH 1813</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0089">90 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0084">85 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1813">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1813</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0090">90 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0085">85 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1813 Media, 1923 
 (809, 1081)
     Burial: 90-85 B.C. (Newell) 
@@ -42,7 +53,8 @@
          </a>) 
      <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Athens: 1 New Style tetradr. (as Thompson 
         121 ff.)</a>
-         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia: 1 tetradr.</a>
+         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia: 1 tetradr.</a>
     Ariarathes VI: 1 dr.
     <a rel="rdfs:seeAlso" href="http://numismatics.org/collection/1944.100.31442">ANS 1944.100.31442</a>
     Antiochus IV: 4 tetradr. (<a href="http://nomisma.org/id/ace_ptolemais" rel="nmo:hasMint" target="_blank">Ace 1</a>, unc. 3) 
@@ -53,7 +65,8 @@
     Alexander I Bala: 15* tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 
         3</a> , unc. 3)
             7 dr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia</a> )
-    Demetrius II: 25 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Demetrius II: 25 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim 4</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 17</a> , <a href="http://nomisma.org/id/damascus" rel="nmo:hasMint" target="_blank">Damascus 1</a>, 
         <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre 1</a>, <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 2</a>)
     Antiochus VI: 4 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 2</a> , 
@@ -73,12 +86,15 @@
     <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre: 4 tetradr. (yrs. 21, 28, 29, 30)</a> 
     Mithradates I, Parthia: 1 tetradr.; 16 dr. 
         (7 as Sellwood 10, 9 as 11)
-    Phraates II: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Phraates II: 4 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim); 8 dr.</a>
-    Artabanus I: 3 tetradr. <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">(Seleuceia ad Ti-
+    Artabanus I: 3 tetradr. <a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">(Seleuceia ad Ti-
         grim</a>)
             4 dr. (unc. mint)
-    Mithradates II: 50+ tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad 
+    Mithradates II: 50+ tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad 
         Tigrim</a>)
             c. 800 dr. (uric. mints) 
     Euthydemus I, Bactria: 2 tetradr. 
@@ -116,4 +132,5 @@
         Dayet says "near Teheran" and states 
         that the hd. weighed c. 27 kgs.
 </pre>
-   </div></div>
+   </div>
+</div>

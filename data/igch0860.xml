@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0860"><h1 property="skos:prefLabel" lang="en">IGCH 0860</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0274">275 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0264">265 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0860">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0860</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0275">275 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0265">265 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.4136111111</span>
          <span property="geo:long">22.7116666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 860 Gârbino, 13 km. N of Kjustendil, Bul-
 (421)     garia, 1914
@@ -17,4 +30,5 @@
     Mouchmov, BSAB 4 (1914), p. 275 
     AA 1915, p. 236
 </pre>
-   </div></div>
+   </div>
+</div>

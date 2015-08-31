@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1174"><h1 property="skos:prefLabel" lang="en">IGCH 1174</h1><span rel="nmo:hasFindspot">Datça (anc. Cnidus), Caria, <span property="geo:lat">36.7337588</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1174">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1174</h1>
+   <span rel="nmo:hasFindspot">Datça (anc. Cnidus), Caria, <span property="geo:lat">36.7337588</span>
             <span property="geo:long">27.6879931</span>
-         </span><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0479">480 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0480">480 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1174 , c. 1966 
     Burial: c. 480 B.C.
     Contents: c. 50 AR
-    <a href="http://nomisma.org/id/chersonesus_cariae" rel="nmo:hasMint" target="_blank">Chersonesus, Caria: 5+ st.; 13+ dr.; 11-12+ 
+    <a href="http://nomisma.org/id/chersonesus_cariae" rel="nmo:hasMint"
+            target="_blank">Chersonesus, Caria: 5+ st.; 13+ dr.; 11-12+ 
         fr.</a>
          <a href="http://nomisma.org/id/cnidus" rel="nmo:hasMint" target="_blank">Cnidus: early fr.</a>
     Disposition (Chersonesus): New York 2-3 
@@ -16,4 +24,5 @@
         coins in Cahn, pp. 203-6
     Cahn, Knidos, pp. 4, 200 ff.
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1548"><h1 property="skos:prefLabel" lang="en">IGCH 1548</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0159">160 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1548">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1548</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0160">160 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1548 Syria, northern, 1912 
 (1033)
     Burial: c. 160 B.C. 
@@ -12,4 +18,5 @@
     Disposition: dispersed
     Regling, ZfN 1928, p. 94
 </pre>
-   </div></div>
+   </div>
+</div>

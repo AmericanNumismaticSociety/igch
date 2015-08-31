@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0152"><h1 property="skos:prefLabel" lang="en">IGCH 0152</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0269">270 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0152">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0152</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0270">270 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">35.0511111111</span>
          <span property="geo:long">24.8136111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 152 Phaestus region, Crete, 1953
     Burial: - B.C. (Le Rider) 
@@ -18,7 +31,8 @@
     <a href="http://nomisma.org/id/axus" rel="nmo:hasMint" target="_blank">Axus: 6 didr.
     ANS 1957.158.1
          </a> 
-         <a href="http://nomisma.org/id/chersonesus_crete" rel="nmo:hasMint" target="_blank">Chersonesus:</a> 8 didr. 
+         <a href="http://nomisma.org/id/chersonesus_crete" rel="nmo:hasMint"
+            target="_blank">Chersonesus:</a> 8 didr. 
     <a href="http://nomisma.org/id/cnossus" rel="nmo:hasMint" target="_blank">Cnossus:</a> 33 didr. 
     <a href="http://nomisma.org/id/cydonia" rel="nmo:hasMint" target="_blank">Cydonia:</a> 27 didr.
             8 triob. (Pseudaeg.)
@@ -47,4 +61,5 @@
 † Le Rider, Monn. crét., pp. 19-49, illus.
         See also no. 153 below
 </pre>
-   </div></div>
+   </div>
+</div>

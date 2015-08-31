@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0051"><h1 property="skos:prefLabel" lang="en">IGCH 0051</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0374">375 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0349">350 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0051">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0051</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0375">375 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0350">350 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 51 Peloponnesus, 1821 
 (797)
@@ -12,4 +23,5 @@
     Disposition: unknown
     Borrell, NC 1844, pp. 42-9, note 13
 </pre>
-   </div></div>
+   </div>
+</div>

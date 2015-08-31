@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2250"><h1 property="skos:prefLabel" lang="en">IGCH 2250</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0159">160 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2250">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2250</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0160">160 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.646479</span>
          <span property="geo:long">14.868507</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2250 Biancavilla, near Adranum, 1953 
     Burial: c. 160 B.C. (Crawford)
     Contents: 3 AR, 109 AE
@@ -21,4 +29,5 @@
     Thomsen, ERC I, p. 122 
     Crawford, RRCH 127
 </pre>
-   </div></div>
+   </div>
+</div>

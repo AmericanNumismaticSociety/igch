@@ -1,15 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0212"><h1 property="skos:prefLabel" lang="en">IGCH 0212</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0212">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0212</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.3902777778</span>
          <span property="geo:long">19.8855555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 212 Qesarat, c. 15 km. NW of Tepelenë, 
     Albania, 1963
     Burial: c. 200 B.C. (Ceka) 
     Contents: 4 AR, 45 AE. Pot hoard
-    <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint" target="_blank">Apollonia: </a> 1 dr.; 2 AE 
+    <a href="http://nomisma.org/id/apollonia_illyria" rel="nmo:hasMint"
+            target="_blank">Apollonia: </a> 1 dr.; 2 AE 
     <a href="http://nomisma.org/id/byllis" rel="nmo:hasMint" target="_blank">Byllis: </a> 18 AE
     <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: </a> 1 dr.
     <a href="http://nomisma.org/id/epirus" rel="nmo:hasMint" target="_blank">Epirote Rep.:</a> 2 dr.; 21 AE 
@@ -17,4 +25,5 @@
     Disposition: Tiranë
     Information from H. Ceka
 </pre>
-   </div></div>
+   </div>
+</div>

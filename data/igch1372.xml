@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1372"><h1 property="skos:prefLabel" lang="en">IGCH 1372</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0184">185 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0169">170 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1372">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1372</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0185">185 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0170">170 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.65</span>
          <span property="geo:long">35.833333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1372 Amasya (anc. Amasia), Pontus, c. 
 (40)     1860
     Burial: 185-170 B.C. (Newell) 
@@ -23,4 +36,5 @@
         1865, pp. 261-4
     Regling, ZfN 1928, p. 96
 </pre>
-   </div></div>
+   </div>
+</div>

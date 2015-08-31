@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1567"><h1 property="skos:prefLabel" lang="en">IGCH 1567</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0109">110 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1567">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1567</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0110">110 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">34.9516666667</span>
          <span property="geo:long">36.3963888889</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1567 Baarin, c. 15 km. SE of Massyaf, N. 
     Phoenicia, 1955
     Burial: c. 110 B.C. (Seyrig)
@@ -20,4 +28,5 @@
         from Sidon may be a later addition to an 
         already existing hd., formed about 150 B.C.
 </pre>
-   </div></div>
+   </div>
+</div>

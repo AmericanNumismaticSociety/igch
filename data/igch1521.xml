@@ -1,14 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1521"><h1 property="skos:prefLabel" lang="en">IGCH 1521</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1521">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1521</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">33.5625</span>
       <span property="geo:long">35.36861111</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1521 Saida (anc. Sidon), Phoenicia, before 
     1954
     Burial: c. 300 B.C. (Westermark)
     Contents: 23+ AR. Pot hoard. Found at
         entrance to city of Sidon 
-    <a href="http://nomisma.org/id/the_thracian_chersonese" rel="nmo:hasMint" target="_blank">Thracian Chersonesus: 17 hemidr.</a> 
+    <a href="http://nomisma.org/id/the_thracian_chersonese" rel="nmo:hasMint"
+            target="_blank">Thracian Chersonesus: 17 hemidr.</a> 
          <a href="http://nomisma.org/id/amisus" rel="nmo:hasMint" target="_blank">Amisus: 6 dr. and hemidr.</a>
     Disposition: dispersed
     Rubbings in ANS
@@ -17,4 +25,5 @@
         to be 2nd cent. B.C., they are presum-
         ably intrusive
 </pre>
-   </div></div>
+   </div>
+</div>

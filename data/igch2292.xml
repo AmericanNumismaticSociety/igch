@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2292"><h1 property="skos:prefLabel" lang="en">IGCH 2292</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0211">212 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2292">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2292</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0212">212 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.0661111111</span>
          <span property="geo:long">8.45333333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2292 Sulcis (mod. S. Antioco), 60 km. 
     WSW of Cagliari, Sardinia, 1874
     Burial: 212 B.C. (Jenkins)
@@ -15,4 +23,5 @@
     Spano, BAS 1858, p. 67, note 5 
     Crawford, RRCH 46
 </pre>
-   </div></div>
+   </div>
+</div>

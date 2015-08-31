@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1924"><h1 property="skos:prefLabel" lang="en">IGCH 1924</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0344">345 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1924">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1924</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0345">345 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.8255555556</span>
          <span property="geo:long">16.5447222222</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1924 Taranto, Corti Vecchie, Calabria, 1916 
     Burial: c. 345 B.C. (Breglia)
     Contents: 336 AR
      <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 104 st. (86 of Per. III A, C, H, 
         K-L, O-Q)</a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 5 st. (to Work 31)</a>
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 5 st. (to Work 31)</a>
          <a href="http://nomisma.org/id/laues" rel="nmo:hasMint" target="_blank">Laus: 1 st. (double-relief)</a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 46 st. (to Noe 501) </a>
          <a href="http://nomisma.org/id/poseidonia" rel="nmo:hasMint" target="_blank">Poseidonia: 26 st.</a>
@@ -26,4 +35,5 @@
         pp. 5-38, illus.
     Stazio, AIIN 1965-7, pp. 37-8
 </pre>
-   </div></div>
+   </div>
+</div>

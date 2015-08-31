@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2089"><h1 property="skos:prefLabel" lang="en">IGCH 2089</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0419">420 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2089">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2089</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0420">420 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.591002</span>
          <span property="geo:long">14.033546</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2089 S. Caterina Villarmosa, 10 km. N of 
     Caltanissetta, 1955
     Burial: c. 420 B.C. (Jenkins) 
@@ -33,4 +41,5 @@
         two 4th cent. Athens, and some 
         modern forgeries)
 </pre>
-   </div></div>
+   </div>
+</div>

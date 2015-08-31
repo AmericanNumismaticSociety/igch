@@ -1,14 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1961"><h1 property="skos:prefLabel" lang="en">IGCH 1961</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1961">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1961</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.76243</span>
          <span property="geo:long">5.981</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1961 Oppido Lucano, 20 km. NE of Po-
     tenza, Lucania, date unknown
     Burial: c. 280 B.C. (K) 
     Contents: 77 AR
-    <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis: 13 st. (to Sambon 488)</a>
+    <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint"
+            target="_blank">Neapolis: 13 st. (to Sambon 488)</a>
          <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 3 st. (to Per. VI)
             2 dr. (Per. VII)
             2 diob.</a>
@@ -16,7 +25,8 @@
          <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium: 5 st. (incl. ΕϒΦΑ and ΗΡΑ) 
             16 triob.</a>
          <a href="http://nomisma.org/id/velia" rel="nmo:hasMint" target="_blank">Velia: 28 st. (to SNGOxford 1394-1405) </a>
-         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint" target="_blank">Locri: 1 st. (Zeus/eagle)</a>
+         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint"
+            target="_blank">Locri: 1 st. (Zeus/eagle)</a>
          <a href="http://nomisma.org/id/terina" rel="nmo:hasMint" target="_blank">Terina: 1 fr.</a>
          <a href="http://nomisma.org/id/rome" rel="nmo:hasMint" target="_blank">Roman Rep.: 1 st. (Mars/horse hd., 
         ROMANO)</a>
@@ -25,4 +35,5 @@
         graphs supplied by Soprintendenza alle 
         Antiehità della Basilicata
 </pre>
-   </div></div>
+   </div>
+</div>

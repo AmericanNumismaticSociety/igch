@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0046"><h1 property="skos:prefLabel" lang="en">IGCH 0046</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0405">406 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0393">394 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0046">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0046</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0406">406 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0394">394 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.0430555556</span>
          <span property="geo:long">23.5416666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 46 Eleusis, Attica, 1902 
     Burial: - B.C. (T) 
@@ -13,4 +26,5 @@
         this hd.); London 2
     Robinson, NC 1947, p. 119
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0642"><h1 property="skos:prefLabel" lang="en">IGCH 0642</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0089">90 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0642">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0642</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0090">90 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">41.2330555556</span>
          <span property="geo:long">23.3883333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 642 Siderokastro, Macedonia, 1961 
     Burial: c. 90 B.C. (T)
@@ -32,4 +40,5 @@
         1961 on undoubtedly came from 
         Siderokastro
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1168"><h1 property="skos:prefLabel" lang="en">IGCH 1168</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0499">500 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0489">490 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1168">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1168</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0500">500 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0490">490 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1168 Asia Minor, western, c. 1962 
     Burial: c. 500-490 B.C. (Pfeiler) 
     Contents: c. 200 AR (fr.)
     <a href="http://nomisma.org/id/cyzicus" rel="nmo:hasMint" target="_blank">Cyzicus: 1</a>
          <a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus: 2</a>
-         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia?: "hundreds"</a>
+         <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia?: "hundreds"</a>
          <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus: c. 40</a> 
     Unc. mints: 4
     Disposition: Athens 9
@@ -17,4 +29,5 @@
         later than the rest and presumably
         belongs to another hd., no. 1183 below
 </pre>
-   </div></div>
+   </div>
+</div>

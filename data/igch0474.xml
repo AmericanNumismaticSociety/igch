@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0474"><h1 property="skos:prefLabel" lang="en">IGCH 0474</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0174">175 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0164">165 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0474">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0474</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0175">175 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0165">165 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.8238888889</span>
          <span property="geo:long">23.8466666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 474 Yenikeui, near Amphipolis, Macedonia, 
 (1175)     1899
@@ -17,4 +30,5 @@
     Perdrizet, RN 1903, p. 324 
     Robert, Études, p. 206
 </pre>
-   </div></div>
+   </div>
+</div>

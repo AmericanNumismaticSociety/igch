@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0856"><h1 property="skos:prefLabel" lang="en">IGCH 0856</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0274">275 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0856">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0856</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0275">275 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">43.5644444444</span>
          <span property="geo:long">27.3491666667</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 856 Pet mogili, c. 50 km. N of Sumen, 
     Bulgaria, 1953
@@ -15,4 +23,5 @@
     Disposition: Sofia 27
     Gerasimov, BIAB 20 (1955), p. 607
 </pre>
-   </div></div>
+   </div>
+</div>

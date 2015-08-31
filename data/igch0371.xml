@@ -1,12 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0371"><h1 property="skos:prefLabel" lang="en">IGCH 0371</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0347">348 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0371">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0371</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0348">348 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 371 Chalcidice ?, Macedonia, c. 1935
     Burial: c. 348 B.C. (T) 
     Contents: 5+ AR
-    <a href="http://nomisma.org/id/chalcidian_league" rel="nmo:hasMint" target="_blank">Chalcidian League: 4 tetradr.</a> 
+    <a href="http://nomisma.org/id/chalcidian_league" rel="nmo:hasMint"
+            target="_blank">Chalcidian League: 4 tetradr.</a> 
          <a href="http://nomisma.org/id/larissa" rel="nmo:hasMint" target="_blank">Larissa: 1 st. (worn)</a>
     Disposition: unknown
     Information from W. Schwabacher
 </pre>
-   </div></div>
+   </div>
+</div>

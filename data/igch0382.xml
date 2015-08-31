@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0382"><h1 property="skos:prefLabel" lang="en">IGCH 0382</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0349">350 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0339">340 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0382">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0382</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0350">350 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0340">340 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 382 Greece, northern, 1934 
 (467)
@@ -11,4 +22,5 @@
     Information from an Athenian correspondent (no 
         further details)
 </pre>
-   </div></div>
+   </div>
+</div>

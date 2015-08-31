@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0330"><h1 property="skos:prefLabel" lang="en">IGCH 0330</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0069">70 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0330">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0330</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0070">70 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">35.3094444444</span>
          <span property="geo:long">24.8430555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 330 Axus, Crete, 1961
     Burial: early 1st cent. B.C.
@@ -13,7 +26,8 @@
     <a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon:</a> 2 triob.
     <a href="http://nomisma.org/id/achaean_league" rel="nmo:hasMint" target="_blank">Achaean League:</a> 43 triob.
     <a href="http://nomisma.org/id/axus" rel="nmo:hasMint" target="_blank">Axus:</a> 38 AE
-    <a href="http://nomisma.org/id/chersonesus_crete" rel="nmo:hasMint" target="_blank">Chersonesus:</a> AE 
+    <a href="http://nomisma.org/id/chersonesus_crete" rel="nmo:hasMint"
+            target="_blank">Chersonesus:</a> AE 
     <a href="http://nomisma.org/id/eleutherna" rel="nmo:hasMint" target="_blank">Eleutherna:</a> 1 AE 
     <a href="http://nomisma.org/id/gortyna" rel="nmo:hasMint" target="_blank">Gortyna:</a> 2 AE 
     <a href="http://nomisma.org/id/lyttus" rel="nmo:hasMint" target="_blank">Lyttus:</a> AE 
@@ -27,4 +41,5 @@
     This hd. may originally have contained 
         140 pieces
 </pre>
-   </div></div>
+   </div>
+</div>

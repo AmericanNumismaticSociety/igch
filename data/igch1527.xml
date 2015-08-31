@@ -1,14 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1527"><h1 property="skos:prefLabel" lang="en">IGCH 1527</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0244">245 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1527">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1527</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0245">245 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1527 Syria?, before 1917
     Burial: c. 245 B.C. (Westermark) 
     Contents: 13+ AR
-    Antiochus I: 12 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Antiochus I: 12 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim as ESM 143 [1], 155 [4], 157 [3],
         162 [1], 166 [1], 177 [2])</a>
-    Antiochus II: 1 tetradr. 1 (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad
+    Antiochus II: 1 tetradr. 1 (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad
         Tigrim as ESM 189)</a>
     Disposition: Istanbul
     Seen by M
 </pre>
-   </div></div>
+   </div>
+</div>

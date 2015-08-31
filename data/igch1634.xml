@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1634"><h1 property="skos:prefLabel" lang="en">IGCH 1634</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0499">500 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1634">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1634</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0500">500 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1634 Egypt, before 1879 
 (361)
     Burial: 500 B.C. (Jenkins) 
@@ -7,7 +13,8 @@
     <a href="http://nomisma.org/id/aeneia" rel="nmo:hasMint" target="_blank">Aeneia: 1 tetradr.</a> 
          <a href="http://nomisma.org/id/terone" rel="nmo:hasMint" target="_blank">Terone: 1 tetradr.</a>
          <a href="http://nomisma.org/id/bisaltae" rel="nmo:hasMint" target="_blank">Bisaltae: 1 octadr. </a>
-         <a href="http://nomisma.org/id/thraco-macedonian" rel="nmo:hasMint" target="_blank">Thraco-Maced.: 1 octadr.</a>
+         <a href="http://nomisma.org/id/thraco-macedonian" rel="nmo:hasMint"
+            target="_blank">Thraco-Maced.: 1 octadr.</a>
     Disposition: London 3 (BMCMacedonia 
         p. 107, no. 3; p. 141, no. 3; p. 151, no. 
         2); Berlin 1?
@@ -15,4 +22,5 @@
         specimen possibly but not certainly from 
         this find)
 </pre>
-   </div></div>
+   </div>
+</div>

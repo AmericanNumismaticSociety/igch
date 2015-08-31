@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1369"><h1 property="skos:prefLabel" lang="en">IGCH 1369</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0234">235 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1369">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1369</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0235">235 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">40.65888889</span>
       <span property="geo:long">35.83416667</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1369 Kizakli, near Amasya (anc. Amasia), 
     Pontus, 1939
     Burial: c. 235 B.C. 
@@ -15,14 +22,16 @@
         2</a>, <a href="http://nomisma.org/id/salamis_cyprus" rel="nmo:hasMint" target="_blank">Salamis 2</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 9</a>, <a href="http://nomisma.org/id/marathus" rel="nmo:hasMint" target="_blank">Marathus
         2</a>, <a href="http://nomisma.org/id/byblus" rel="nmo:hasMint" target="_blank">Byblus 3</a>, <a href="http://nomisma.org/id/sidon" rel="nmo:hasMint" target="_blank">Sidon 1</a>, <a href="http://nomisma.org/id/tyre" rel="nmo:hasMint" target="_blank">Tyre 2</a>, <a href="http://nomisma.org/id/ace_ptolemais" rel="nmo:hasMint" target="_blank">Ace
         3</a>, <a href="http://nomisma.org/id/antigoneia_syria" rel="nmo:hasMint" target="_blank">Antigoneia 1</a>, <a href="http://nomisma.org/id/carrhae" rel="nmo:hasMint" target="_blank">Carrhae 2</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 
-        17</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Alexandreia 1</a>, unc. mints 
+        17</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint"
+            target="_blank">Alexandreia 1</a>, unc. mints 
         12, barb. imit. 4)
             548 lifetime and early post. 1 
         dr. (<a href="http://nomisma.org/id/asia_minor" rel="nmo:hasMint" target="_blank">Asia Minor mints</a>)
             2 late post. st. (<a href="http://nomisma.org/id/callatis" rel="nmo:hasMint" target="_blank">Callatis 1</a>, 
         <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1</a>)
             13 late post. tetradr. (<a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella
-        3</a>, <a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon 1</a>, <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios 1</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Mag-
+        3</a>, <a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon 1</a>, <a href="http://nomisma.org/id/chios" rel="nmo:hasMint" target="_blank">Chios 1</a>, <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Mag-
         nesia 4</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 2</a>, unc. mint 1)
     Philip III: 2 st. (unc. mints)
             14 tetradr. (<a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 1</a>, <a href="http://nomisma.org/id/marathus" rel="nmo:hasMint" target="_blank">Marathus 
@@ -33,7 +42,8 @@
             1 dr. (<a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus</a>) 
     Lysimachus: 14 lifetime tetradr. (<a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphi-
         polis 1</a>, <a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella 2</a>, <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 7</a>, <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus
-        1</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1</a>, unc.
+        1</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Pergamum 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1</a>, unc.
         mint 1)
             13 lifetime dr. (<a href="http://nomisma.org/id/ephesus" rel="nmo:hasMint" target="_blank">Ephesus 6</a>, 
         unc. mints 7)
@@ -45,26 +55,34 @@
          <a href="http://nomisma.org/id/calchedon" rel="nmo:hasMint" target="_blank">Calchedon: 1 dr.</a>
     Attalus I: 1 tetradr.
     <a href="http://nomisma.org/id/perge" rel="nmo:hasMint" target="_blank">Perge: 2 tetradr.</a>
-    Seleucus I: 13 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+    Seleucus I: 13 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 8</a>, <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana 2</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>, <a href="http://nomisma.org/id/pergamum" rel="nmo:hasMint" target="_blank">Perga- 
         mum 2 post.</a>)
-            3 dr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim</a>)
-    Antiochus I: 9 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
+            3 dr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim</a>)
+    Antiochus I: 9 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
         grim 3</a>, <a href="http://nomisma.org/id/ecbatana" rel="nmo:hasMint" target="_blank">Ecbatana</a> 
          <a href="http://nomisma.org/id/hecatompylos" rel="nmo:hasMint" target="_blank">Hecatompylus 1</a>,
         <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>, <a href="http://nomisma.org/id/carrhae" rel="nmo:hasMint" target="_blank">Carrhae 1</a>, <a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 1</a>, 
         <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1</a>)
-    Antiochus II: 6 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Ti-
-        grim 2</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>, <a href="http://nomisma.org/id/apamea_phrygiae" rel="nmo:hasMint" target="_blank">Apameia 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Mag-
+    Antiochus II: 6 tetradr. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Ti-
+        grim 2</a>, <a href="http://nomisma.org/id/susa" rel="nmo:hasMint" target="_blank">Susa 1</a>, <a href="http://nomisma.org/id/apamea_phrygiae" rel="nmo:hasMint" target="_blank">Apameia 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Mag-
         nesia 2</a>)
             2 dr. (unc. mints)
-    Seleucus II: 2 st. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint" target="_blank">Seleuceia ad Tigrim 1</a>,
+    Seleucus II: 2 st. (<a href="http://nomisma.org/id/seleuceia_ad_tigrim" rel="nmo:hasMint"
+            target="_blank">Seleuceia ad Tigrim 1</a>,
         unc. mint 1)
-            5 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 1</a>, <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint" target="_blank">Lao-
+            5 tetradr. (<a href="http://nomisma.org/id/antiocheia_syria" rel="nmo:hasMint" target="_blank">Antiocheia 1</a>, <a href="http://nomisma.org/id/laodiceia_ad_mare" rel="nmo:hasMint"
+            target="_blank">Lao-
         diceia ad mare 2</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>, unc. 
         mint 1)
             2 dr. (<a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus? 1</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 1</a>)
     Disposition: Istanbul 
     Seyrig, RN 1963, pp. 26, 49 f.
 </pre>
-   </div></div>
+   </div>
+</div>

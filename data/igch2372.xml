@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2372"><h1 property="skos:prefLabel" lang="en">IGCH 2372</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0169">170 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0129">130 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2372">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2372</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0170">170 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0130">130 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">43.738254</span>
          <span property="geo:long">5.463624</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2372 Ansouis, near Aix, 1861
 (52)
     Burial: mid 2nd cent. B.C. (Rolland) 
@@ -20,4 +33,5 @@
     Blanchet, Traité, p. 598, no. 251
     Rolland, RN 1959-60, p. 48
 </pre>
-   </div></div>
+   </div>
+</div>

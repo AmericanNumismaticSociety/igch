@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2144"><h1 property="skos:prefLabel" lang="en">IGCH 2144</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0332">333 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0309">310 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2144">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2144</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0333">333 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0310">310 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2144 Sicily, c. 1837
 (979)
 Burial: 333-2 B.C. (Zograph); 320-10 (K) 
@@ -22,4 +33,5 @@ Burial: 333-2 B.C. (Zograph); 320-10 (K)
         1847, pp. 121-44, illus. (not seen by K) 
 † Zograph, NC 1928, pp. 115-30, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

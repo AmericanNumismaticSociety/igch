@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1459"><h1 property="skos:prefLabel" lang="en">IGCH 1459</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0094">95 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1459">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1459</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0095">95 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1459 Asia Minor, c. 1935 
 (87)
     Burial: c. 95 B.C. (Kleiner) 
@@ -44,4 +50,5 @@
     List of varieties in ANS
     To be published by F. Kleiner
 </pre>
-   </div></div>
+   </div>
+</div>

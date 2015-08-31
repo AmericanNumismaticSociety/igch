@@ -1,18 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0801"><h1 property="skos:prefLabel" lang="en">IGCH 0801</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0309">310 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0299">300 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0801">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0801</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0310">310 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 801 Greece, northern?, before 1966
     Burial: c. 310-300 B.C. (T)
     Contents: c. 350 AV. Probably a hoard
     Philip II: 19 lifetime and post. st. (<a href="http://nomisma.org/id/macedonia" rel="nmo:hasMint" target="_blank">Mace-
         donia 11</a>, <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 3</a>, <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 1</a>, 
-        <a href="http://nomisma.org/id/teos" rel="nmo:hasMint" target="_blank">Teos? 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 2</a>)
+        <a href="http://nomisma.org/id/teos" rel="nmo:hasMint" target="_blank">Teos? 1</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 1</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 2</a>)
     Alexander III: 81 lifetime and early post. 
         st., incl. some Philip III (<a href="http://nomisma.org/id/macedonia" rel="nmo:hasMint" target="_blank">Macedonia 
         16</a>, <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 9</a>, <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 9</a>, <a href="http://nomisma.org/id/teos" rel="nmo:hasMint" target="_blank">Teos? 2</a>, 
-        <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 3</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 1</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 5</a>, 
+        <a href="http://nomisma.org/id/miletus" rel="nmo:hasMint" target="_blank">Miletus 3</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 1</a>, <a href="http://nomisma.org/id/sardes" rel="nmo:hasMint" target="_blank">Sardes 5</a>, 
         <a href="http://nomisma.org/id/phaselis" rel="nmo:hasMint" target="_blank">Phaselis 1</a>, <a href="http://nomisma.org/id/byblus" rel="nmo:hasMint" target="_blank">Byblus 1</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 1</a>, <a href="http://nomisma.org/id/ace_ptolemais" rel="nmo:hasMint" target="_blank">Ace 2</a>, 
-        <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 27</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Alexandria 2</a>, unc. 2)
+        <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 27</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint"
+            target="_blank">Alexandria 2</a>, unc. 2)
     Disposition: dispersed
     Record of 100 varieties on file in ANS and Paris. 
         A lot of c. 75 Philips and Alexanders seen in 
@@ -21,4 +35,5 @@
         8 pieces on file in the ANS add Tarsus to 
         the mints of Alexander listed above
 </pre>
-   </div></div>
+   </div>
+</div>

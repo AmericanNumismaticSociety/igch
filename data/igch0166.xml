@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0166"><h1 property="skos:prefLabel" lang="en">IGCH 0166</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0166">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0166</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 166 Greece, central, before 1954
     Burial: c. 250 B.C. or later (T) 
@@ -21,4 +26,5 @@
         exact place and date of finding are 
         unknown
 </pre>
-   </div></div>
+   </div>
+</div>

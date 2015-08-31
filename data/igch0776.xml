@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0776"><h1 property="skos:prefLabel" lang="en">IGCH 0776</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0319">320 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0314">315 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0776">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0776</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0320">320 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0315">315 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 776 Greece, 1912-1913
     Burial: c. 320-315 B.C. (T)
@@ -11,4 +22,5 @@
     Disposition: dispersed
     Details of types in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2153"><h1 property="skos:prefLabel" lang="en">IGCH 2153</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2153">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2153</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.194141</span>
          <span property="geo:long">13.766012</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2153 Palma di Montechiaro (found betw. 
 (789)     Palma and Agrigento), 1929
     Burial: c. 300 B.C. (Jenkins-Lewis) 
@@ -17,10 +25,12 @@
     <a href="http://nomisma.org/id/corinth" rel="nmo:hasMint" target="_blank">Corinth: 17 (incl. most of Per. V) </a>
          <a href="http://nomisma.org/id/ambracia" rel="nmo:hasMint" target="_blank">Ambracia: 2 (as Ravel 138, 176) </a>
          <a href="http://nomisma.org/id/anactorium" rel="nmo:hasMint" target="_blank">Anactorium: 17</a>
-         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint" target="_blank">Argos: 1 (as Ravel, Ambracia pl. 18, 12-3) </a>
+         <a href="http://nomisma.org/id/argos_amphilochicum" rel="nmo:hasMint"
+            target="_blank">Argos: 1 (as Ravel, Ambracia pl. 18, 12-3) </a>
          <a href="http://nomisma.org/id/dyrrhachii" rel="nmo:hasMint" target="_blank">Dyrrhachium: 2</a>
          <a href="http://nomisma.org/id/leucas" rel="nmo:hasMint" target="_blank">Leucas: 7 (latest BMC pl. 36, 25-2 ex.) </a>
-         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint" target="_blank">Locri: 4</a>
+         <a href="http://nomisma.org/id/locri_epizephyrii" rel="nmo:hasMint"
+            target="_blank">Locri: 4</a>
     Unc.: 4
     Disposition: Palermo 70 (Sic.-Punic 4, Pe-
         gasi 66)
@@ -32,4 +42,5 @@
         to be of Syracuse 344-36 B.C. (AIIN 
         1960-1, p. 88)
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1483"><h1 property="skos:prefLabel" lang="en">IGCH 1483</h1><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1483">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1483</h1>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">35.06305556</span>
       <span property="geo:long">36.34694444</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1483 Massyaf, near anc. Baetocaece, 
     N Phoenicia, 1961
     Burial: c. -<span property="approximateburialdata_end" datatype="xsd:gYear" content=""/> B.C. (K) 
@@ -42,4 +48,5 @@
         shekel piece instead of double-shekel, 
         etc.)
 </pre>
-   </div></div>
+   </div>
+</div>

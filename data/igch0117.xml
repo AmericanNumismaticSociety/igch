@@ -1,17 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0117"><h1 property="skos:prefLabel" lang="en">IGCH 0117</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0299">300 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0117">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0117</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0300">300 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
       <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.5536111111</span>
          <span property="geo:long">21.7708333333</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 117 Tricca (mod. Trikkala), Thessaly, 1938 
     Burial: c.  B.C. (Oeconomides, 
         Hackens) *
     Contents: 38 AR
     Alexander III: 1 tetradr. (<a href="http://nomisma.org/id/sicyon" rel="nmo:hasMint" target="_blank">Sicyon); 1 dr.</a> 
-         <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint" target="_blank">Thessalian League:</a> 2 double-vict.; 1 dr. 
+         <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint"
+            target="_blank">Thessalian League:</a> 2 double-vict.; 1 dr. 
     <a href="http://nomisma.org/id/larissa" rel="nmo:hasMint" target="_blank">Larissa:</a> 1 dr.
     <a href="http://nomisma.org/id/boeotia" rel="nmo:hasMint" target="_blank">Boeotia:</a> 28 st.
     <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Athens:</a> 1 tetradr. (4th-3rd cent.)
@@ -22,4 +30,5 @@
 * Assuming, as seems likely, that the Thes-
         salian coins are intrusive
 </pre>
-   </div></div>
+   </div>
+</div>

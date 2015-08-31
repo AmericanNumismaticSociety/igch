@@ -1,11 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1540"><h1 property="skos:prefLabel" lang="en">IGCH 1540</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0189">190 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0149">150 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1540">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1540</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0190">190 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0150">150 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1540 Syria, date unknown
     Burial: after 190 B.C. (Westermark) 
     Contents: 3 AR
     Alexander III: late post. tetradr. (<a href="http://nomisma.org/id/alabanda" rel="nmo:hasMint" target="_blank">Ala-
-        banda 2</a>, <a href="http://nomisma.org/id/heraclea_ad_latmum" rel="nmo:hasMint" target="_blank">Heracleia Ioniae 1</a>) 
+        banda 2</a>, <a href="http://nomisma.org/id/heraclea_ad_latmum" rel="nmo:hasMint"
+            target="_blank">Heracleia Ioniae 1</a>) 
     Disposition: dispersed
     Information from H. Seyrig
 </pre>
-   </div></div>
+   </div>
+</div>

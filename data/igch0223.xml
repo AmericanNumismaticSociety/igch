@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0223"><h1 property="skos:prefLabel" lang="en">IGCH 0223</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0223">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0223</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.4788888889</span>
          <span property="geo:long">23.4477777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 223 Anthedon, on the coast c. 15 km. NW 
 (53)     of Chalcis, Boeotia, 1935
@@ -32,4 +39,5 @@
         Athens, pp. 473-4; NC 1962, pp. 325-9 
     Lewis, NC 1962, pp. 294-6
 </pre>
-   </div></div>
+   </div>
+</div>

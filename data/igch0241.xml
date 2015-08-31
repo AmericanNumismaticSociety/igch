@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0241"><h1 property="skos:prefLabel" lang="en">IGCH 0241</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0241">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0241</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 241 Euboea, before c. 1920
     Burial: c. 170-165 B.C. 
     Contents: 240 AE
-     <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint" target="_blank">Thessalian League:</a> 1
+     <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint"
+            target="_blank">Thessalian League:</a> 1
      <a href="http://nomisma.org/id/carystus" rel="nmo:hasMint" target="_blank">Carystus:</a> 1
      <a href="http://nomisma.org/id/chalcis" rel="nmo:hasMint" target="_blank">Chalcis:</a> 157
      <a href="http://nomisma.org/id/euboean_league" rel="nmo:hasMint" target="_blank">Euboean League:</a> 75 
@@ -13,4 +19,5 @@
     Disposition: M. Wallace, Toronto
     Wallace, NNM 134 (1956), pp. 123-4
 </pre>
-   </div></div>
+   </div>
+</div>

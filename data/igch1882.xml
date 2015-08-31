@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1882"><h1 property="skos:prefLabel" lang="en">IGCH 1882</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0479">480 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1882">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1882</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0480">480 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1882 Bruttium, before 1940? 
     Burial: c. 480 B.C. (K)
     Contents: AR
@@ -15,4 +21,5 @@
     Gabrici, Problemi di num. graeca (Naples, 1959), 
         pp. 50-5, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

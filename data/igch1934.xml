@@ -1,15 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1934"><h1 property="skos:prefLabel" lang="en">IGCH 1934</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0301">302 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1934">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1934</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0302">302 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.3097222222</span>
          <span property="geo:long">17.4955555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1934 Torre dell'Ovo, 30 km. SE of Ta-
 (1120)     ranto, Calabria, 1912
     Burial: c. 302 B.C. (Vlasto) 
     Contents: 19 AR
     <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 5 st. (to Per. VI)</a>
-         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 3 st. (as Work 25 ff., 62 ff.)</a> 
+         <a href="http://nomisma.org/id/heraclea_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 3 st. (as Work 25 ff., 62 ff.)</a> 
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 8 st. (as BMC 96 [2]; 106 
         [1]; 108 [4])</a>
          <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium: 2 st.</a>
@@ -46,4 +55,5 @@
         not the others as well, as assumed by 
         Noe
 </pre>
-   </div></div>
+   </div>
+</div>

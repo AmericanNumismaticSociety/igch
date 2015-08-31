@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1442"><h1 property="skos:prefLabel" lang="en">IGCH 1442</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0309">310 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1442">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1442</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0310">310 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1442 Asia Minor, c. 1950 
     Burial: c. 310 B.C. (M)
     Contents: 24+ AV
@@ -12,9 +18,11 @@
             ANS 1958.75.7
          </a>
         <a href="http://nomisma.org/id/cyprus" rel="nmo:hasMint" target="_blank">Cyprus 5</a>, <a href="http://nomisma.org/id/citium" rel="nmo:hasMint" target="_blank">Citium 1</a>, <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1</a>, 
-        <a href="http://nomisma.org/id/sidon" rel="nmo:hasMint" target="_blank">Sidon 4</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 1</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Alexandreia 1</a>)
+        <a href="http://nomisma.org/id/sidon" rel="nmo:hasMint" target="_blank">Sidon 4</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 1</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint"
+            target="_blank">Alexandreia 1</a>)
     Disposition: New York 9, including SNG-
         Berry 170, 186
     Record of varieties in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

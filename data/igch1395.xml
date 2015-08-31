@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1395"><h1 property="skos:prefLabel" lang="en">IGCH 1395</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0317">318 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1395">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1395</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0318">318 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.7547222222</span>
          <span property="geo:long">30.5519444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1395 Sinan Pascha near Afyon-Karahissar 
 (20, 982)     (anc. Prymnessus), Phrygia, 1919 
     Burial: c. 318 B.C. (M)
@@ -79,7 +87,8 @@
             ANS 1944.100.29894
          </a>, 
         <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 50</a>, <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 172</a>, 
-        <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 57
+        <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 57
         ANS 1944.100.31528
             ANS 1944.100.31578
             ANS 1944.100.31508
@@ -391,7 +400,8 @@
         <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 4</a>, unc. 
         mints 3)
     Philip III: 88 dr. (<a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 5</a>, <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 6</a>, 
-        <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 4</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint" target="_blank">Magnesia 24
+        <a href="http://nomisma.org/id/colophon" rel="nmo:hasMint" target="_blank">Colophon 4</a>, <a href="http://nomisma.org/id/magnesia_ad_maeandrum" rel="nmo:hasMint"
+            target="_blank">Magnesia 24
         ANS 1944.100.31578
             ANS 1944.100.31565
             ANS 1944.100.31579
@@ -432,4 +442,5 @@
         or some of their coins may be intrusive 
         in the hd.
 </pre>
-   </div></div>
+   </div>
+</div>

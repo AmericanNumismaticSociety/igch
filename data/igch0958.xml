@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0958"><h1 property="skos:prefLabel" lang="en">IGCH 0958</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0099">100 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0069">70 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0958">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0958</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0100">100 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0070">70 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">45.8766666667</span>
          <span property="geo:long">27.2255555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 958 Marasesti, c. 73 km. NW of Galati, 
 (646)     Rumania, 1909
@@ -16,7 +29,8 @@
         <a href="http://nomisma.org/id/odessus" rel="nmo:hasMint" target="_blank">Odessus 7</a>, unc. 7)
     Philip III: 2 st. (<a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 1</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 1</a>)
     Lysimachus: 11 lifetime st. (<a href="http://nomisma.org/id/lysimachia" rel="nmo:hasMint" target="_blank">Lysimacheia 
-        3</a>, <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 1</a>, <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 2</a>, <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint" target="_blank">Alex-
+        3</a>, <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus 1</a>, <a href="http://nomisma.org/id/abydus" rel="nmo:hasMint" target="_blank">Abydus 2</a>, <a href="http://nomisma.org/id/alexandreia_troas" rel="nmo:hasMint"
+            target="_blank">Alex-
         andreia Troas 4</a>, unc. 1)
             7 post. st. (<a href="http://nomisma.org/id/tomis" rel="nmo:hasMint" target="_blank">Tomis 2</a>, <a href="http://nomisma.org/id/callatis" rel="nmo:hasMint" target="_blank">Cal-
         latis 2</a>, <a href="http://nomisma.org/id/byzantium" rel="nmo:hasMint" target="_blank">Byzantium 2</a>, unc. 1)
@@ -30,4 +44,5 @@
     Newell's record of coins he had seen supplemented 
         by information from B. Mitrea
 </pre>
-   </div></div>
+   </div>
+</div>

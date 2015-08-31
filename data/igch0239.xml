@@ -1,15 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0239"><h1 property="skos:prefLabel" lang="en">IGCH 0239</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0239">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0239</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">39.6402777778</span>
          <span property="geo:long">22.415</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 239 Larissa, Thessaly, 1948
     Burial: c. 175-165 B.C. (T) 
     Contents: 52 AR
     Alexander III: 1 dr. ( <a href="http://nomisma.org/id/lampsacus" rel="nmo:hasMint" target="_blank">Lampsacus)</a> 
-         <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint" target="_blank">Thessalian League:</a> 1 double-vict. 
+         <a href="http://nomisma.org/id/thessalian_league" rel="nmo:hasMint"
+            target="_blank">Thessalian League:</a> 1 double-vict. 
      <a href="http://nomisma.org/id/magnetes" rel="nmo:hasAuthority" target="_blank">Magnetes</a>: 1 dr.
      <a href="http://nomisma.org/id/thebes" rel="nmo:hasMint" target="_blank">Thebes:</a> 3 triob.
      <a href="http://nomisma.org/id/thespiae" rel="nmo:hasMint" target="_blank">Thespiae:</a>1 triob.
@@ -23,4 +31,5 @@
     Disposition: M. Wallace, Toronto
     Photos on file in ANS
 </pre>
-   </div></div>
+   </div>
+</div>

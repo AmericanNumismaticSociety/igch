@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1665"><h1 property="skos:prefLabel" lang="en">IGCH 1665</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0317">318 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1665">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1665</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0318">318 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1665 Egypt, 1893
 (363)
     Burial: c. 318 B.C. (Jenkins)
@@ -7,10 +13,12 @@
     Alexander III: 44 lifetime and early 
         post. tetradr. (<a href="http://nomisma.org/id/amphipolis" rel="nmo:hasMint" target="_blank">Amphipolis 21</a>, <a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella 1</a>, 
         <a href="http://nomisma.org/id/side" rel="nmo:hasMint" target="_blank">Side 3</a>, <a href="http://nomisma.org/id/tarsus" rel="nmo:hasMint" target="_blank">Tarsus 1</a>, <a href="http://nomisma.org/id/citium" rel="nmo:hasMint" target="_blank">Citium 2</a>, <a href="http://nomisma.org/id/damascus" rel="nmo:hasMint" target="_blank">Da-
-        mascus 2</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 3</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 8</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Alex-
+        mascus 2</a>, <a href="http://nomisma.org/id/aradus" rel="nmo:hasMint" target="_blank">Aradus 3</a>, <a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon 8</a>, <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint"
+            target="_blank">Alex-
         andreia 3</a>)
     Disposition: unknown
     Dutilh, AN 1895, pp. 73-92 (esp. p. 73, table A, 
         Muller nos.; some illus.
 </pre>
-   </div></div>
+   </div>
+</div>

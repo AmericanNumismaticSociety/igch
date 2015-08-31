@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1176"><h1 property="skos:prefLabel" lang="en">IGCH 1176</h1><span rel="nmo:hasFindspot">Gordium, Phrygia, <span property="geo:lat">39.6548866</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1176">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1176</h1>
+   <span rel="nmo:hasFindspot">Gordium, Phrygia, <span property="geo:lat">39.6548866</span>
             <span property="geo:long">31.9953632</span>
-         </span><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0609">610 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+         </span>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0610">610 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1176 , 1963
     Burial: c. 610 B.C. (Bellinger)
     Contents: 45 EL. From excavations
@@ -11,4 +18,5 @@
     Young, AJA 1964, p. 283
 † Bellinger, Essays Robinson, pp. 10-5, illus.
 </pre>
-   </div></div>
+   </div>
+</div>

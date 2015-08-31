@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0226"><h1 property="skos:prefLabel" lang="en">IGCH 0226</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0226">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0226</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">38.3666666667</span>
          <span property="geo:long">24.1844444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 226 Koskina, Euboea, 1923
     Burial: c. 200-180 B.C. (Varoucha) 
@@ -31,4 +38,5 @@
     The hd. is reported also to have contained 
         dr. of Tenos and a tetradr. of Ptolemy I
 </pre>
-   </div></div>
+   </div>
+</div>

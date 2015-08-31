@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1382"><h1 property="skos:prefLabel" lang="en">IGCH 1382</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0084">85 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1382">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1382</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0085">85 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">40.6566666667</span>
          <span property="geo:long">35.8230555556</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1382 Amasya (anc. Amasia), Pontus, 1968 
     Burial: c. 85 B.C. (Pfeiler)
     Contents: 207 AE
@@ -15,4 +23,5 @@
          <a href="http://nomisma.org/id/sinope" rel="nmo:hasMint" target="_blank">Sinope: 17</a>
     Disposition: dispersed
 </pre>
-   </div></div>
+   </div>
+</div>

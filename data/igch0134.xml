@@ -1,16 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0134"><h1 property="skos:prefLabel" lang="en">IGCH 0134</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0134">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0134</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.7377777778</span>
          <span property="geo:long">24.0536111111</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 134 Thoricos, near Laurium, Attica, 1969 
     Burial: early 3rd cent. B.C. (Bingen) 
     Contents: 5 AV, 287 AR
     Philip II: 1 st.
     Alexander III: 2 early post. st. (<a href="http://nomisma.org/id/babylon" rel="nmo:hasMint" target="_blank">Babylon,</a> 
-        <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint" target="_blank">Alexandreia)</a>
+        <a href="http://nomisma.org/id/alexandreia_egypt" rel="nmo:hasMint"
+            target="_blank">Alexandreia)</a>
             1 lifetime tetradr. (<a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella)</a> 
     Philip III: 1 st.
     <a href="http://nomisma.org/id/athens" rel="nmo:hasMint" target="_blank">Athens:</a> 1 st. (time of Lachares)
@@ -19,4 +27,5 @@
     Disposition: Athens
     To be published by Jean Bingen.
 </pre>
-   </div></div>
+   </div>
+</div>

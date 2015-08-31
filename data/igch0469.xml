@@ -1,12 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0469"><h1 property="skos:prefLabel" lang="en">IGCH 0469</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0199">200 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0179">180 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0469">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0469</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0200">200 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0180">180 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 469 Macedonia?, 1927-1928
 (463, 632)
     Burial: c. 200-180 B.C. (T)
     Contents: 23+ AR
     Alexander III: 6 late post. tetradr. (<a href="http://nomisma.org/id/pella_macedon" rel="nmo:hasMint" target="_blank">Pella 1</a>,
-        <a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint" target="_blank">Heracleia Bith. 1
+        <a href="http://nomisma.org/id/heracleia_pontica" rel="nmo:hasMint"
+            target="_blank">Heracleia Bith. 1
         ANS 1944.100.36044
          </a>, 
         <a href="http://nomisma.org/id/assus" rel="nmo:hasMint" target="_blank">Assus 2
@@ -37,4 +49,5 @@
 * Newell's record includes the Philip V coins 
         as possibly part of the bd.
 </pre>
-   </div></div>
+   </div>
+</div>

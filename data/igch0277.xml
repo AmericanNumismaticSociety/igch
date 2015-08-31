@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0277"><h1 property="skos:prefLabel" lang="en">IGCH 0277</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0139">140 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0129">130 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0277">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0277</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0140">140 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0130">130 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.8077777778</span>
          <span property="geo:long">23.975</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 277 Keratea, Attica, 1954
     Burial: c. 140-130 B.C. (T)
@@ -17,4 +30,5 @@
     Disposition: New York
     Thompson, Athens, pp. 526 ff.
 </pre>
-   </div></div>
+   </div>
+</div>

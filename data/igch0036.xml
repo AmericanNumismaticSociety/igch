@@ -1,9 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0036"><h1 property="skos:prefLabel" lang="en">IGCH 0036</h1><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0036">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0036</h1>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.3016666667</span>
          <span property="geo:long">23.1369444444</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 36 Porto Cheli, Argolis 1970
     Burial: 5th cent. B.C. (Dengate) 
@@ -14,4 +21,5 @@
     Caskey, AJA 1971, p. 301
     Information from James Dengate
 </pre>
-   </div></div>
+   </div>
+</div>

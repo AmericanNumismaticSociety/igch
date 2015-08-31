@@ -1,5 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1878"><h1 property="skos:prefLabel" lang="en">IGCH 1878</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0489">490 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1878">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1878</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0490">490 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1878 South Italy, before 1900?
 (499)
     Burial: c. 490 B.C. (K)
@@ -23,4 +29,5 @@
         Italian hd., no. 1975 below, namely 
         before 1900
 </pre>
-   </div></div>
+   </div>
+</div>

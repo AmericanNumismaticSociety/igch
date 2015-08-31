@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch0857"><h1 property="skos:prefLabel" lang="en">IGCH 0857</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0274">275 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch0857">
+   <h1 property="skos:prefLabel" lang="en">IGCH 0857</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0275">275 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">42.4638888889</span>
          <span property="geo:long">25.5352777778</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">
 857 Prjaporec, Stara Zagora district, Bul-
 (121)     garia, 1926
@@ -13,4 +21,5 @@
     Disposition: dispersed
     Mouchmov, BIAB 4 (1926-27), p. 324
 </pre>
-   </div></div>
+   </div>
+</div>

@@ -1,13 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1967"><h1 property="skos:prefLabel" lang="en">IGCH 1967</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0279">280 B.C.</span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1967">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1967</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0280">280 B.C.</span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1967 South Italy, 1969 
     Burial: c. 280 B.C. (K) 
     Contents: 133+ AR
     <a href="http://nomisma.org/id/hyria_campania" rel="nmo:hasMint" target="_blank">Hyria: 1 st.</a>
-         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint" target="_blank">Neapolis: 3 st. </a>
+         <a href="http://nomisma.org/id/neapolis_campania" rel="nmo:hasMint"
+            target="_blank">Neapolis: 3 st. </a>
          <a href="http://nomisma.org/id/nola" rel="nmo:hasMint" target="_blank">Nola: 1 st.</a>
          <a href="http://nomisma.org/id/taras" rel="nmo:hasMint" target="_blank">Taras: 64 st.</a> 
-         <a href="http://nomisma.org/id/heracleia_lucaniae" rel="nmo:hasMint" target="_blank">Heracleia: 1 st. </a>
+         <a href="http://nomisma.org/id/heracleia_lucaniae" rel="nmo:hasMint"
+            target="_blank">Heracleia: 1 st. </a>
          <a href="http://nomisma.org/id/metapontum" rel="nmo:hasMint" target="_blank">Metapontum: 12 st.</a>
          <a href="http://nomisma.org/id/poseidonia" rel="nmo:hasMint" target="_blank">Poseidonia: 3 st. </a>
          <a href="http://nomisma.org/id/thurium" rel="nmo:hasMint" target="_blank">Thurium: 10 st. </a>
@@ -18,4 +26,5 @@
     Information from P. Franke, who has itemized 
         record
 </pre>
-   </div></div>
+   </div>
+</div>

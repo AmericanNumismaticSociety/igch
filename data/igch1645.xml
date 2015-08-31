@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1645"><h1 property="skos:prefLabel" lang="en">IGCH 1645</h1><span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0469">470 B.C.</span><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1645">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1645</h1>
+   <span property="nmo:hasClosingDate" datatype="xsd:gYear" content="-0470">470 B.C.</span>
+   <span rel="nmo:hasFindspot">
       <span property="geo:lat">30.58361111</span>
       <span property="geo:long">31.50694444</span>
-   </span><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+   </span>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1645 Zagazig (anc. Bubastis), 1901 
 (1178)
     Burial: c. 470 B.C. (Barron)
@@ -14,7 +21,8 @@
          <a href="http://nomisma.org/id/mende" rel="nmo:hasMint" target="_blank">Mende: 4 tetradr.</a> 
          <a href="http://nomisma.org/id/potidaea" rel="nmo:hasMint" target="_blank">Potidaea: 4 tetradr. </a>
          <a href="http://nomisma.org/id/terone" rel="nmo:hasMint" target="_blank">Terone: 3 tetradr.</a>
-         <a href="http://nomisma.org/id/thraco-macedonian" rel="nmo:hasMint" target="_blank">Thraco-Maced.: 2 tetradr. (Pegasus)
+         <a href="http://nomisma.org/id/thraco-macedonian" rel="nmo:hasMint"
+            target="_blank">Thraco-Maced.: 2 tetradr. (Pegasus)
             1 st. (centaur-nymph)</a> 
          <a href="http://nomisma.org/id/thasos" rel="nmo:hasMint" target="_blank">Thasos: 1 st.</a>
          <a href="http://nomisma.org/id/delphi" rel="nmo:hasMint" target="_blank">Delphi: 1 tridr. frag.</a>
@@ -42,4 +50,5 @@
     Kraay, NC 1956, pp. 50-1
     Barron, Samos, p. 44
 </pre>
-   </div></div>
+   </div>
+</div>

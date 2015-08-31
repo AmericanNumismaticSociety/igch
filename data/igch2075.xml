@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch2075"><h1 property="skos:prefLabel" lang="en">IGCH 2075</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0469">470 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0464">465 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div><span rel="nmo:hasFindspot">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch2075">
+   <h1 property="skos:prefLabel" lang="en">IGCH 2075</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0470">470 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0465">465 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div>
+      <span rel="nmo:hasFindspot">
          <span property="geo:lat">37.196466</span>
          <span property="geo:long">14.711351</span>
       </span>
-   </div><div property="dcterms:tableOfContents">
+   </div>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">2075 Casulla, Monte S. Basile, 15 km. W 
     of Leontini, 1933
     Burial: 470-65 B.C. (K)
@@ -18,4 +31,5 @@
     Note that the contents as listed amount to 
         exactly 100 dr.
 </pre>
-   </div></div>
+   </div>
+</div>

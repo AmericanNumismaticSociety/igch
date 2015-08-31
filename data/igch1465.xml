@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard" about="http://coinhoards.org/id/igch1465"><h1 property="skos:prefLabel" lang="en">IGCH 1465</h1><div property="nmo:hasClosingDate"><div typeof="dcterms:PerodOfTime"><span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0029">30 B.C.</span><span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0024">25 B.C.</span></div></div><a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
-   </a><div property="dcterms:tableOfContents">
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" typeof="nmo:Hoard"
+     about="http://coinhoards.org/id/igch1465">
+   <h1 property="skos:prefLabel" lang="en">IGCH 1465</h1>
+   <div property="nmo:hasClosingDate">
+      <div typeof="dcterms:PerodOfTime">
+         <span property="nmo:hasStartDate" datatype="xsd:gYear" content="-0030">30 B.C.</span>
+         <span property="nmo:hasEndDate" datatype="xsd:gYear" content="-0025">25 B.C.</span>
+      </div>
+   </div>
+   <a href="http://nomisma.org/id/igch" rel="dcterms:source" target="_blank">Adapted from Inventory of Greek Coin Hoards
+   </a>
+   <div property="dcterms:tableOfContents">
       <pre typeof="dcmitype:Collection">1465 Asia Minor, c. 1840-5 
 (72)
     Burial: 30-25 B.C. (M)
@@ -13,4 +24,5 @@
     Hoffmann, Le numismate 1862-4, nos. 2532-4 
     Bunbury, NC 1883, p. 199, note 21
 </pre>
-   </div></div>
+   </div>
+</div>
