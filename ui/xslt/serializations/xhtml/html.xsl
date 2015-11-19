@@ -19,7 +19,7 @@
 				<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/>
 				<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"/>
 
-				<script type="text/javascript" src="http://www.openlayers.org/api/OpenLayers.js"/>
+				<script type="text/javascript" src="http://openlayers.org/api/2.12/OpenLayers.js"/>
 				<script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3.9&amp;sensor=false"/>
 				<script type="text/javascript" src="{$display_path}ui/javascript/display_map_functions.js"/>
 				<link rel="stylesheet" href="{$display_path}ui/css/style.css"/>
