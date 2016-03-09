@@ -2,4 +2,6 @@
 <config>
 	<url>http://localhost:8080/orbeon/igch/</url>
 	<solr_published>http://localhost:8080/solr/igch/</solr_published>
+	<nomisma_sparql>http://nomisma.org/query</nomisma_sparql>
+	<archer_sparql>http://localhost:3030/archer/query</archer_sparql>
 </config>

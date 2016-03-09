@@ -19,9 +19,20 @@
 		<p:output name="data" id="request"/>
 	</p:processor>
 
+	<!-- execute related coins and annotations SPARQL queries -->
+	<!--<p:processor name="oxf:pipeline">
+		<p:input name="config" href="../../../models/sparql/coins.xpl"/>		
+		<p:output name="data" id="coins"/>
+	</p:processor>-->
+	
+	<p:processor name="oxf:pipeline">
+		<p:input name="config" href="../../../models/sparql/annotations.xpl"/>		
+		<p:output name="data" id="annotations"/>
+	</p:processor>
+
 	<p:processor name="oxf:unsafe-xslt">
 		<p:input name="request" href="#request"/>
-		<p:input name="data" href="aggregate('content', #data, ../../../../config.xml)"/>
+		<p:input name="data" href="aggregate('content', #data, ../../../../config.xml, #annotations)"/>
 		<p:input name="config" href="../../../../ui/xslt/serializations/xhtml/html.xsl"/>
 		<p:output name="data" id="model"/>
 	</p:processor>
