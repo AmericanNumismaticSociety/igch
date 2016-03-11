@@ -42,6 +42,13 @@ div#mapcontainer{
 	width:100%;
 	height:400px;
 }
+.thumbImage,
+.flickrthumb{
+	margin:5px;
+}
+.thumbImage > img{
+	max-width:120px;
+}
 /*
   ***************************************
   FOOTER

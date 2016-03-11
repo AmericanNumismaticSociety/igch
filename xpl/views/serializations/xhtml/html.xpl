@@ -20,10 +20,10 @@
 	</p:processor>
 
 	<!-- execute related coins and annotations SPARQL queries -->
-	<!--<p:processor name="oxf:pipeline">
-		<p:input name="config" href="../../../models/sparql/coins.xpl"/>		
-		<p:output name="data" id="coins"/>
-	</p:processor>-->
+	<p:processor name="oxf:pipeline">
+		<p:input name="config" href="../../../models/sparql/types.xpl"/>		
+		<p:output name="data" id="types"/>
+	</p:processor>
 	
 	<p:processor name="oxf:pipeline">
 		<p:input name="config" href="../../../models/sparql/annotations.xpl"/>		
@@ -32,7 +32,7 @@
 
 	<p:processor name="oxf:unsafe-xslt">
 		<p:input name="request" href="#request"/>
-		<p:input name="data" href="aggregate('content', #data, ../../../../config.xml, #annotations)"/>
+		<p:input name="data" href="aggregate('content', #data, ../../../../config.xml, #annotations, #types)"/>
 		<p:input name="config" href="../../../../ui/xslt/serializations/xhtml/html.xsl"/>
 		<p:output name="data" id="model"/>
 	</p:processor>
