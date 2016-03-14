@@ -307,7 +307,7 @@ OPTIONAL {?object nmo:hasAxis ?axis}
 		</xsl:variable>
 		
 		<!-- HTML output -->
-		<h3>Associated Types</h3>
+		<h3>Associated Types <small>(max 20)</small></h3>
 		<div style="margin-bottom:10px;">			
 			<a href="http://nomisma.org/query?query={encode-for-uri(replace($listTypes-query, 'URI', concat('http://coinhoards.org/id/', $id)))}&amp;output=csv" title="Download CSV" class="btn btn-primary" style="margin-left:10px">
 				<span class="glyphicon glyphicon-download"/>Download CSV of Types</a>

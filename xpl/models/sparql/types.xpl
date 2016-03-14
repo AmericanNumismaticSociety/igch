@@ -48,7 +48,7 @@ SELECT ?type ?label ?source ?sourceLabel ?startDate ?endDate ?mint ?mintLabel ?d
    	?mint skos:prefLabel ?mintLabel FILTER(langMatches(lang(?mintLabel), "en"))}
    OPTIONAL {?type nmo:hasDenomination ?den . 
    	?den skos:prefLabel ?denLabel FILTER(langMatches(lang(?denLabel), "en"))}
-}]]></xsl:variable>
+} LIMIT 20]]></xsl:variable>
 
 				<xsl:variable name="service">
 					<xsl:value-of select="concat($sparql_endpoint, '?query=', encode-for-uri(replace($query, 'URI', $uri)), '&amp;output=xml')"/>					
