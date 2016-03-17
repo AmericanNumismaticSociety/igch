@@ -1,5 +1,16 @@
 $(document).ready(function () {
-	var id = $('title').attr('id');	
+	$('a.thumbImage').fancybox({
+		beforeShow: function () {
+			this.title = '<a href="' + this.element.attr('id') + '">' + this.element.attr('title') + '</a>'
+		},
+		helpers: {
+			title: {
+				type: 'inside'
+			}
+		}
+	});
+	
+	var id = $('title').attr('id');
 	initialize_map(id);
 });
 
@@ -74,7 +85,7 @@ function initialize_map(id) {
 	
 	function onFeatureSelect(event) {
 		var feature = event.feature;
-		message = '<div><h4>' + feature.attributes.name + '</h4>' + (feature.attributes.description != null ? feature.attributes.description : '') + '</div>';
+		message = '<div><h4>' + feature.attributes.name + '</h4>' + (feature.attributes.description != null ? feature.attributes.description: '') + '</div>';
 		popup = new OpenLayers.Popup.FramedCloud("id", event.feature.geometry.bounds.getCenterLonLat(), null, message, null, true, onPopupClose);
 		event.popup = popup;
 		map.addPopup(popup);
