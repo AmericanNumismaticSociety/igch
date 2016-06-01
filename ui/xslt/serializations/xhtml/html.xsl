@@ -19,8 +19,9 @@
 				<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/>
 				<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"/>
 
-				<script type="text/javascript" src="http://openlayers.org/api/2.12/OpenLayers.js"/>
-				<script type="text/javascript" src="http://maps.google.com/maps/api/js?v=3.9&amp;sensor=false"/>
+				<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css"/>
+				<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"/>					
+				<script type="text/javascript" src="{$display_path}ui/javascript/leaflet.ajax.min.js"/>
 				<script type="text/javascript" src="{$display_path}ui/javascript/jquery.fancybox.pack.js"/>
 				<script type="text/javascript" src="{$display_path}ui/javascript/display_map_functions.js"/>
 				<link rel="stylesheet" href="{$display_path}ui/css/jquery.fancybox.css"/>
@@ -73,8 +74,23 @@
 						<li>
 							<a href="{$id}.kml">KML</a>
 						</li>
+						<li>
+							<a href="{$id}.geoJSON">geoJSON</a>
+						</li>
 					</ul>
 					<div id="mapcontainer"/>
+					<div style="margin:10px 0">
+						<table>
+							<tbody>
+								<tr>
+									<td style="background-color:#6992fd;border:2px solid black;width:50px;"/>
+									<td style="width:100px">Mints</td>
+									<td style="background-color:#d86458;border:2px solid black;width:50px;"/>
+									<td style="width:100px">Hoard</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
 				</div>
 			</div>
 			<xsl:if test="/content/res:sparql[descendant::res:result]">
@@ -97,6 +113,11 @@
 			<xsl:apply-templates select="xhtml:span[@rel='nmo:hasFindspot']"/>
 			<xsl:apply-templates select="*[@property='nmo:hasClosingDate']"/>
 			<xsl:copy-of select="xhtml:div[@property='dcterms:tableOfContents']"/>
+		</div>
+		<div style="display:none">
+			<span id="mapboxKey">
+				<xsl:value-of select="//config/mapboxKey"/>
+			</span>
 		</div>
 	</xsl:template>
 

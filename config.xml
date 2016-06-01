@@ -4,4 +4,5 @@
 	<solr_published>http://localhost:8080/solr/igch/</solr_published>
 	<nomisma_sparql>http://nomisma.org/query</nomisma_sparql>
 	<archer_sparql>http://localhost:3030/archer/query</archer_sparql>
+	<mapboxKey>pk.eyJ1IjoiZXdnMTE4IiwiYSI6IjViNDRlMzgxMjkyMDg0MGIxYTNlMzlkMjk1ZTI5Yzg5In0.1FU6cKAs4-vPMroB_l_0lA</mapboxKey>
 </config>

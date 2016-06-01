@@ -15,88 +15,80 @@ $(document).ready(function () {
 });
 
 function initialize_map(id) {
-	var args = OpenLayers.Util.getParameters();
+	var mapboxKey = $('#mapboxKey').text();
 	
-	map = new OpenLayers.Map('mapcontainer', {
-		controls:[
-		new OpenLayers.Control.PanZoomBar(),
-		new OpenLayers.Control.Navigation(),
-		new OpenLayers.Control.ScaleLine(),
-		new OpenLayers.Control.LayerSwitcher({
-			'ascending': true
-		})]
+	var mb_physical = L.tileLayer(
+	'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=' + mapboxKey, {
+		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+		'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+		'Imagery © <a href="http://mapbox.com">Mapbox</a>', id: 'mapbox.streets', maxZoom: 10
 	});
 	
-	map.addLayer(new OpenLayers.Layer.Google(
-	"Google Physical", {
-		type: google.maps.MapTypeId.TERRAIN
-	}));
-	
-	//google physical
-	var imperium = new OpenLayers.Layer.XYZ(
-	"Imperium Romanum",[
-	"http://dare.ht.lu.se/tiles/imperium/${z}/${x}/${y}.png"], {
-		sphericalMercator: true,
-		isBaseLayer: true,
-		numZoomLevels: 12
+	var imperium = L.tileLayer(
+	'http://dare.ht.lu.se/tiles/imperium/{z}/{x}/{y}.png', {
+		maxZoom: 12,
+		attribution: 'Powered by <a href="http://leafletjs.com/">Leaflet</a>. Map base: <a href="http://dare.ht.lu.se/" title="Digital Atlas of the Roman Empire, Department of Archaeology and Ancient History, Lund University, Sweden">DARE</a>, 2015 (cc-by-sa).'
 	});
 	
-	map.addLayer(imperium);
-	
-	//point for coin or hoard KML
-	var kmlLayer = new OpenLayers.Layer.Vector('KML', {
-		eventListeners: {
-			'loadend': kmlLoaded
-		},
-		strategies:[
-		new OpenLayers.Strategy.Fixed()],
-		protocol: new OpenLayers.Protocol.HTTP({
-			url: id + '.kml',
-			format: new OpenLayers.Format.KML({
-				extractStyles: true,
-				extractAttributes: true
-			})
-		})
+	var map = new L.Map('mapcontainer', {
+		center: new L.LatLng(0, 0),
+		zoom: 4,
+		layers:[mb_physical]
 	});
 	
-	//add origin point last
-	map.addLayer(kmlLayer);
+	//add mintLayer from AJAX
+	var overlay = L.geoJson.ajax(id + '.geojson', {
+		onEachFeature: onEachFeature,
+		pointToLayer: renderPoints
+	}).addTo(map);
 	
-	function kmlLoaded() {
-		map.zoomToExtent(kmlLayer.getDataExtent());
-		//map.zoomTo('6');
+	//add controls
+	var baseMaps = {
+		"Streets": mb_physical,
+		"Imperium": imperium
+	};
+	
+	var overlayMaps = {
+		"Distribution": overlay
+	};
+	
+	L.control.layers(baseMaps, overlayMaps).addTo(map);
+	
+	//zoom to extend on Ajax loaded
+	overlay.on('data:loaded', function () {
+		map.fitBounds(overlay.getBounds());
+	}.bind(this));
+	
+	/*****
+	 * Features for manipulating layers
+	 *****/
+	function renderPoints(feature, latlng) {
+		var fillColor;
+		switch (feature.properties.type) {
+			case 'mint':
+			fillColor = '#6992fd';
+			break;
+			case 'findspot':
+			fillColor = '#d86458';
+		}
+		
+		return new L.CircleMarker(latlng, {
+			radius: 5,
+			fillColor: fillColor,
+			color: "#000",
+			weight: 1,
+			opacity: 1,
+			fillOpacity: 0.6
+		});
 	}
 	
-	/*************** OBJECT KML FEATURES ******************/
-	objectControl = new OpenLayers.Control.SelectFeature([kmlLayer], {
-		clickout: true,
-		//toggle: true,
-		multiple: false,
-		hover: false,
-		//toggleKey: "ctrlKey",
-		//multipleKey: "shiftKey"
-	});
-	
-	map.addControl(objectControl);
-	objectControl.activate();
-	kmlLayer.events.on({
-		"featureselected": onFeatureSelect, "featureunselected": onFeatureUnselect
-	});
-	
-	function onFeatureSelect(event) {
-		var feature = event.feature;
-		message = '<div><h4>' + feature.attributes.name + '</h4>' + (feature.attributes.description != null ? feature.attributes.description: '') + '</div>';
-		popup = new OpenLayers.Popup.FramedCloud("id", event.feature.geometry.bounds.getCenterLonLat(), null, message, null, true, onPopupClose);
-		event.popup = popup;
-		map.addPopup(popup);
-	}
-	
-	function onPopupClose(event) {
-		map.removePopup(map.popups[0]);
-	}
-	
-	
-	function onFeatureUnselect(event) {
-		map.removePopup(map.popups[0]);
+	function onEachFeature (feature, layer) {
+		var str;
+		if (feature.properties.hasOwnProperty('uri') == false) {
+			str = feature.properties.name;
+		} else {
+			str = feature.properties.name + ' <a href="' + feature.properties.uri + '" target="_blank"><span class="glyphicon glyphicon-new-window"/></a>';
+		}
+		layer.bindPopup(str);
 	}
 }

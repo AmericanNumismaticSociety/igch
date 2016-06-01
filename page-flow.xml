@@ -28,6 +28,7 @@
 	<!--<page path="/igch/id/(.*)\.ttl" model="xpl/models/rdf/get-id.xpl" view="xpl/views/serializations/rdf/ttl.xpl"/>
 		<page path="/igch/id/(.*)\.jsonld" model="xpl/models/rdf/get-id.xpl" view="xpl/views/serializations/rdf/json-ld.xpl"/>-->
 	<page path="/igch/id/(.*)\.solr" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/solr.xpl"/>
+	<page path="/igch/id/(.*)\.geojson" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/geojson.xpl"/>
 	<page path="/igch/id/(.*)\.kml" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/kml.xpl"/>
 	<page path="/igch/id/(.*)\.rdf" model="xpl/models/xhtml/get-id.xpl" view="xpl/views/serializations/xhtml/rdf.xpl"/>
 	<page path="/igch/id/(.*)\.xml" view="xpl/models/xhtml/get-id.xpl" />
