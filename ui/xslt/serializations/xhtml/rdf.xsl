@@ -28,22 +28,24 @@
 			</xsl:if>
 
 			<xsl:choose>
-				<xsl:when test="*[@property='nmo:hasClosingDate']/@content">
+				<xsl:when test="*[@property='nmo:hasClosingDate']/@content castable as xs:gYear">
 					<nmo:hasClosingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">
 						<xsl:value-of select="*[@property='nmo:hasClosingDate']/@content"/>
 					</nmo:hasClosingDate>
 				</xsl:when>
 				<xsl:when test="*[@property='nmo:hasClosingDate']/xhtml:div">
-					<nmo:hasClosingDate>
-						<dcterms:PeriodOfTime>
-							<nmo:hasStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">
-								<xsl:value-of select="descendant::*[@property='nmo:hasStartDate']/@content"/>
-							</nmo:hasStartDate>
-							<nmo:hasStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">
-								<xsl:value-of select="descendant::*[@property='nmo:hasEndDate']/@content"/>
-							</nmo:hasStartDate>
-						</dcterms:PeriodOfTime>
-					</nmo:hasClosingDate>
+					<xsl:if test="descendant::*[@property='nmo:hasStartDate']/@content castable as xs:gYear and descendant::*[@property='nmo:hasEndDate']/@content castable as xs:gYear">
+						<nmo:hasClosingDate>
+							<dcterms:PeriodOfTime>
+								<nmo:hasStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">
+									<xsl:value-of select="descendant::*[@property='nmo:hasStartDate']/@content"/>
+								</nmo:hasStartDate>
+								<nmo:hasEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">
+									<xsl:value-of select="descendant::*[@property='nmo:hasEndDate']/@content"/>
+								</nmo:hasEndDate>
+							</dcterms:PeriodOfTime>
+						</nmo:hasClosingDate>
+					</xsl:if>
 				</xsl:when>
 			</xsl:choose>
 
