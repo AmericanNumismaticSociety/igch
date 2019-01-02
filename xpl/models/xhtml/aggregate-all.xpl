@@ -20,16 +20,14 @@
 		<p:input name="data" href="#directory-scan"/>
 		<p:input name="config">
 			<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-				<xsl:template match="/">				
-					<xsl:variable name="path" select="/directory/@path"/>
-					
+				<xsl:template match="/">									
 					<html xmlns="http://www.w3.org/1999/xhtml">
 						<head>
 							<title>aggregation</title>
 						</head>
 						<body>
-							<xsl:for-each select="//file/@path">
-								<xsl:copy-of select="document(concat('file://', $path, '/', .))/*"/>
+							<xsl:for-each select="//file">
+								<xsl:copy-of select="document(concat('oxf:/apps/igch/data/', @name))/*"/>
 							</xsl:for-each>
 						</body>
 					</html>
