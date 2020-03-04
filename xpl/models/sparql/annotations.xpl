@@ -39,10 +39,11 @@ SELECT ?target ?title ?bookTitle ?source ?abstract ?creator ?name ?thumbnail ?ab
           dcterms:title ?title}
 UNION {?source dcterms:subject <URI>}
   ?source dcterms:title ?bookTitle
-  OPTIONAL {?source dcterms:creator ?creator}
+  OPTIONAL {?source dcterms:creator ?creator
+  	OPTIONAL {?creator foaf:name ?name}}
   OPTIONAL {?source foaf:thumbnail ?thumbnail}
   OPTIONAL {?source dcterms:abstract ?abstract}
-  OPTIONAL {?creator foaf:name ?name}}]]>
+}]]>
 				</xsl:variable>
 
 				<xsl:variable name="service">
