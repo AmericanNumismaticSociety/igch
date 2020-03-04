@@ -181,25 +181,33 @@
 					</div>
 					<div class="col-md-{if ($results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='thumbnail']/res:uri) then '8' else '12'}">
 						<dl class="dl-horizontal">
-							<dt>Sections</dt>
-							<dd>
-								<xsl:apply-templates select="$results/res:result[res:binding[@name='source']/res:uri = $uri]" mode="annotations"/>
-							</dd>
-							<dt>Creator</dt>
-							<dd>
-								<xsl:choose>
-									<xsl:when test="$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='name']/res:literal">
-										<a href="{$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='creator']/res:uri}">
-											<xsl:value-of select="$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='name']/res:literal"/>
-										</a>
-									</xsl:when>
-									<xsl:otherwise>
-										<a href="{$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='creator']/res:uri}">
-											<xsl:value-of select="$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='creator']/res:uri"/>
-										</a>
-									</xsl:otherwise>
-								</xsl:choose>
-							</dd>
+							
+							<xsl:if test="$results/res:result[res:binding[@name='source']/res:uri = $uri][res:binding[@name='target']]">
+								<dt>Sections</dt>
+								<dd>
+									<xsl:apply-templates select="$results/res:result[res:binding[@name='source']/res:uri = $uri]" mode="annotations"/>
+								</dd>
+							</xsl:if>
+							
+							
+							<!-- creator is now optional because some archival documents (not books or notebooks in Digital Library/Archer) do not have a creator -->
+							<xsl:if test="$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='creator']">
+								<dt>Creator</dt>
+								<dd>
+									<xsl:choose>
+										<xsl:when test="$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='name']/res:literal">
+											<a href="{$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='creator']/res:uri}">
+												<xsl:value-of select="$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='name']/res:literal"/>
+											</a>
+										</xsl:when>
+										<xsl:otherwise>
+											<a href="{$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='creator']/res:uri}">
+												<xsl:value-of select="$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='creator']/res:uri"/>
+											</a>
+										</xsl:otherwise>
+									</xsl:choose>
+								</dd>
+							</xsl:if>							
 							<xsl:if test="$results/res:result[res:binding[@name='source']/res:uri = $uri][1]/res:binding[@name='abstract']/res:literal">
 								<dt>Abstract</dt>
 								<dd>
